@@ -1,0 +1,43 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>存储饲料，促进生产。</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302610</GUID>
+      <Text>动物饲养</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302611</GUID>
+      <Text>饥饿的动物</Text>
+    </Text>
+    <Text>
+      <GUID>1500302340</GUID>
+      <Text>大型制酪厂</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302615</GUID>
+      <Text>工业化奶牛场</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302616</GUID>
+      <Text>先进牛棚</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302617</GUID>
+      <Text>筒仓 (牛饲料)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302619</GUID>
+      <Text>暂停料仓，然后再次打开，以激活进料缓冲。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,34 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302600</GUID>
+      <Text>動物への餌やり</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302601</GUID>
+      <Text>空腹の動物たち</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302602</GUID>
+      <Text>工業用養鶏場</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302603</GUID>
+      <Text>進化した鶏舎</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302604</GUID>
+      <Text>サイロ（チキンフード）</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302606</GUID>
+      <Text>家畜の餌を貯蔵し、生産を可能にする。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500302600</GUID>
+      <Text>Gefütterte Tiere</Text>
+    </Text>
+    <Text>
+      <GUID>1500302601</GUID>
+      <Text>Hungrige Tiere</Text>
+    </Text>
+    <Text>
+      <GUID>1500302602</GUID>
+      <Text>Industrielle Hühnerfarm</Text>
+    </Text>
+    <Text>
+      <GUID>1500302603</GUID>
+      <Text>Großer Hühnerstall</Text>
+    </Text>
+    <Text>
+      <GUID>1500302604</GUID>
+      <Text>Silo (Hühnerfutter)</Text>
+    </Text>
+    <Text>
+      <GUID>1500302606</GUID>
+      <Text>Lagert das Tierfutter. Ohne Futter wird nichts produziert.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,34 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302600</GUID>
+      <Text>Karmienie zwierząt</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302601</GUID>
+      <Text>Głodne zwierzęta</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302602</GUID>
+      <Text>Przemysłowa ferma kurczaków</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302603</GUID>
+      <Text>Zaawansowany kurnik</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302604</GUID>
+      <Text>Silos (karma dla kurczaków)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302606</GUID>
+      <Text>Przechowuje żywność dla zwierząt i umożliwia produkcję.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

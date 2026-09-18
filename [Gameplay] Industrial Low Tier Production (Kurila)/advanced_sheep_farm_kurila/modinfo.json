@@ -1,0 +1,56 @@
+{
+  "Version": "1.4.2",
+  "ModID": "advanced_sheep_farm_kurila",
+  "DeprecateIds": [],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions",
+    "RickyTaludas_OWHacienda"
+  ],
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Sub-Mod",
+    "Chinese": "Sub-Mod",
+    "French": "Sub-Mod",
+    "German": "Sub-Mod",
+    "Italian": "Sub-Mod",
+    "Japanese": "Sub-Mod",
+    "Korean": "Sub-Mod",
+    "Polish": "Sub-Mod",
+    "Russian": "Sub-Mod",
+    "Spanish": "Sub-Mod",
+    "Taiwanese": "Sub-Mod"
+  },
+  "ModName": {
+    "Chinese": "Advanced Sheep Farm (Kurila)",
+    "English": "Advanced Sheep Farm (Kurila)",
+    "French": "Advanced Sheep Farm (Kurila)",
+    "German": "Advanced Sheep Farm (Kurila)",
+    "Italian": "Advanced Sheep Farm (Kurila)",
+    "Japanese": "Advanced Sheep Farm (Kurila)",
+    "Korean": "Advanced Sheep Farm (Kurila)",
+    "Polish": "Advanced Sheep Farm (Kurila)",
+    "Russian": "Advanced Sheep Farm (Kurila)",
+    "Spanish": "Advanced Sheep Farm (Kurila)",
+    "Taiwanese": "Advanced Sheep Farm (Kurila)"
+  },
+  "Description": {
+    "English": "file::README.md",
+    "German": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

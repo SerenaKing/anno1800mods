@@ -1,0 +1,71 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1404423011</GUID>
+      <Text>Producción de pan avanzada</Text>
+    </Text>
+    <Text>
+      <GUID>1404423016</GUID>
+      <Text>Producción avanzada de monos de trabajo</Text>
+    </Text>
+    <Text>
+      <GUID>1404423021</GUID>
+      <Text>Producción avanzada de licor</Text>
+    </Text>
+    <Text>
+      <GUID>1404423026</GUID>
+      <Text>Producción avanzada de madera</Text>
+    </Text>
+    <Text>
+      <GUID>1404423028</GUID>
+      <Text>Producción avanzada de madera</Text>
+    </Text>
+    <Text>
+      <GUID>1404423031</GUID>
+      <Text>Producción avanzada de velas</Text>
+    </Text>
+    <Text>
+      <GUID>1500303051</GUID>
+      <Text>Producción avanzada de cuerdas</Text>
+    </Text>
+    <Text>
+      <GUID>1404423036</GUID>
+      <Text>Producción avanzada de salchichas</Text>
+    </Text>
+    <Text>
+      <GUID>1404423041</GUID>
+      <Text>Producción de acero avanzada</Text>
+    </Text>
+    <Text>
+      <GUID>1404423043</GUID>
+      <Text>Producción avanzada</Text>
+    </Text>
+    <Text>
+      <GUID>1404423044</GUID>
+      <Text>Cadenas productivas avanzadas</Text>
+    </Text>
+    <Text>
+      <GUID>1404423052</GUID>
+      <Text>Producción avanzada de jabón</Text>
+    </Text>
+    <Text>
+      <GUID>1500301107</GUID>
+      <Text>Producción avanzada de cerveza</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302341</GUID>
+      <Text>Producción avanzada de queso</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302751</GUID>
+      <Text>Producción avanzada de ladrillos</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500301059</GUID>
+      <Text>Industrial Production (Kurila)</Text>
+    </Text>
+  </ModOp>
+</ModOps>

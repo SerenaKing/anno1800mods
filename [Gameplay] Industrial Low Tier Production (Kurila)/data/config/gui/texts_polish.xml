@@ -1,0 +1,71 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1404423011</GUID>
+      <Text>Zaawansowana produkcja chleba</Text>
+    </Text>
+    <Text>
+      <GUID>1404423016</GUID>
+      <Text>Zaawansowana produkcja ubrań roboczych</Text>
+    </Text>
+    <Text>
+      <GUID>1404423021</GUID>
+      <Text>Zaawansowana produkcja alkoholu</Text>
+    </Text>
+    <Text>
+      <GUID>1404423026</GUID>
+      <Text>Zaawansowana produkcja desek</Text>
+    </Text>
+    <Text>
+      <GUID>1404423028</GUID>
+      <Text>Zaawansowana produkcja desek</Text>
+    </Text>
+    <Text>
+      <GUID>1404423031</GUID>
+      <Text>Zaawansowana produkcja żagli</Text>
+    </Text>
+    <Text>
+      <GUID>1500303051</GUID>
+      <Text>Zaawansowana produkcja lin</Text>
+    </Text>
+    <Text>
+      <GUID>1404423036</GUID>
+      <Text>Zaawansowana produkcja kiełbasy</Text>
+    </Text>
+    <Text>
+      <GUID>1404423041</GUID>
+      <Text>Zaawansowana produkcja stali</Text>
+    </Text>
+    <Text>
+      <GUID>1404423043</GUID>
+      <Text>Zaawansowana produkcja</Text>
+    </Text>
+    <Text>
+      <GUID>1404423044</GUID>
+      <Text>Zaawansowane łańcuchy produkcyjne</Text>
+    </Text>
+    <Text>
+      <GUID>1404423052</GUID>
+      <Text>Zaawansowana produkcja mydła</Text>
+    </Text>
+    <Text>
+      <GUID>1500301107</GUID>
+      <Text>Zaawansowana produkcja piwa</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302341</GUID>
+      <Text>Zaawansowana produkcja sera</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302751</GUID>
+      <Text>Zaawansowana produkcja cegieł</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500301059</GUID>
+      <Text>Industrial Production (Kurila)</Text>
+    </Text>
+  </ModOp>
+</ModOps>

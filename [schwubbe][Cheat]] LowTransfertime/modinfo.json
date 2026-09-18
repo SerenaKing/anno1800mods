@@ -1,0 +1,50 @@
+{
+  "Version": "1.2",
+  "ModID": "Low_Transfer_Times",
+  "LoadAfterIds": [
+    "new_horizons_session", 
+    "KreitaniTaludas_Kingsgrove", 
+    "Taludas_NewWorldExpanded_Mayabeque"],
+  "Category": {
+    "Chinese": "Cheat",
+    "English": "Cheat",
+    "French": "Cheat",
+    "German": "Cheat",
+    "Italian": "Cheat",
+    "Japanese": "Cheat",
+    "Korean": "Cheat",
+    "Polish": "Cheat",
+    "Russian": "Cheat",
+    "Spanish": "Cheat",
+    "Taiwanese": "Cheat"
+  },
+  "ModName": {
+    "Chinese": "Low Transfer Times",
+    "English": "Low Transfer Times",
+    "French": "Low Transfer Times",
+    "German": "Low Transfer Times",
+    "Italian": "Low Transfer Times",
+    "Japanese": "Low Transfer Times",
+    "Korean": "Low Transfer Times",
+    "Polish": "Low Transfer Times",
+    "Russian": "Low Transfer Times",
+    "Spanish": "Low Transfer Times",
+    "Taiwanese": "Low Transfer Times"
+  },
+  "Description": {
+    "Chinese": "将会话之间的传输时间减少 99%。",
+    "English": "Reduces transfer times between sessions by 99 percent.",
+    "French": "Réduit les temps de transfert entre les sessions de 99 %.",
+    "German": "Reduziert die Transferzeiten zwischen den Sessions um 99 Prozent.",
+    "Italian": "Riduce del 99 percento i tempi di trasferimento tra le sessioni.",
+    "Japanese": "セッション間の転送時間を 99 パーセント削減します。",
+    "Korean": "세션 간 전환 시간을 99% 단축합니다.",
+    "Polish": "Skraca czas transferu między sesjami o 99 procent.",
+    "Russian": "Сокращает время перехода между сеансами на 99 процентов.",
+    "Spanish": "Reduce los tiempos de transferencia entre sesiones en un 99 por ciento.",
+    "Taiwanese": "将会话之间的传输时间减少 99%。"
+  },
+  "CreatorName": "schwubbe",
+  "CreatorContact": "https://discord.gg/4XQTznE"
+  
+}

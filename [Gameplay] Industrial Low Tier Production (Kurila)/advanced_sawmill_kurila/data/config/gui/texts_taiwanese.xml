@@ -1,0 +1,9 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423025</GUID>
+      <Text>Advanced Sawmill</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>家畜の餌を貯蔵し、生産を可能にする。</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300957</GUID>
+      <Text>動物への餌やり</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300958</GUID>
+      <Text>空腹の動物たち</Text>
+    </Text>
+    <Text>
+      <GUID>1404423061</GUID>
+      <Text>Milking Parlour</Text>
+    </Text>
+    <Text>
+      <GUID>1404423067</GUID>
+      <Text>Produces Milk.</Text>
+    </Text>
+    <Text>
+      <GUID>1404423065</GUID>
+      <Text>Industrial Cattle Farm</Text>
+    </Text>
+    <Text>
+      <GUID>1404423066</GUID>
+      <Text>アドバンスド・キャトル・ステイ</Text>
+    </Text>
+    <Text>
+      <GUID>1404423064</GUID>
+      <Text>サイロ（牛の餌）</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300953</GUID>
+      <Text>サイロを一時停止し、再度スイッチを入れるとフィードバフが作動します。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

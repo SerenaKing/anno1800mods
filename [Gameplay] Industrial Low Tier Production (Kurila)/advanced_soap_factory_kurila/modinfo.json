@@ -1,0 +1,55 @@
+{
+  "Version": "1.2",
+  "ModID": "advanced_soap_factory_kurila",
+  "DeprecateIds": [],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+  ],
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Sub-Mod",
+    "Chinese": "Sub-Mod",
+    "French": "Sub-Mod",
+    "German": "Sub-Mod",
+    "Italian": "Sub-Mod",
+    "Japanese": "Sub-Mod",
+    "Korean": "Sub-Mod",
+    "Polish": "Sub-Mod",
+    "Russian": "Sub-Mod",
+    "Spanish": "Sub-Mod",
+    "Taiwanese": "Sub-Mod"
+  },
+  "ModName": {
+    "Chinese": "Advanced Soap Factory (Kurila)",
+    "English": "Advanced Soap Factory (Kurila)",
+    "French": "Advanced Soap Factory (Kurila)",
+    "German": "Advanced Soap Factory (Kurila)",
+    "Italian": "Advanced Soap Factory (Kurila)",
+    "Japanese": "Advanced Soap Factory (Kurila)",
+    "Korean": "Advanced Soap Factory (Kurila)",
+    "Polish": "Advanced Soap Factory (Kurila)",
+    "Russian": "Advanced Soap Factory (Kurila)",
+    "Spanish": "Advanced Soap Factory (Kurila)",
+    "Taiwanese": "Advanced Soap Factory (Kurila)"
+  },
+  "Description": {
+    "English": "file::README.md",
+    "German": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

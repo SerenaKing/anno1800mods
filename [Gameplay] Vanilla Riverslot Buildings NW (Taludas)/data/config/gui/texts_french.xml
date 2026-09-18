@@ -1,0 +1,96 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002376</GUID>
+      <Text>Collecteur d'argile</Text>
+    </Text>
+    <Text>
+      <GUID>1999002375</GUID>
+      <Text>Zone de collecte d'argile</Text>
+    </Text>
+    <Text>
+      <GUID>1999002384</GUID>
+      <Text>Zone d'huile de poisson fluviale</Text>
+    </Text>
+    <Text>
+      <GUID>1999002385</GUID>
+      <Text>Fabrique d'huile de poisson fluviale</Text>
+    </Text>
+    <Text>
+      <GUID>1999002386</GUID>
+      <Text>[AssetData(120042) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999002389</GUID>
+      <Text>Abondance de poissons: &lt;i&gt;Paiche&lt;/i&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1999002391</GUID>
+      <Text>Moules d'eau douce</Text>
+    </Text>
+    <Text>
+      <GUID>1999002392</GUID>
+      <Text>Zone de ferme perlière de rivière</Text>
+    </Text>
+    <Text>
+      <GUID>1999002393</GUID>
+      <Text>Ferme perlière de rivière</Text>
+    </Text>
+    <Text>
+      <GUID>1999002394</GUID>
+      <Text>[AssetData(1010256) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003200</GUID>
+      <Text>Zone d'exploitation aurifère</Text>
+    </Text>
+    <Text>
+      <GUID>1999003201</GUID>
+      <Text>Exploitation aurifère</Text>
+    </Text>
+    <Text>
+      <GUID>1999003202</GUID>
+      <Text>[AssetData(1010233) Text]</Text>
+    </Text>
+        <Text>
+      <GUID>1999003213</GUID>
+      <Text>Zone de scierie hydraulique</Text>
+    </Text>
+    <Text>
+      <GUID>1999003214</GUID>
+      <Text>Scierie hydraulique</Text>
+    </Text>
+    <Text>
+      <GUID>1999003215</GUID>
+      <Text>[AssetData(500091) Text]</Text>
+    </Text>
+        <Text>
+      <GUID>1999003223</GUID>
+      <Text>Zone de centrale hydroélectrique</Text>
+    </Text>
+    <Text>
+      <GUID>1999003224</GUID>
+      <Text>Centrale hydroélectrique</Text>
+    </Text>
+    <Text>
+      <GUID>1999003220</GUID>
+      <Text>Fournit de l'électricité propre en utilisant la puissance du fleuve en furie.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003221</GUID>
+      <Text>Toutes les centrales hydroélectriques</Text>
+    </Text>
+    <Text>
+      <GUID>1999003226</GUID>
+      <Text>Toutes les Scieries hydrauliques</Text>
+    </Text>
+    <Text>
+      <GUID>1999003233</GUID>
+      <Text>Tous les bâtiments fluviaux</Text>
+    </Text>
+    <Text>
+      <GUID>1999003235</GUID>
+      <Text>Contient tous les bâtiments disponibles pour les nouveaux emplacements fluviaux.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

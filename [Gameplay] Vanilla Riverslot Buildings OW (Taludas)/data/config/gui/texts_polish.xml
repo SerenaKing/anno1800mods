@@ -1,0 +1,104 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002372</GUID>
+      <Text>Zbieracz gliny</Text>
+    </Text>
+    <Text>
+      <GUID>1999002373</GUID>
+      <Text>Strefa zbieracza gliny</Text>
+    </Text>
+    <Text>
+      <GUID>1999003217</GUID>
+      <Text>Obfitość ryb: &lt;i&gt;Trout&lt;/i&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1999002379</GUID>
+      <Text>Strefa rzecznego poławiacza ryb</Text>
+    </Text>
+    <Text>
+      <GUID>1999002380</GUID>
+      <Text>Rzeczny poławiacz ryb</Text>
+    </Text>
+    <Text>
+      <GUID>1999002381</GUID>
+      <Text>[AssetData(1010200) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003205</GUID>
+      <Text>Strefa młynu wodnego</Text>
+    </Text>
+    <Text>
+      <GUID>1999003206</GUID>
+      <Text>Młyn wodny</Text>
+    </Text>
+    <Text>
+      <GUID>1999003209</GUID>
+      <Text>Strefa tartaku wodnego</Text>
+    </Text>
+    <Text>
+      <GUID>1999003210</GUID>
+      <Text>Tartak wodny</Text>
+    </Text>
+    <Text>
+      <GUID>1999003211</GUID>
+      <Text>[AssetData(500091) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003218</GUID>
+      <Text>Strefa elektrowni wodnej</Text>
+    </Text>
+    <Text>
+      <GUID>1999003219</GUID>
+      <Text>Elektrownia wodna</Text>
+    </Text>
+    <Text>
+      <GUID>1999003220</GUID>
+      <Text>Zapewnia czystą energię elektryczną dzięki sile prądu rzeki.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003221</GUID>
+      <Text>Wszystkie elektrownie wodne</Text>
+    </Text>
+    <Text>
+      <GUID>1999003226</GUID>
+      <Text>Wszystkie tartaki wodne</Text>
+    </Text>
+    <Text>
+      <GUID>1999003232</GUID>
+      <Text>Wszystkie budynki nadrzeczne</Text>
+    </Text>
+    <Text>
+      <GUID>1999003234</GUID>
+      <Text>Zawiera wszyskie budynki możliwe do konstrukcji na nowych polach rzecznych</Text>
+    </Text>
+    <Text>
+      <GUID>1999005262</GUID>
+      <Text>Nowoczesna pompownia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005263</GUID>
+      <Text>Nowoczesna pompownia Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999005596</GUID>
+      <Text>Zaopatrzenie w wodę uzdatnioną</Text>
+    </Text>
+    <Text>
+      <GUID>1999010367</GUID>
+      <Text>Kopalnia piasku rzecznego</Text>
+    </Text>
+    <Text>
+      <GUID>1999010368</GUID>
+      <Text>Kopalnia piasku rzecznego Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999010371</GUID>
+      <Text>Papiernia nad rzeką</Text>
+    </Text>
+    <Text>
+      <GUID>1999010372</GUID>
+      <Text>Papiernia nad rzeką Workarea</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,84 @@
+<Info>
+
+  <BoundingBox>
+    <Name>BoundingBox</Name>
+    <Position>
+      <xf>-1.011586</xf>
+      <yf>0.458146</yf>
+      <zf>-0.5197389</zf>
+    </Position>
+    <Rotation>
+      <xf>0</xf>
+      <yf>0</yf>
+      <zf>0</zf>
+      <wf>1</wf>
+    </Rotation>
+    <Extents>
+      <xf>2.369985</xf>
+      <yf>2</yf>
+      <zf>2</zf>
+    </Extents>
+  </BoundingBox>
+  
+  <MeshBoundingBox>
+    <Name>MeshBoundingBox</Name>
+    <Position>
+      <xf>-0.1396484</xf>
+      <yf>0.5454895</yf>
+      <zf>0.2573242</zf>
+    </Position>
+    <Rotation>
+      <xf>0</xf>
+      <yf>0</yf>
+      <zf>0</zf>
+      <wf>1</wf>
+    </Rotation>
+    <Extents>
+      <xf>1.488281</xf>
+      <yf>1.520917</yf>
+      <zf>0.9829102</zf>
+    </Extents>
+  </MeshBoundingBox>
+  
+  <DisableFeedbackArea>0</DisableFeedbackArea>
+  
+  <Dummy>
+    <Name>shootTurret_0</Name>
+    <Position>
+      <xf>0.86355945</xf>
+      <yf>1.34579705</yf>
+      <zf>-0.0006868654</zf>
+    </Position>
+    <Rotation>
+      <xf>0</xf>
+      <yf>0</yf>
+      <zf>0.3954572</zf>
+      <wf>0.9184937</wf>
+    </Rotation>
+    <Extents>
+      <xf>0.065</xf>
+      <yf>0.065</yf>
+      <zf>0.065</zf>
+    </Extents>
+  </Dummy>
+  
+  <Sequence>
+    <Id>1000</Id>
+    <Duration>8000</Duration>
+    <Looped>1</Looped>
+    <Speed>1</Speed>
+  </Sequence>
+  <Sequence>
+    <Id>1090</Id>
+    <Duration>15000</Duration>
+    <Looped>0</Looped>
+    <Speed>0.8</Speed>
+  </Sequence>
+  <Sequence>
+    <Id>1005</Id>
+    <Duration>20000</Duration>
+    <Looped>1</Looped>
+    <Speed>1</Speed>
+  </Sequence>
+  
+</Info>

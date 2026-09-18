@@ -1,0 +1,89 @@
+<ModOps> 
+
+
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+	<Text>
+		<GUID>6800010</GUID>
+		<Text>Cuirassé "The Red Pearl"</Text>
+	</Text>
+	<Text>
+		<GUID>6800011</GUID>
+		<Text>Un immense cuirassé pirate, inspiré du "Red Pearl", le légendaire bateau pirate.</Text>
+    </Text>
+    <Text>
+		<GUID>6800020</GUID>
+		<Text>Cargo Blindé</Text>
+	</Text>
+	<Text>
+		<GUID>6800021</GUID>
+		<Text>Une version plus forte du cargo. Tient au moins deux fois plus longtemps sous le feu.</Text>
+    </Text>
+	<Text>
+		<GUID>6799999</GUID>
+		<Text>Pyrphorien Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799998</GUID>
+		<Text>Monitor Amélioré</Text>
+    </Text>
+	<Text>
+		<GUID>6799997</GUID>
+		<Text>Navire de Guerre Pyrophorien</Text>
+    </Text>
+	<Text>
+		<GUID>6799962</GUID>
+		<Text>Pyrphorien Croiseur</Text>
+    </Text>
+	<Text>
+		<GUID>6799969</GUID>
+		<Text>Pyrphorien Croiseur</Text>
+    </Text>
+	<Text>
+		<GUID>6799996</GUID>
+		<Text>Pyrophorien Croiseur de Combat</Text>
+    </Text>
+	<Text>
+		<GUID>6799987</GUID>
+		<Text>Monitor Pyrophorien Bleu</Text>
+    </Text>
+	<Text>
+		<GUID>6799973</GUID>
+		<Text>Monitor AA</Text>
+    </Text>
+	<Text>
+		<GUID>6799967</GUID>
+		<Text>Monitor AA</Text>
+    </Text>
+	<Text>
+		<GUID>6799966</GUID>
+		<Text>Monitor AA</Text>
+    </Text>
+	<Text>
+		<GUID>6799965</GUID>
+		<Text>Monitor AA</Text>
+    </Text>
+  </ModOp>
+  
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+    <Text>
+		<GUID>6799964</GUID>
+		<Text>Susan McLean, ingénieure des cargos blindés</Text>
+	</Text>
+	<Text>
+		<GUID>6799963</GUID>
+		<Text>Autrefois pirate, elle met maintenant son expérience à profit en renforçant les cargos pour subir plus de dégâts.</Text>
+	</Text>
+	<Text>
+		<GUID>6799975</GUID>
+		<Text>Capitaine Jack Arrow, Infâme Pirate</Text>
+	</Text>
+	<Text>
+		<GUID>6799974</GUID>
+		<Text>Craint par beaucoup, vénéré par d'autres. En raison de son talent extraordinaire et de ses prouesses tactiques, il est devenu un célèbre capitaine pirate.</Text>
+	</Text>
+  </ModOp>
+  
+  
+</ModOps>

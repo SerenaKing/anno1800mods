@@ -1,0 +1,34 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Immagazzina il cibo per gli animali e consente la produzione.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300835</GUID>
+      <Text>Nutrire gli animali</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300836</GUID>
+      <Text>Animali affamati</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300837</GUID>
+      <Text>Allevamento industriale di pecore</Text>
+    </Text>
+     <Text>
+      <!-- TODO translation -->
+      <GUID>1500300894</GUID>
+      <Text>Silo (cibo per pecore)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300893</GUID>
+      <Text>Stilizzazione avanzata delle pecore</Text>
+    </Text>
+  </ModOp>
+</ModOps>

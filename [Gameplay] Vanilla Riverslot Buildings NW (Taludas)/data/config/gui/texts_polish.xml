@@ -1,0 +1,96 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002376</GUID>
+      <Text>Zbieracz gliny</Text>
+    </Text>
+    <Text>
+      <GUID>1999002375</GUID>
+      <Text>Strefa zbieracza gliny</Text>
+    </Text>
+    <Text>
+      <GUID>1999002384</GUID>
+      <Text>Strefa zbieracza tranu rybnego</Text>
+    </Text>
+    <Text>
+      <GUID>1999002385</GUID>
+      <Text>Zbieracz tranu rybnego</Text>
+    </Text>
+    <Text>
+      <GUID>1999002386</GUID>
+      <Text>[AssetData(120042) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999002389</GUID>
+      <Text>Obfitość ryb: &lt;i&gt;Arapaima&lt;/i&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1999002391</GUID>
+      <Text>Muszle słodko wodne</Text>
+    </Text>
+    <Text>
+      <GUID>1999002392</GUID>
+      <Text>Strefa zbieracza pereł</Text>
+    </Text>
+    <Text>
+      <GUID>1999002393</GUID>
+      <Text>Zbieracz pereł</Text>
+    </Text>
+    <Text>
+      <GUID>1999002394</GUID>
+      <Text>[AssetData(1010256) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003200</GUID>
+      <Text>Strefa wypłukiwalni złota</Text>
+    </Text>
+    <Text>
+      <GUID>1999003201</GUID>
+      <Text>Wypłukiwalnia złota</Text>
+    </Text>
+    <Text>
+      <GUID>1999003202</GUID>
+      <Text>[AssetData(1010233) Text]</Text>
+    </Text>
+        <Text>
+      <GUID>1999003213</GUID>
+      <Text>Strefa tartaku wodnego</Text>
+    </Text>
+    <Text>
+      <GUID>1999003214</GUID>
+      <Text>Tartak wodny</Text>
+    </Text>
+    <Text>
+      <GUID>1999003215</GUID>
+      <Text>[AssetData(500091) Text]</Text>
+    </Text>
+        <Text>
+      <GUID>1999003223</GUID>
+      <Text>Strefa elektrowni wodnej</Text>
+    </Text>
+    <Text>
+      <GUID>1999003224</GUID>
+      <Text>Elektrownia wodna</Text>
+    </Text>
+    <Text>
+      <GUID>1999003220</GUID>
+      <Text>Zapewnia czystą energię elektryczną dzięki sile prądu rzeki.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003221</GUID>
+      <Text>Wszystkie elektrownie wodne</Text>
+    </Text>
+    <Text>
+      <GUID>1999003226</GUID>
+      <Text>Wszystkie tartaki wodne</Text>
+    </Text>
+    <Text>
+      <GUID>1999003233</GUID>
+      <Text>Wszystkie budynki nadrzeczne</Text>
+    </Text>
+    <Text>
+      <GUID>1999003235</GUID>
+      <Text>Zawiera wszyskie budynki możliwe do konstrukcji na nowych polach rzecznych</Text>
+    </Text>
+  </ModOp>
+</ModOps>

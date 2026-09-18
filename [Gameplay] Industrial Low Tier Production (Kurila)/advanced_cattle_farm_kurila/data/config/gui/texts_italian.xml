@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Immagazzina il cibo per gli animali e consente la produzione.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300957</GUID>
+      <Text>Nutrire gli animali</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300958</GUID>
+      <Text>Animali affamati</Text>
+    </Text>
+    <Text>
+      <GUID>1404423061</GUID>
+      <Text>Milking Parlour</Text>
+    </Text>
+    <Text>
+      <GUID>1404423067</GUID>
+      <Text>Produces Milk.</Text>
+    </Text>
+    <Text>
+      <GUID>1404423065</GUID>
+      <Text>Industrial Cattle Farm</Text>
+    </Text>
+    <Text>
+      <GUID>1404423066</GUID>
+      <Text>Stilizzazione avanzata del bestiame</Text>
+    </Text>
+    <Text>
+      <GUID>1404423064</GUID>
+      <Text>Silo (alimentazione del bestiame)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300953</GUID>
+      <Text>Mettere in pausa il silo e riaccenderlo per attivare l'alimentatore.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

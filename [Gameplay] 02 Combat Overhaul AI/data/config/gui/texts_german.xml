@@ -1,0 +1,80 @@
+<ModOps> 
+
+
+  <ModOp Type="add" Path="TextExport/Texts">
+    <Text>
+		<GUID>6799978</GUID>
+		<Text>Einfaches Ziel (Hafenartillerie)</Text>
+	</Text>
+	<Text>
+		<GUID>6800006</GUID>
+		<Text>Fortgeschrittener Schlachtkreuzer</Text>
+	</Text>
+	<Text>
+		<GUID>6800183</GUID>
+		<Text>Fortgeschrittener Schlachtkreuzer 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800181</GUID>
+		<Text>Fortgeschrittener Schlachtkreuzer 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800099</GUID>
+		<Text>Fortgeschrittener Schlachtkreuzer 'Commando' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800097</GUID>
+		<Text>Fortgeschrittener Schlachtkreuzer '2070' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800095</GUID>
+		<Text>Fortgeschrittener Schlachtkreuzer 'Two Million' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800000</GUID>
+		<Text>Fortgeschrittenes Schlachtschiff</Text>
+	</Text>
+	<Text>
+		<GUID>6800001</GUID>
+		<Text>Stärker als ein normales Schlachtschiff, aber ein wenig langsamer.</Text>
+    </Text>
+    <Text>
+		<GUID>6800100</GUID>
+		<Text>Fortgeschrittene Werft</Text>
+	</Text>
+	<Text>
+		<GUID>6800101</GUID>
+		<Text>Fortgeschrittene Werft, Konstruktionspläne unbekannt</Text>
+    </Text>
+	<Text>
+		<GUID>6800050</GUID>
+		<Text>Hafenartillerie</Text>
+	</Text>
+	<Text>
+		<GUID>6700105</GUID>
+		<Text>Hafenartillerie</Text>
+	</Text>
+	<Text>
+		<GUID>6700104</GUID>
+		<Text>Hafenartillerie</Text>
+	</Text>
+	<Text>
+		<GUID>6700103</GUID>
+		<Text>Hafenartillerie</Text>
+	</Text>
+	<Text>
+		<GUID>6800051</GUID>
+		<Text>Eine riesige Kanone um Inseln noch mehr zu schützen.</Text>
+    </Text>
+	<Text>
+		<GUID>6700114</GUID>
+		<Text>AI Kampfschiff Buff (nur für AI), WENN SIE SEHEN, DASS ETWAS FALSCH IST, da der Spieler dies niemals erhalten sollte! Du hast einen AI-LEUCHTTURM, den du NICHT MACHEN KANNST! INKOMPATIBILITÄTSPROBLEM (wahrscheinlich "Ruins on Takeover" mod)! Lesen Sie die MOD-BESCHREIBUNG und folgen Sie dem dort erklärten Schritt-für-Schritt-Prozess, um den anderen Mod zu entfernen!</Text>
+    </Text>
+	<Text>
+		<GUID>6700115</GUID>
+		<Text>AI Handelsschiff Buff (nur für AI), WENN SIE SEHEN, DASS ETWAS FALSCH IST, da der Spieler dies niemals erhalten sollte! Du hast einen AI-LEUCHTTURM, den du NICHT MACHEN KANNST! INKOMPATIBILITÄTSPROBLEM (wahrscheinlich "Ruins on Takeover" mod)! Lesen Sie die MOD-BESCHREIBUNG und folgen Sie dem dort erklärten Schritt-für-Schritt-Prozess, um den anderen Mod zu entfernen!</Text>
+    </Text>
+  </ModOp>
+  
+  
+</ModOps>

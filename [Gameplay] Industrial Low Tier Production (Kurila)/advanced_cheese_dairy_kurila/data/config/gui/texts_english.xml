@@ -1,0 +1,36 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500300936</GUID>
+      <Text>Stores food for the animals and enables production.</Text>
+    </Text>
+    <Text>
+      <GUID>1500302610</GUID>
+      <Text>Feeding the Animals</Text>
+    </Text>
+    <Text>
+      <GUID>1500302611</GUID>
+      <Text>Hungry Animals</Text>
+    </Text>
+    <Text>
+      <GUID>1500302340</GUID>
+      <Text>Cheese Factory</Text>
+    </Text>
+    <Text>
+      <GUID>1500302615</GUID>
+      <Text>Industrial Dairy Farm</Text>
+    </Text>
+    <Text>
+      <GUID>1500302616</GUID>
+      <Text>Advanced Cattle Sty</Text>
+    </Text>
+    <Text>
+      <GUID>1500302617</GUID>
+      <Text>Silo (Cattle Food)</Text>
+    </Text>
+    <Text>
+      <GUID>1500302619</GUID>
+      <Text>Pause the silo and switch it on again to activate the feed buff.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

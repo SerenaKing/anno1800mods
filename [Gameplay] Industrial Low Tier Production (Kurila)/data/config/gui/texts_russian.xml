@@ -1,0 +1,71 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1404423011</GUID>
+      <Text>Продвинутое производство хлеба</Text>
+    </Text>
+    <Text>
+      <GUID>1404423016</GUID>
+      <Text>Продвинутое производство рабочей одежды</Text>
+    </Text>
+    <Text>
+      <GUID>1404423021</GUID>
+      <Text>Продвинутое производство шнапса</Text>
+    </Text>
+    <Text>
+      <GUID>1404423026</GUID>
+      <Text>Продвинутое производство досок</Text>
+    </Text>
+    <Text>
+      <GUID>1404423028</GUID>
+      <Text>Продвинутое производство досок</Text>
+    </Text>
+    <Text>
+      <GUID>1404423031</GUID>
+      <Text>Продвинутое производство парусов</Text>
+    </Text>
+    <Text>
+      <GUID>1500303051</GUID>
+      <Text>Передовое производство канатов</Text>
+    </Text>
+    <Text>
+      <GUID>1404423036</GUID>
+      <Text>Продвинутое производство колбасок</Text>
+    </Text>
+    <Text>
+      <GUID>1404423041</GUID>
+      <Text>Продвинутое производство стали</Text>
+    </Text>
+    <Text>
+      <GUID>1404423043</GUID>
+      <Text>Продвинутое производство</Text>
+    </Text>
+    <Text>
+      <GUID>1404423044</GUID>
+      <Text>Продвинутое производство</Text>
+    </Text>
+    <Text>
+      <GUID>1404423052</GUID>
+      <Text>Продвинутое производство мыла</Text>
+    </Text>
+    <Text>
+      <GUID>1500301107</GUID>
+      <Text>Продвинутое производство пива</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302341</GUID>
+      <Text>Передовое производство сыра</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302751</GUID>
+      <Text>Передовое производство кирпича</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500301059</GUID>
+      <Text>Industrial Production (Kurila)</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,96 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002376</GUID>
+      <Text>점토 채취장</Text>
+    </Text>
+    <Text>
+      <GUID>1999002375</GUID>
+      <Text>점토 채취장 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999002384</GUID>
+      <Text>강 어유 공장 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999002385</GUID>
+      <Text>강 어유 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1999002386</GUID>
+      <Text>[AssetData(120042) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999002389</GUID>
+      <Text>풍부한 어족: &lt;i&gt;아라파이마 물고기&lt;/i&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1999002391</GUID>
+      <Text>민물 홍합</Text>
+    </Text>
+    <Text>
+      <GUID>1999002392</GUID>
+      <Text>강 진주 양식장 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999002393</GUID>
+      <Text>강 진주 양식장</Text>
+    </Text>
+    <Text>
+      <GUID>1999002394</GUID>
+      <Text>[AssetData(1010256) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003200</GUID>
+      <Text>강 사금 채취장 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999003201</GUID>
+      <Text>사금 채취</Text>
+    </Text>
+    <Text>
+      <GUID>1999003202</GUID>
+      <Text>[AssetData(1010233) Text]</Text>
+    </Text>
+        <Text>
+      <GUID>1999003213</GUID>
+      <Text>강 제재소 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999003214</GUID>
+      <Text>강 제재소</Text>
+    </Text>
+    <Text>
+      <GUID>1999003215</GUID>
+      <Text>[AssetData(500091) Text]</Text>
+    </Text>
+        <Text>
+      <GUID>1999003223</GUID>
+      <Text>강 수력 발전소 신대륙 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999003224</GUID>
+      <Text>강 수력 발전소</Text>
+    </Text>
+    <Text>
+      <GUID>1999003220</GUID>
+      <Text>흐르는 강물의 힘을 이용해 깨끗한 전기를 공급합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003221</GUID>
+      <Text>모든 강 수력 발전소</Text>
+    </Text>
+    <Text>
+      <GUID>1999003226</GUID>
+      <Text>모든 강 제재소</Text>
+    </Text>
+    <Text>
+      <GUID>1999003233</GUID>
+      <Text>모든 강 건물</Text>
+    </Text>
+    <Text>
+      <GUID>1999003235</GUID>
+      <Text>새로운 강 슬롯에 사용할 수 있는 모든 건물을 포함합니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

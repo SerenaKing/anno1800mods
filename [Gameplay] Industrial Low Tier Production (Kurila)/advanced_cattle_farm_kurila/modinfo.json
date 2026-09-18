@@ -1,0 +1,57 @@
+{
+  "Version": "1.6.4",
+  "ModID": "advanced_cattle_farm_kurila",
+  "DeprecateIds": [],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions",
+    "shared-milk-from-cattle-farm-lion053",
+    "RickyTaludas_OWHacienda"
+  ],
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Sub-Mod",
+    "Chinese": "Sub-Mod",
+    "French": "Sub-Mod",
+    "German": "Sub-Mod",
+    "Italian": "Sub-Mod",
+    "Japanese": "Sub-Mod",
+    "Korean": "Sub-Mod",
+    "Polish": "Sub-Mod",
+    "Russian": "Sub-Mod",
+    "Spanish": "Sub-Mod",
+    "Taiwanese": "Sub-Mod"
+  },
+  "ModName": {
+    "Chinese": "Advanced Cattle Farm (Kurila)",
+    "English": "Advanced Cattle Farm (Kurila)",
+    "French": "Advanced Cattle Farm (Kurila)",
+    "German": "Advanced Cattle Farm (Kurila)",
+    "Italian": "Advanced Cattle Farm (Kurila)",
+    "Japanese": "Advanced Cattle Farm (Kurila)",
+    "Korean": "Advanced Cattle Farm (Kurila)",
+    "Polish": "Advanced Cattle Farm (Kurila)",
+    "Russian": "Advanced Cattle Farm (Kurila)",
+    "Spanish": "Advanced Cattle Farm (Kurila)",
+    "Taiwanese": "Advanced Cattle Farm (Kurila)"
+  },
+  "Description": {
+    "English": "file::README.md",
+    "German": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

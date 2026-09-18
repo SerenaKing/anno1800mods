@@ -1,0 +1,80 @@
+<ModOps> 
+
+
+  <ModOp Type="add" Path="TextExport/Texts">
+    <Text>
+		<GUID>6799978</GUID>
+		<Text>Bersaglio facile (Artiglieria portuale)</Text>
+	</Text>
+	<Text>
+		<GUID>6800006</GUID>
+		<Text>Incrociatore da battaglia avanzato</Text>
+	</Text>
+	<Text>
+		<GUID>6800183</GUID>
+		<Text>Incrociatore da battaglia avanzato 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800181</GUID>
+		<Text>Incrociatore da battaglia avanzato 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800099</GUID>
+		<Text>Incrociatore da battaglia avanzato 'Commando' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800097</GUID>
+		<Text>Incrociatore da battaglia avanzato '2070' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800095</GUID>
+		<Text>Incrociatore da battaglia avanzato 'Two Million' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800000</GUID>
+		<Text>Corazzata avanzata</Text>
+	</Text>
+	<Text>
+		<GUID>6800001</GUID>
+		<Text>Più forte e più potente della normale corazzata, ma un po' più lenta in velocità.</Text>
+    </Text>
+    <Text>
+		<GUID>6800100</GUID>
+		<Text>Cantiere avanzato</Text>
+	</Text>
+	<Text>
+		<GUID>6800101</GUID>
+		<Text>Cantiere avanzato, capacità di costruzione sconosciute.</Text>
+    </Text>
+	<Text>
+		<GUID>6800050</GUID>
+		<Text>Artiglieria portuale</Text>
+	</Text>
+	<Text>
+		<GUID>6700105</GUID>
+		<Text>Artiglieria portuale</Text>
+	</Text>
+	<Text>
+		<GUID>6700104</GUID>
+		<Text>Artiglieria portuale</Text>
+	</Text>
+	<Text>
+		<GUID>6700103</GUID>
+		<Text>Artiglieria portuale</Text>
+	</Text>
+	<Text>
+		<GUID>6800051</GUID>
+		<Text>Un enorme cannone per proteggere ancora di più le isole.</Text>
+    </Text>
+	<Text>
+		<GUID>6700114</GUID>
+		<Text>AI Buff Nave da combattimento (solo per AI), SE VEDETE CHE QUALCOSA NON VA, il giocatore non dovrebbe mai ottenerlo! Hai un FARO AI che NON PUOI FARE! PROBLEMA DI INCOMPATIBILITA' (probabile mod "Ruins on Takeover")! Leggi la DESCRIZIONE MOD e segui la procedura passo passo spiegata per rimuovere l'altra mod!</Text>
+    </Text>
+	<Text>
+		<GUID>6700115</GUID>
+		<Text>AI Buff Nave mercantile (solo per AI), SE VEDETE CHE QUALCOSA NON VA, il giocatore non dovrebbe mai ottenerlo! Hai un FARO AI che NON PUOI FARE! PROBLEMA DI INCOMPATIBILITA' (probabile mod "Ruins on Takeover")! Leggi la DESCRIZIONE MOD e segui la procedura passo passo spiegata per rimuovere l'altra mod!</Text>
+    </Text>
+  </ModOp>
+  
+  
+</ModOps>

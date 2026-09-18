@@ -1,0 +1,9 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423030</GUID>
+      <Text>Advanced Sailmakers</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,1 @@
+Versuche die Transferzeiten für Schiffe zwischen den Sessions zu minimieren

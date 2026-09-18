@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Almacena alimentos para los animales y permite la producción.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423054</GUID>
+      <Text>Alimentar a los animales</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423060</GUID>
+      <Text>Animales hambrientos</Text>
+    </Text>
+    <Text>
+      <GUID>1404423055</GUID>
+      <Text>Granja industrial de cerdos</Text>
+    </Text>
+     <Text>
+      <GUID>1404423058</GUID>
+      <Text>Silo (alimento para cerdos)</Text>
+    </Text>
+    <Text>
+      <GUID>1404423056</GUID>
+      <Text>Pocilga avanzada</Text>
+    </Text>
+  </ModOp>
+</ModOps>

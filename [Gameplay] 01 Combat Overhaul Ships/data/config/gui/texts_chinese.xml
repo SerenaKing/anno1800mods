@@ -1,0 +1,590 @@
+<ModOps> 
+
+
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+	<Text>
+		<GUID>6799982</GUID>
+		<Text>易损目标 （炮塔）</Text>
+    </Text>
+	<Text>
+		<GUID>6799979</GUID>
+		<Text>易损目标 （火焰喷射塔）</Text>
+    </Text>
+	<Text>
+		<GUID>6799977</GUID>
+		<Text>易损目标 （反装甲炮）</Text>
+    </Text>
+	<Text>
+		<GUID>6799976</GUID>
+		<Text>易损目标 （大贝蒂）</Text>
+    </Text>
+	<Text>
+		<GUID>6799989</GUID>
+		<Text>炮弹伤害</Text>
+    </Text>
+	<Text>
+		<GUID>6799990</GUID>
+		<Text>鱼雷冲击</Text>
+    </Text>
+	<Text>
+		<GUID>6799991</GUID>
+		<Text>地雷影响</Text>
+    </Text>
+	<Text>
+		<GUID>6799992</GUID>
+		<Text>着火</Text>
+    </Text>
+	<Text>
+		<GUID>6799993</GUID>
+		<Text>船体穿孔</Text>
+    </Text>
+	<Text>
+		<GUID>6799994</GUID>
+		<Text>炮塔受损</Text>
+    </Text>
+	<Text>
+        <GUID>6800008</GUID>
+        <Text>废料</Text>
+    </Text>
+	<Text>
+		<GUID>6799986</GUID>
+		<Text>无畏舰</Text>
+	</Text>
+	<Text>
+		<GUID>6799984</GUID>
+		<Text>无畏舰</Text>
+	</Text>
+	<Text>
+		<GUID>6799983</GUID>
+		<Text>无畏舰</Text>
+    </Text>
+	<Text>
+		<GUID>6800029</GUID>
+		<Text>无畏舰是一种新型战列舰，具有最大的火力，并且在海战方式上具有革命性。</Text>
+    </Text> 
+	<Text>
+		<GUID>6800030</GUID>
+		<Text>战列舰</Text>
+	</Text>
+	<Text>
+		<GUID>6800031</GUID>
+		<Text>战列舰是海军的骄傲。它们强大而笨拙，但维护成本高，应该由较小的船只陪伴。</Text>
+    </Text>
+    <Text>
+		<GUID>6800040</GUID>
+		<Text>铁甲</Text>
+	</Text>
+	<Text>
+		<GUID>6800041</GUID>
+		<Text>适合追赶大多数船只的速度非常快的战舰。通过主要瞄准炮塔来降低敌人的射速。</Text>
+    </Text>
+	<Text>
+		<GUID>6700110</GUID>
+		<Text>皇家帆船</Text>
+    </Text>
+	<Text>
+		<GUID>6700111</GUID>
+		<Text>专为我们的女王打造，用于安全的海外转移。坚固的船具有良好的能力。</Text>
+    </Text>
+	<Text>
+		<GUID>6700050</GUID>
+		<Text>皇家战舰</Text>
+	</Text>
+	<Text>
+		<GUID>6700051</GUID>
+		<Text>由女王亲自授予海上作战许可。这些战舰都是顶级的。</Text>
+    </Text>
+	<Text>
+		<GUID>6700060</GUID>
+		<Text>巨型运煤船</Text>
+	</Text>
+	<Text>
+		<GUID>6700061</GUID>
+		<Text>矿工配套海量货物。如果满载会慢很多。</Text>
+    </Text>
+	<Text>
+		<GUID>6700065</GUID>
+		<Text>巨型运煤船“黑木”皮肤</Text>
+    </Text>
+	<Text>
+		<GUID>6700067</GUID>
+		<Text>巨型运煤船“货轮”皮肤</Text>
+    </Text>
+	<Text>
+		<GUID>6700107</GUID>
+		<Text>油轮</Text>
+	</Text>
+	<Text>
+		<GUID>6700108</GUID>
+		<Text>可以在国际水域自由航行的私人油轮。</Text>
+    </Text>
+	<Text>
+		<GUID>6700069</GUID>
+		<Text>弗朗西斯德雷克船长</Text>
+    </Text>
+	<Text>
+        <GUID>6700071</GUID>
+        <Text>货船</Text>
+    </Text>
+	<Text>
+		<GUID>6700072</GUID>
+		<Text>适合较短贸易路线的小型贸易船。</Text>
+    </Text>
+	<Text>
+		<GUID>6700075</GUID>
+		<Text>货船“谢恩”皮肤</Text>
+    </Text>
+	<Text>
+		<GUID>6700077</GUID>
+		<Text>货船“货轮”皮肤</Text>
+    </Text>
+	<Text>
+		<GUID>6700047</GUID>
+		<Text>冷冻船</Text>
+    </Text>
+	<Text>
+		<GUID>6700049</GUID>
+		<Text>冷冻船“白鲸”皮肤</Text>
+    </Text>
+	<Text>
+		<GUID>6800089</GUID>
+		<Text>改进型炮艇</Text>
+    </Text>
+	<Text>
+		<GUID>6800090</GUID>
+		<Text>改进型护卫舰</Text>
+    </Text>
+	<Text>
+		<GUID>6800091</GUID>
+		<Text>改进型皇家帆船</Text>
+    </Text>
+	<Text>
+		<GUID>6800092</GUID>
+		<Text>改进型皇家战舰</Text>
+    </Text>
+	<Text>
+		<GUID>6800093</GUID>
+		<Text>改进的浅水重炮舰</Text>
+    </Text>
+	<Text>
+		<GUID>6700091</GUID>
+		<Text>快速帆船</Text>
+    </Text>
+	<Text>
+		<GUID>6799961</GUID>
+		<Text>货船</Text>
+    </Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100660']/Text">
+      <Text>路线快速帆船</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1088']/Text"> 
+      <Text>混合船模型。它可用作小型敏捷战舰或中型防御商船。通过主要瞄准炮塔来降低敌人的射速。</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23377']/Text"> 
+      <Text>人类已知速度最快的商船，拥有体面的货舱，非常适合探索和远征。</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102420']/Text">
+      <Text>改进型炮艇</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22020']/Text">
+      <Text>新的木雕技术使这些船更快更强。</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102421']/Text">
+      <Text>改进型护卫舰</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22021']/Text">
+      <Text>设计上的细微改变允许更多的装甲和速度。</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102427']/Text">
+      <Text>改进型皇家帆船</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22027']/Text">
+      <Text>最新型号配备更坚固的装甲并且更敏捷。</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102419']/Text">
+      <Text>改进型皇家战舰</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22022']/Text">
+      <Text>新发动机使这些重型船型的速度大大提高。</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102422']/Text">
+      <Text>改进的浅水重炮舰</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22023']/Text">
+      <Text>小枪取代旧枪，为较新的浅水重炮舰提供更多火力。通过主要瞄准炮塔来降低敌人的射速。</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '19973']/Text"> 
+      <Text>由于他丰富的海军作战经验，他有能力使敌方船只丧失能力。</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21402']/Text"> 
+      <Text>我们女王的造船大师。专门研究大帆船。</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192457']/Text">
+      <Text>小基甸，炮艇大师</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21395']/Text">
+      <Text>小人物的大发明——批量生产。</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192458']/Text">
+      <Text>佩特拉·派珀，护卫舰大师</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21396']/Text">
+      <Text>她时尚的设计使船舶更加高效。</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192459']/Text">
+      <Text>战船大师石扬</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21397']/Text">
+      <Text>他的大型战舰将风能与发动机的马力完美结合。</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192460']/Text">
+      <Text>玛丽亚·皮萨罗显示器大师</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21398']/Text">
+      <Text>这位前海盗现在正在改进浅水重炮舰，以免受海盗袭击。</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124843']/Text">
+      <Text>巨轮许可证</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124320']/Text">
+      <Text>获得建造巨型船只的许可。</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124306']/Text">
+      <Text>巨轮可在蒸汽造船厂建造。</Text> 
+  </ModOp>
+  
+  
+  
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102423']/Text">
+      <Text>派若弗利安浅水重炮舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100568']/Text">
+      <Text>战斗巡洋舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100569']/Text">
+      <Text>浅水重炮舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102372']/Text">
+      <Text>战斗巡洋舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102373']/Text">
+      <Text>浅水重炮舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102380']/Text">
+      <Text>战斗巡洋舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102381']/Text">
+      <Text>浅水重炮舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102615']/Text">
+      <Text>战斗巡洋舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102616']/Text">
+      <Text>浅水重炮舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102305']/Text">
+      <Text>战斗巡洋舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102387']/Text">
+      <Text>战斗巡洋舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102391']/Text">
+      <Text>战斗巡洋舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102571']/Text">
+      <Text>浅水重炮舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '111166']/Text">
+      <Text>浅水重炮舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '80024']/Text">
+      <Text>浅水重炮舰</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '80025']/Text">
+      <Text>战斗巡洋舰</Text> 
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1054']/Text">
+      <Text>鹰身女妖（武装）</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1056']/Text">
+      <Text>蝎尾狮（武装）</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1654']/Text">
+      <Text>鹰身女妖</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1655']/Text">
+      <Text>蝎狮</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1058']/Text">
+      <Text>爱马仕</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1059']/Text">
+      <Text>飞马座</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1060']/Text">
+      <Text>和风</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1755']/Text">
+      <Text>北极星</Text> 
+  </ModOp>
+  
+  
+  
+
+  <ModOp Type="add" Path="TextExport/Texts">
+  
+  
+	<Text>
+		<GUID>6800201</GUID>
+		<Text>指挥舰 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800203</GUID>
+		<Text>指挥舰 '秋红美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800205</GUID>
+		<Text>指挥舰 '帝国' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800207</GUID>
+		<Text>指挥舰 '帝国 贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800209</GUID>
+		<Text>指挥舰 '帝国 秋红美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800211</GUID>
+		<Text>指挥舰 '北海' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800213</GUID>
+		<Text>指挥舰 '北海 贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800215</GUID>
+		<Text>指挥舰 '北海 秋红美学' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800217</GUID>
+		<Text>双桅纵帆船 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800219</GUID>
+		<Text>双桅纵帆船 '秋红美学' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800221</GUID>
+		<Text>炮艇 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800223</GUID>
+		<Text>炮艇 '秋红美学' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800187</GUID>
+		<Text>改进型炮艇 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800185</GUID>
+		<Text>改进型炮艇 '秋红美学' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800225</GUID>
+		<Text>快速帆船 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800227</GUID>
+		<Text>快速帆船 '秋红美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800229</GUID>
+		<Text>快速帆船 '海洋蓝' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800231</GUID>
+		<Text>护卫舰 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800233</GUID>
+		<Text>护卫舰 '秋红美学' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800191</GUID>
+		<Text>改进型护卫舰 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800189</GUID>
+		<Text>改进型护卫舰 '香草' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800239</GUID>
+		<Text>风帆战舰 '1701' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800243</GUID>
+		<Text>风帆战舰 '瓦斯科 青铜' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800245</GUID>
+		<Text>风帆战舰 '瓦斯科 白银' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800247</GUID>
+		<Text>风帆战舰 '瓦斯科 黄金' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800237</GUID>
+		<Text>皇家战舰 '秋红美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800241</GUID>
+		<Text>皇家战舰 '两百万先锋' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800199</GUID>
+		<Text>改进型皇家战舰 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800197</GUID>
+		<Text>改进型皇家战舰 '秋红美学' 外观</Text>
+	</Text>
+  
+  
+	<Text>
+		<GUID>6800249</GUID>
+		<Text>货船 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800251</GUID>
+		<Text>货船 '秋红美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800253</GUID>
+		<Text>货船 '货轮' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800255</GUID>
+		<Text>浅水重炮艇 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800257</GUID>
+		<Text>浅水重炮艇 '秋红美学' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800195</GUID>
+		<Text>改进的浅水重炮舰 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800193</GUID>
+		<Text>改进的浅水重炮舰 '秋红美学' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800271</GUID>
+		<Text>防空 浅水重炮艇 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800273</GUID>
+		<Text>防空 浅水重炮艇 '秋红美学' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800275</GUID>
+		<Text>火焰喷射器 浅水重炮艇 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800277</GUID>
+		<Text>火焰喷射器 浅水重炮艇 '秋红美学' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800279</GUID>
+		<Text>蓝色 火焰喷射器 浅水重炮艇 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800281</GUID>
+		<Text>蓝色 火焰喷射器 浅水重炮艇 '秋红美学' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800259</GUID>
+		<Text>战列巡洋舰 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800261</GUID>
+		<Text>战列巡洋舰 '秋红美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800263</GUID>
+		<Text>战列巡洋舰 '突击队' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800265</GUID>
+		<Text>战列巡洋舰 '2070' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800267</GUID>
+		<Text>战列巡洋舰 '两百万' 外观</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800269</GUID>
+		<Text>大东方号 '遗产' 外观</Text>
+	</Text>
+	
+  </ModOp>
+  
+  
+</ModOps>

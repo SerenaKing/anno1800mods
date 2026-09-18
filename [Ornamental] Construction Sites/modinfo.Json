@@ -1,0 +1,50 @@
+{
+  "Version": "1.1.1",
+  "ModID": "Spice_ConstructionSites",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "装饰",
+    "English": "Ornamental",
+    "French": null,
+    "German": "Zierobjekte",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": "建筑工地",
+    "English": "Construction Sites",
+    "French": null,
+    "German": "Baustellen",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": "增加4个建筑工地",
+    "English": "Adds four Construction sites",
+    "French": null,
+    "German": "Fügt Baustellen in vier Varianten ein.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "ModioResourceId": 3211599
+}

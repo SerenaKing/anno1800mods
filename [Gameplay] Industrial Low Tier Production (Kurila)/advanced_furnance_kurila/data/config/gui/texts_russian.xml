@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1404423040</GUID>
+      <Text>Большая плавильня</Text>
+    </Text>
+  </ModOp>
+</ModOps>

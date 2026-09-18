@@ -1,0 +1,28 @@
+<ModOps>
+    <ModOp Type="add" Path="Templates/Group[Name = 'Economy']">
+        <Template>
+            <Name>ResolverUnitFire01MU</Name>
+            <Properties>
+                <IncidentResolverUnit>
+                    <ResolverOperatingDistance>65000</ResolverOperatingDistance>
+                    <ResolverMovementSpeed>1.04</ResolverMovementSpeed>
+                    <IntensityDecreaseRate>0.2</IntensityDecreaseRate>
+                    <FeedbackUnitClass>0</FeedbackUnitClass>
+                </IncidentResolverUnit>
+                <Text />
+            </Properties>
+        </Template>
+        <Template>
+            <Name>ResolverUnitFire02MU</Name>
+            <Properties>
+                <IncidentResolverUnit>
+                    <ResolverOperatingDistance>45000</ResolverOperatingDistance>
+                    <ResolverMovementSpeed>0.92</ResolverMovementSpeed>
+                    <IntensityDecreaseRate>0.15</IntensityDecreaseRate>
+                    <FeedbackUnitClass>0</FeedbackUnitClass>
+                </IncidentResolverUnit>
+                <Text />
+            </Properties>
+        </Template>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,52 @@
+{
+  "Version": "2.0.1",
+  "ModID": "jakob_Nates_Windmill",
+  "ModioResourceId": 3229975,
+  "ModDependencies": [
+    "shared-one-step-influence"
+  ],
+  "DeprecateIds": [
+    "jakob_bugfix_mill_wind_direction"
+  ],
+  "Category": {
+    "Chinese": "建筑",
+    "English": "Building",
+    "French": "Building",
+    "German": "Building",
+    "Italian": "Building",
+    "Japanese": "Building",
+    "Korean": "Building",
+    "Polish": "Building",
+    "Russian": "Building",
+    "Spanish": "Building",
+    "Taiwanese": "Building"
+  },
+  "ModName": {
+    "Chinese": "老内特的风车(Jakob)",
+    "English": "Nate's Windmill (Jakob)",
+    "French": "Nate's Windmill (Jakob)",
+    "German": "Nate's Windmill (Jakob)",
+    "Italian": "Nate's Windmill (Jakob)",
+    "Japanese": "Nate's Windmill (Jakob)",
+    "Korean": "Nate's Windmill (Jakob)",
+    "Polish": "Nate's Windmill (Jakob)",
+    "Russian": "Nate's Windmill (Jakob)",
+    "Spanish": "Nate's Windmill (Jakob)",
+    "Taiwanese": "Nate's Windmill (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "German": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  }
+}

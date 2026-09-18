@@ -1,0 +1,56 @@
+{
+  "Version": "1.2.2",
+  "ModID": "Spice_ActiveTradeNate",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": "活跃的交易者老内特",
+    "English": "Active Trader Nate",
+    "French": null,
+    "German": "Aktiver Handel im Kap",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": "老内特的贸易舰队和销售预算增加。",
+    "English": "Old Nate's trade fleet and Sell Budget is increased.",
+    "French": null,
+    "German": "Der alte Nate hat eine größere Handelsflotte und ein höheres Verkaufsbudget.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "SunkenTreasures",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Troubadix",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null,
+  "ModioResourceId":3210520
+}

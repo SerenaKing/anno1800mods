@@ -1,0 +1,39 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Lagert das Tierfutter. Ohne Futter wird nichts produziert.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302610</GUID>
+      <Text>Gefütterte Tiere</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302611</GUID>
+      <Text>Hungrige Tiere</Text>
+    </Text>
+    <Text>
+      <GUID>1500302340</GUID>
+      <Text>Käsefabrik</Text>
+    </Text>
+    <Text>
+      <GUID>1500302615</GUID>
+      <Text>Industrielle Molkerei</Text>
+    </Text>
+    <Text>
+      <GUID>1500302616</GUID>
+      <Text>Großer Rinderstall</Text>
+    </Text>
+    <Text>
+      <GUID>1500302617</GUID>
+      <Text>Silo (Rinderfutter)</Text>
+    </Text>
+    <Text>
+      <GUID>1500302619</GUID>
+      <Text>Silo pausieren und wieder anschalten um Futterbuff zu aktivieren.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

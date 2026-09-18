@@ -1,0 +1,89 @@
+<ModOps> 
+
+
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+	<Text>
+		<GUID>6800010</GUID>
+		<Text>Battleship "The Red Pearl"</Text>
+	</Text>
+	<Text>
+		<GUID>6800011</GUID>
+		<Text>A huge Pirate Battleship, inspired by the "Red Pearl", the legendary pirate ship.</Text>
+    </Text>
+    <Text>
+		<GUID>6800020</GUID>
+		<Text>Armored Cargo Ship</Text>
+	</Text>
+	<Text>
+		<GUID>6800021</GUID>
+		<Text>A stronger version of the cargo ship. Holds at least twice as long when under fire.</Text>
+    </Text>
+	<Text>
+		<GUID>6799999</GUID>
+		<Text>Pyrphorian Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799998</GUID>
+		<Text>Improved Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799997</GUID>
+		<Text>Pyrphorian Warship</Text>
+    </Text>
+	<Text>
+		<GUID>6799962</GUID>
+		<Text>Pyrphorian Cruiser</Text>
+    </Text>
+	<Text>
+		<GUID>6799969</GUID>
+		<Text>Pyrphorian Cruiser</Text>
+    </Text>
+	<Text>
+		<GUID>6799996</GUID>
+		<Text>Pyrphorian Battle Cruiser</Text>
+    </Text>
+	<Text>
+		<GUID>6799987</GUID>
+		<Text>Blue Pyrphorian Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799973</GUID>
+		<Text>Flak Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799967</GUID>
+		<Text>Flak Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799966</GUID>
+		<Text>Flak Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799965</GUID>
+		<Text>Flak Monitor</Text>
+    </Text>
+  </ModOp>
+  
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+    <Text>
+		<GUID>6799964</GUID>
+		<Text>Susan McLean, Engineer of Armored Cargo Ships</Text>
+	</Text>
+	<Text>
+		<GUID>6799963</GUID>
+		<Text>Once a pirate, she now puts her previous experience to good use by reinforcing cargo ships to sustain more damage.</Text>
+	</Text>
+	<Text>
+		<GUID>6799975</GUID>
+		<Text>Capt'n Jack Arrow, Infamous Pirate</Text>
+	</Text>
+	<Text>
+		<GUID>6799974</GUID>
+		<Text>Feared by many, revered by others. Due to hes extraordinary talent and tactical prowess he became an infamous pirate captain.</Text>
+	</Text>
+  </ModOp>
+  
+  
+</ModOps>

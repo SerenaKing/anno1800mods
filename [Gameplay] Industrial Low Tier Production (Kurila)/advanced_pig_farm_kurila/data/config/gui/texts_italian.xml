@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Immagazzina il cibo per gli animali e consente la produzione.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423054</GUID>
+      <Text>Nutrire gli animali</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423060</GUID>
+      <Text>Animali affamati</Text>
+    </Text>
+    <Text>
+      <GUID>1404423055</GUID>
+      <Text>Allevamento industriale di suini</Text>
+    </Text>
+     <Text>
+      <GUID>1404423058</GUID>
+      <Text>Silo (cibo per suini)</Text>
+    </Text>
+    <Text>
+      <GUID>1404423056</GUID>
+      <Text>Advanced Pig Sty</Text>
+    </Text>
+  </ModOp>
+</ModOps>

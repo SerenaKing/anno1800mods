@@ -1,0 +1,590 @@
+<ModOps> 
+
+
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+	<Text>
+		<GUID>6799982</GUID>
+		<Text>Легкая цель (Орудийная башня)</Text>
+    </Text>
+	<Text>
+		<GUID>6799979</GUID>
+		<Text>Легкая цель (Огненная башня)</Text>
+    </Text>
+	<Text>
+		<GUID>6799977</GUID>
+		<Text>Легкая цель (Бронебойная пушка)</Text>
+    </Text>
+	<Text>
+		<GUID>6799976</GUID>
+		<Text>Легкая цель (Большая Бетти)</Text>
+    </Text>
+	<Text>
+		<GUID>6799989</GUID>
+		<Text>Урон от зенитной</Text>
+    </Text>
+	<Text>
+		<GUID>6799990</GUID>
+		<Text>Торпедный удар</Text>
+    </Text>
+	<Text>
+		<GUID>6799991</GUID>
+		<Text>Воздействие мины</Text>
+    </Text>
+	<Text>
+		<GUID>6799992</GUID>
+		<Text>В огне</Text>
+    </Text>
+	<Text>
+		<GUID>6799993</GUID>
+		<Text>Пробит корпус</Text>
+    </Text>
+	<Text>
+		<GUID>6799994</GUID>
+		<Text>Турели скомпрометированы</Text>
+    </Text>
+	<Text>
+        <GUID>6800008</GUID>
+        <Text>Обломки</Text>
+    </Text>
+	<Text>
+		<GUID>6799986</GUID>
+		<Text>Дредноут</Text>
+	</Text>
+	<Text>
+		<GUID>6799984</GUID>
+		<Text>Дредноут</Text>
+	</Text>
+	<Text>
+		<GUID>6799983</GUID>
+		<Text>Корабли-дредноуты</Text>
+    </Text>
+	<Text>
+		<GUID>6800029</GUID>
+		<Text>Дредноуты — это новый тип линкоров с максимальной огневой мощью, хотя из-за своих огромных размеров они уязвимы для пушечных башен.</Text>
+    </Text> 
+	<Text>
+		<GUID>6800030</GUID>
+		<Text>Линкор</Text>
+	</Text>
+	<Text>
+		<GUID>6800031</GUID>
+		<Text>Линкоры - гордость военно-морского флота. Они величественны и мощны, но требуют больших затрат на содержание, и их спутниками должны быть корабли поменьше.</Text>
+    </Text>
+    <Text>
+		<GUID>6800040</GUID>
+		<Text>Броненосец</Text>
+	</Text>
+	<Text>
+		<GUID>6800041</GUID>
+		<Text>Очень быстрый боевой корабль, который подходит для догона большинства кораблей. Замедляет скорость огня противника, нацеливаясь в основном на турели.</Text>
+    </Text>
+	<Text>
+		<GUID>6700110</GUID>
+		<Text>Королевский галеон</Text>
+    </Text>
+	<Text>
+		<GUID>6700111</GUID>
+		<Text>Сделан для нашей королевы для безопасных морских перевозок. Крепкий корабль с хорошими возможностями.</Text>
+    </Text>
+	<Text>
+		<GUID>6700050</GUID>
+		<Text>Королевский военный корабль</Text>
+	</Text>
+	<Text>
+		<GUID>6700051</GUID>
+		<Text>Лицензия на ведение боевых действий на море выдана самой королевой. Эти военные корабли являются лучшими в своем классе.</Text>
+    </Text>
+	<Text>
+		<GUID>6700060</GUID>
+		<Text>Огромный Перевозчик</Text>
+	</Text>
+	<Text>
+		<GUID>6700061</GUID>
+		<Text>Перевозчик, вмещающий огромное количество товаров. При полной загрузке будет работать намного медленнее.</Text>
+    </Text>
+	<Text>
+		<GUID>6700065</GUID>
+		<Text>Внешний вид перевозчика "Тёмное дерево"</Text>
+    </Text>
+	<Text>
+		<GUID>6700067</GUID>
+		<Text>Внешний вид грузового судна "Фрейтер"</Text>
+    </Text>
+	<Text>
+		<GUID>6700107</GUID>
+		<Text>Петролье</Text>
+	</Text>
+	<Text>
+		<GUID>6700108</GUID>
+		<Text>Частный нефтяной танкер, который может свободно перемещаться по международным водам.</Text>
+    </Text>
+	<Text>
+		<GUID>6700069</GUID>
+		<Text>Капитан Фрэнсис Дрейк</Text>
+    </Text>
+	<Text>
+        <GUID>6700071</GUID>
+        <Text>Грузовой корабль</Text>
+    </Text>
+	<Text>
+		<GUID>6700072</GUID>
+		<Text>Небольшое торговое судно, подходящее для коротких торговых маршрутов.</Text>
+    </Text>
+	<Text>
+		<GUID>6700075</GUID>
+		<Text>Внешний вид грузового судна "Шэйн"</Text>
+    </Text>
+	<Text>
+		<GUID>6700077</GUID>
+		<Text>Внешний вид грузового судна "Фрейтер"</Text>
+    </Text>
+	<Text>
+		<GUID>6700047</GUID>
+		<Text>Рефрижераторное судно</Text>
+    </Text>
+	<Text>
+		<GUID>6700049</GUID>
+		<Text>Внешний вид Рефрижераторное судно "Белый кит"</Text>
+    </Text>
+	<Text>
+		<GUID>6800089</GUID>
+		<Text>Улучшенная канонерка</Text>
+    </Text>
+	<Text>
+		<GUID>6800090</GUID>
+		<Text>Улучшенный фрегат</Text>
+    </Text>
+	<Text>
+		<GUID>6800091</GUID>
+		<Text>Улучшенный королевский галеон</Text>
+    </Text>
+	<Text>
+		<GUID>6800092</GUID>
+		<Text>Улучшенный королевский военный корабль</Text>
+    </Text>
+	<Text>
+		<GUID>6800093</GUID>
+		<Text>Улучшенный монитор</Text>
+    </Text>
+	<Text>
+		<GUID>6700091</GUID>
+		<Text>Клипер</Text>
+    </Text>
+	<Text>
+		<GUID>6799961</GUID>
+		<Text>Грузовое судно</Text>
+    </Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100660']/Text">
+      <Text>Маршруты Клипер</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1088']/Text"> 
+      <Text>Модель гибридного корабля. Служит как небольшой маневренный военный корабль или как средний защищенный торговый корабль. Замедляет скорость огня противника, нацеливаясь в основном на турели.</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23377']/Text"> 
+      <Text>Самый быстрый торговый корабль, известный человеку, с приличным грузовым отсеком, что делает его идеальным для исследований и экспедиций.</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102420']/Text">
+      <Text>Улучшенная канонерка</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22020']/Text">
+      <Text>Новые технологии вырезания из дерева делают эти корабли быстрее и прочнее.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102421']/Text">
+      <Text>Улучшенный фрегат</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22021']/Text">
+      <Text>Небольшое изменение конструкции позволило увеличить броню и скорость.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102427']/Text">
+      <Text>Улучшенный королевский галеон</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22027']/Text">
+      <Text>Новые модели оснащены более прочной броней и более маневренны.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102419']/Text">
+      <Text>Улучшенный королевский военный корабль</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22022']/Text">
+      <Text>Новые двигатели делают эти типы тяжелых кораблей намного быстрее.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102422']/Text">
+      <Text>Улучшенный монитор</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22023']/Text">
+      <Text>Орудия старого типа заменены на улучшенные, что увеличило огневую мощь нового монитора. Замедляет скорость огня противника, нацеливаясь в основном на турели.</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '19973']/Text"> 
+      <Text>Благодаря своему обширному боевому опыту на море он обладает способностью выводить из строя вражеские корабли.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21402']/Text"> 
+      <Text>Главный кораблестроитель нашей Королевы. Специализируется на галеонах.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192457']/Text">
+      <Text>Гидеон Смолл, мастер канонерок</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21395']/Text">
+      <Text>Большое изобретение маленького человека - массовое производство.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192458']/Text">
+      <Text>Петра Питер, мастер фрегатов</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21396']/Text">
+      <Text>Ее изящный дизайн позволяет кораблям быть более эффективными.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192459']/Text">
+      <Text>Чжи Ян, мастер военных кораблей</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21397']/Text">
+      <Text>Его огромные военные корабли прекрасно сочетают энергию ветра с лошадиными силами от двигателя.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192460']/Text">
+      <Text>Мария Пизарро, Повелительница мониторов</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21398']/Text">
+      <Text>Бывший пират теперь улучшает мониторы, чтобы быть защищенным от нападений пиратов.</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124843']/Text">
+      <Text>Разрешение на колоссальный корабль</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124320']/Text">
+      <Text>Получите разрешения на постройку колоссальных кораблей.</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124306']/Text">
+      <Text>Колоссальные корабли будут доступны для постройки на паровые Верфь.</Text> 
+  </ModOp>
+  
+  
+  
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102423']/Text">
+      <Text>Монитор пирофорианцев</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100568']/Text">
+      <Text>Линейный крейсер</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100569']/Text">
+      <Text>Монитор</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102372']/Text">
+      <Text>Линейный крейсер</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102373']/Text">
+      <Text>Монитор</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102380']/Text">
+      <Text>Линейный крейсер</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102381']/Text">
+      <Text>Монитор</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102615']/Text">
+      <Text>Линейный крейсер</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102616']/Text">
+      <Text>Монитор</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102305']/Text">
+      <Text>Линейный крейсер</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102387']/Text">
+      <Text>Линейный крейсер</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102391']/Text">
+      <Text>Линейный крейсер</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102571']/Text">
+      <Text>Монитор</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '111166']/Text">
+      <Text>Монитор</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '80024']/Text">
+      <Text>Монитор</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '80025']/Text">
+      <Text>Линейный крейсер</Text> 
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1054']/Text">
+      <Text>"Гарпия" (вооружен)</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1056']/Text">
+      <Text>"Мантикора" (вооружен)</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1654']/Text">
+      <Text>"Гарпия"</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1655']/Text">
+      <Text>"Мантикора"</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1058']/Text">
+      <Text>"Гермес"</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1059']/Text">
+      <Text>"Пегас"</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1060']/Text">
+      <Text>"Зефир"</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1755']/Text">
+      <Text>"Борей"</Text> 
+  </ModOp>
+  
+  
+  
+
+  <ModOp Type="add" Path="TextExport/Texts">
+  
+  
+	<Text>
+		<GUID>6800201</GUID>
+		<Text>Внешний вид флагмана 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800203</GUID>
+		<Text>Внешний вид флагмана 'Красная осень'</Text>
+	</Text>
+	<Text>
+		<GUID>6800205</GUID>
+		<Text>Внешний вид имперского флагмана</Text>
+	</Text>
+	<Text>
+		<GUID>6800207</GUID>
+		<Text>Внешний вид имперского флагмана 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800209</GUID>
+		<Text>Внешний вид имперского флагмана 'Красная осень'</Text>
+	</Text>
+	<Text>
+		<GUID>6800211</GUID>
+		<Text>Внешний вид флагмана 'Северное море'</Text>
+	</Text>
+	<Text>
+		<GUID>6800213</GUID>
+		<Text>Внешний вид флагмана 'Королевская североморская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800215</GUID>
+		<Text>Внешний вид флагмана 'Красная осень Северного моря'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800217</GUID>
+		<Text>Внешний вид шхуны 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800219</GUID>
+		<Text>Внешний вид шхуны 'Красная осень'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800221</GUID>
+		<Text>Внешний вид канонерки 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800223</GUID>
+		<Text>Внешний вид канонерки 'Красная осень'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800187</GUID>
+		<Text>Внешний вид Улучшенная канонерка 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800185</GUID>
+		<Text>Внешний вид Улучшенная канонерка 'ваниль'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800225</GUID>
+		<Text>Внешний вид клиппера 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800227</GUID>
+		<Text>Внешний вид клиппера 'Красная осень'</Text>
+	</Text>
+	<Text>
+		<GUID>6800229</GUID>
+		<Text>Внешний вид клиппера 'Океанская синева'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800231</GUID>
+		<Text>Внешний вид фрегата 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800233</GUID>
+		<Text>Внешний вид фрегата 'Красная осень'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800191</GUID>
+		<Text>Внешний вид Улучшенный фрегат 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800189</GUID>
+		<Text>Внешний вид Улучшенный фрегат 'ваниль'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800239</GUID>
+		<Text>Внешний вид линкора '1701'</Text>
+	</Text>
+	<Text>
+		<GUID>6800243</GUID>
+		<Text>Внешний вид линкора 'Бронзовый Васко'</Text>
+	</Text>
+	<Text>
+		<GUID>6800245</GUID>
+		<Text>Внешний вид линкора 'Серебряный Васко'</Text>
+	</Text>
+	<Text>
+		<GUID>6800247</GUID>
+		<Text>Внешний вид линкора 'Золотой Васко'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800237</GUID>
+		<Text>Внешний вид Королевский военный корабль 'Красная осень'</Text>
+	</Text>
+	<Text>
+		<GUID>6800241</GUID>
+		<Text>Внешний вид Королевский военный корабль 'Два миллиона'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800199</GUID>
+		<Text>Внешний вид Улучшенный королевский военный корабль 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800197</GUID>
+		<Text>Внешний вид Улучшенный королевский военный корабль 'Красная осень'</Text>
+	</Text>
+  
+  
+	<Text>
+		<GUID>6800249</GUID>
+		<Text>Внешний вид грузового судна 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800251</GUID>
+		<Text>Внешний вид грузового судна 'Красная осень'</Text>
+	</Text>
+	<Text>
+		<GUID>6800253</GUID>
+		<Text>Внешний вид грузового судна 'Фрейтер'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800255</GUID>
+		<Text>Внешний вид грузового монитора 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800257</GUID>
+		<Text>Внешний вид грузового монитора 'Красная осень'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800195</GUID>
+		<Text>Внешний вид Улучшенный монитор 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800193</GUID>
+		<Text>Внешний вид Улучшенный монитор 'Красная осень'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800271</GUID>
+		<Text>Внешний вид грузового монитора с зенитным 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800273</GUID>
+		<Text>Внешний вид грузового монитора с зенитным 'Красная осень'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800275</GUID>
+		<Text>Внешний вид грузового монитора с огнеметом 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800277</GUID>
+		<Text>Внешний вид грузового монитора с огнеметом 'Красная осень'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800279</GUID>
+		<Text>Внешний вид грузового монитора с синий огнемет 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800281</GUID>
+		<Text>Внешний вид грузового монитора с синий огнемет 'Красная осень'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800259</GUID>
+		<Text>Внешний вид грузового линейного крейсера 'Королевская обшивка'</Text>
+	</Text>
+	<Text>
+		<GUID>6800261</GUID>
+		<Text>Внешний вид грузового линейного крейсера 'Красная осень'</Text>
+	</Text>
+	<Text>
+		<GUID>6800263</GUID>
+		<Text>Внешний вид грузового линейного крейсера 'Камуфляж'</Text>
+	</Text>
+	<Text>
+		<GUID>6800265</GUID>
+		<Text>Внешний вид грузового линейного крейсера '2070'</Text>
+	</Text>
+	<Text>
+		<GUID>6800267</GUID>
+		<Text>Внешний вид грузового линейного крейсера 'Два миллиона'</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800269</GUID>
+		<Text>Внешний вид Грейт Истерн 'Наследие'</Text>
+	</Text>
+	
+  </ModOp>
+  
+  
+</ModOps>

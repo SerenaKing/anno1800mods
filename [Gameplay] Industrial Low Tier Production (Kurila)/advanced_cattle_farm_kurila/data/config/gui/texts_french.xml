@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Stocke la nourriture pour les animaux et permet la production.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300957</GUID>
+      <Text>Nourrir les animaux</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300958</GUID>
+      <Text>Animaux affamés</Text>
+    </Text>
+    <Text>
+      <GUID>1404423061</GUID>
+      <Text>Milking Parlour</Text>
+    </Text>
+    <Text>
+      <GUID>1404423067</GUID>
+      <Text>Produces Milk.</Text>
+    </Text>
+    <Text>
+      <GUID>1404423065</GUID>
+      <Text>Industrial Cattle Farm</Text>
+    </Text>
+    <Text>
+      <GUID>1404423066</GUID>
+      <Text>Styles avancés pour le bétail</Text>
+    </Text>
+    <Text>
+      <GUID>1404423064</GUID>
+      <Text>Silo (alimentation du bétail)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300953</GUID>
+      <Text>Mettez le silo en pause et remettez-le en marche pour activer le tampon d'alimentation.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

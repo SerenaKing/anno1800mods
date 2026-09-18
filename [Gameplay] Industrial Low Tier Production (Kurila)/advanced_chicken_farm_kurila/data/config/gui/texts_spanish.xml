@@ -1,0 +1,30 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302600</GUID>
+      <Text>Alimentar a los animales</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302601</GUID>
+      <Text>Animales hambrientos</Text>
+    </Text>
+    <Text>
+      <GUID>1500302602</GUID>
+      <Text>Granja industrial de pollos</Text>
+    </Text>
+    <Text>
+      <GUID>1500302603</GUID>
+      <Text>Gallinero avanzado</Text>
+    </Text>
+    <Text>
+      <GUID>1500302604</GUID>
+      <Text>Silo (Comida para pollos)</Text>
+    </Text>
+    <Text>
+      <GUID>1500302606</GUID>
+      <Text>Almacena alimentos para los animales y permite la producción.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

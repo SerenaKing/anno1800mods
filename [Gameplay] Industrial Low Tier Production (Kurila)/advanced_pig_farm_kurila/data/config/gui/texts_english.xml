@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500300936</GUID>
+      <Text>Stores food for the animals and enables production.</Text>
+    </Text>
+    <Text>
+      <GUID>1404423054</GUID>
+      <Text>Feeding the Animals</Text>
+    </Text>
+    <Text>
+      <GUID>1404423060</GUID>
+      <Text>Hungry Animals</Text>
+    </Text>
+    <Text>
+      <GUID>1404423055</GUID>
+      <Text>Industrial Pig Farm</Text>
+    </Text>
+     <Text>
+      <GUID>1404423058</GUID>
+      <Text>Silo (Pig Food)</Text>
+    </Text>
+    <Text>
+      <GUID>1404423056</GUID>
+      <Text>Advanced Pig Sty</Text>
+    </Text>
+  </ModOp>
+</ModOps>

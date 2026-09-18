@@ -1,0 +1,34 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302600</GUID>
+      <Text>Nutrire gli animali</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302601</GUID>
+      <Text>Animali affamati</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302602</GUID>
+      <Text>Allevamento industriale di polli</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302603</GUID>
+      <Text>Pollaio avanzato</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302604</GUID>
+      <Text>Silo (cibo per polli)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302606</GUID>
+      <Text>Immagazzina il cibo per gli animali e consente la produzione.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

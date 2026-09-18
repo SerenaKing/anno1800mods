@@ -1,0 +1,96 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002376</GUID>
+      <Text>粘土收集器</Text>
+    </Text>
+    <Text>
+      <GUID>1999002375</GUID>
+      <Text>粘土收集器 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999002384</GUID>
+      <Text>河鱼油厂 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999002385</GUID>
+      <Text>河鱼油厂</Text>
+    </Text>
+    <Text>
+      <GUID>1999002386</GUID>
+      <Text>[AssetData(120042) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999002389</GUID>
+      <Text>鱼类丰度：&lt;i&gt;巨骨舌鱼&lt;/i&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1999002391</GUID>
+      <Text>淡水贻贝</Text>
+    </Text>
+    <Text>
+      <GUID>1999002392</GUID>
+      <Text>河珠农场 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999002393</GUID>
+      <Text>河珠农场</Text>
+    </Text>
+    <Text>
+      <GUID>1999002394</GUID>
+      <Text>[AssetData(1010256) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003200</GUID>
+      <Text>金垫圈 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003201</GUID>
+      <Text>金垫圈</Text>
+    </Text>
+    <Text>
+      <GUID>1999003202</GUID>
+      <Text>[AssetData(1010233) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003213</GUID>
+      <Text>河锯木厂 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003214</GUID>
+      <Text>河锯木厂</Text>
+    </Text>
+    <Text>
+      <GUID>1999003215</GUID>
+      <Text>[AssetData(500091) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003223</GUID>
+      <Text>水电站 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003224</GUID>
+      <Text>水电站</Text>
+    </Text>
+    <Text>
+      <GUID>1999003220</GUID>
+      <Text>利用湍急的河流的力量提供清洁的电力。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003221</GUID>
+      <Text>所有水电站</Text>
+    </Text>
+    <Text>
+      <GUID>1999003226</GUID>
+      <Text>全河锯木厂</Text>
+    </Text>
+    <Text>
+      <GUID>1999003233</GUID>
+      <Text>所有河流建筑</Text>
+    </Text>
+    <Text>
+      <GUID>1999003235</GUID>
+      <Text>包含新河牌槽位中所有可用的建筑</Text>
+    </Text>
+  </ModOp>
+</ModOps>

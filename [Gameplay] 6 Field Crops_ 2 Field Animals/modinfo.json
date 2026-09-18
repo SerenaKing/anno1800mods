@@ -1,0 +1,49 @@
+{
+	"Version": "1.0.0",
+	"ModID": "6 Field Crops_ 2 Field Animals",
+	"IncompatibleIds": null,
+	"ModDependencies": null,
+	"Category": {
+		"Chinese": "调整",
+		"English": "Adjustments",
+		"French": null,
+		"German": "Anpassung",
+		"Italian": null,
+		"Japanese": null,
+		"Korean": null,
+		"Polish": "Nastawienie",
+		"Russian": null,
+		"Spanish": null,
+		"Taiwanese": null
+	},
+	"ModName": {
+		"Chinese": "6 Field Crops_ 2 Field Animals",
+		"English": "6 Field Crops_ 2 Field Animals",
+		"French": "6 Field Crops_ 2 Field Animals",
+		"German": "6 Field Crops_ 2 Field Animals",
+		"Italian": "6 Field Crops_ 2 Field Animals",
+		"Japanese": "6 Field Crops_ 2 Field Animals",
+		"Korean": "6 Field Crops_ 2 Field Animals",
+		"Polish": "6 Field Crops_ 2 Field Animals",
+		"Russian": "6 Field Crops_ 2 Field Animals",
+		"Spanish": "6 Field Crops_ 2 Field Animals",
+		"Taiwanese": "6 Field Crops_ 2 Field Animals"
+	},
+	"Description": {
+		"Chinese": "6 Field Crops_ 2 Field Animals",
+		"English": "6 Field Crops_ 2 Field Animals",
+		"French": "6 Field Crops_ 2 Field Animals",
+		"German": "6 Field Crops_ 2 Field Animals",
+		"Italian": "6 Field Crops_ 2 Field Animals",
+		"Japanese": "6 Field Crops_ 2 Field Animals",
+		"Korean": "6 Field Crops_ 2 Field Animals",
+		"Polish": "6 Field Crops_ 2 Field Animals",
+		"Russian": "6 Field Crops_ 2 Field Animals",
+		"Spanish": "6 Field Crops_ 2 Field Animals",
+		"Taiwanese": "6 Field Crops_ 2 Field Animals"
+	},
+	"KnownIssues": null,
+	"DLCDependencies": null,
+	"CreatorName": "Senfdeckel98",
+	"CreatorContact": "Senfdeckel98"
+}

@@ -1,0 +1,16 @@
+<ModOps>
+    <ImyaTweaks Title="Features of Influence for Arctic Residences" Description="Influence amount for Arctis Residences" Icon="data/ui/2kimages/main/icons/icon_influence.png" />
+    <!-- Explorers -->
+    <ModOp Type="merge" GUID="112091" Path="/Values/InfluenceSource" ModOpID="InfluenceExplorers">
+        <InfluenceAmount>0</InfluenceAmount>
+        <InfluenceSource>Culture</InfluenceSource>
+    </ModOp>
+    <ImyaExpose Path="self::InfluenceAmount" ModOpID="InfluenceExplorers" ExposeID="Influence Amount Explorers Residence"></ImyaExpose>
+
+    <!-- Researchers -->
+    <ModOp Type="merge" GUID="112652" Path="/Values/InfluenceSource" ModOpID="InfluenceResearchers">
+        <InfluenceAmount>0</InfluenceAmount>
+        <InfluenceSource>Culture</InfluenceSource>
+    </ModOp>
+    <ImyaExpose Path="self::InfluenceAmount" ModOpID="InfluenceResearchers" ExposeID="Influence Amount Researchers Residence"></ImyaExpose>
+</ModOps>

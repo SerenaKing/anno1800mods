@@ -1,0 +1,55 @@
+{
+  "Version": "1.2.1",
+  "ModID": "advanced_beer_brewery_kurila",
+  "DeprecateIds": [],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+  ],
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Sub-Mod",
+    "Chinese": "Sub-Mod",
+    "French": "Sub-Mod",
+    "German": "Sub-Mod",
+    "Italian": "Sub-Mod",
+    "Japanese": "Sub-Mod",
+    "Korean": "Sub-Mod",
+    "Polish": "Sub-Mod",
+    "Russian": "Sub-Mod",
+    "Spanish": "Sub-Mod",
+    "Taiwanese": "Sub-Mod"
+  },
+  "ModName": {
+    "Chinese": "Advanced Beer Brewery (Kurila)",
+    "English": "Advanced Beer Brewery (Kurila)",
+    "French": "Advanced Beer Brewery (Kurila)",
+    "German": "Advanced Beer Brewery (Kurila)",
+    "Italian": "Advanced Beer Brewery (Kurila)",
+    "Japanese": "Advanced Beer Brewery (Kurila)",
+    "Korean": "Advanced Beer Brewery (Kurila)",
+    "Polish": "Advanced Beer Brewery (Kurila)",
+    "Russian": "Advanced Beer Brewery (Kurila)",
+    "Spanish": "Advanced Beer Brewery (Kurila)",
+    "Taiwanese": "Advanced Beer Brewery (Kurila)"
+  },
+  "Description": {
+    "English": "file::README.md",
+    "German": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

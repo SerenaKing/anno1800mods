@@ -1,0 +1,194 @@
+<ModOps>
+  <!-- Beer II -->
+    <Group>
+      <!-- New Entries -->
+        <Group>
+          <ModOp Type="addNextSibling" GUID='1010292'>
+            <Asset>
+              <Template>FactoryBuilding7</Template>
+              <Values>
+                <Standard>
+                  <GUID>1500301103</GUID>
+                  <Name>Advanced_Beer_Brewery</Name>
+                  <IconFilename>data\modgraphics\icons\icon_advanced_beer.png</IconFilename>
+                </Standard>
+                <Building>
+                  <SecondPartyRelevant>0</SecondPartyRelevant>
+                  <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                  <AssociatedRegions>Moderate</AssociatedRegions>
+                  <SecondPartyRelevant>0</SecondPartyRelevant>
+                  <BuildingCategoryName>1500301059</BuildingCategoryName>
+                </Building>
+                <Blocking />
+                <Cost>
+                  <Costs>
+                    <Item>
+                      <Ingredient>1010017</Ingredient>
+                      <Amount>3200</Amount>
+                    </Item>
+                    <Item>
+                      <Ingredient>1010196</Ingredient>
+                      <Amount>10</Amount>
+                    </Item>
+                    <Item>
+                      <Ingredient>1010205</Ingredient>
+                      <Amount>20</Amount>
+                    </Item>
+                    <Item>
+                      <Ingredient>1010218</Ingredient>
+                      <Amount>20</Amount>
+                    </Item>
+                    <Item>
+                      <Ingredient>1010207</Ingredient>
+                      <Amount>0</Amount>
+                    </Item>
+                    <Item>
+                      <Ingredient>1010202</Ingredient>
+                    </Item>
+                  </Costs>
+                </Cost>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data\modgraphics\beer\large_brewery.cfg</Filename>
+                    </Item>
+                  </Variations>
+                  <Skins>
+                    <DefaultSkinName>1500301103</DefaultSkinName>
+                  </Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                  <ParticipantMessageArcheType>Resident_tier02_atWork</ParticipantMessageArcheType>
+                  <Colors>
+                    <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                  </Colors>
+                </Selection>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                  <ActiveSounds>
+                    <Item>
+                      <Sound>216877</Sound>
+                    </Item>
+                    <Item>
+                      <Sound>206335</Sound>
+                    </Item>
+                  </ActiveSounds>
+                  <IncidentSounds>
+                    <InfectedFire>
+                      <Item>
+                        <Sound>214659</Sound>
+                      </Item>
+                    </InfectedFire>
+                  </IncidentSounds>
+                  <MaterialType>MetalChamber</MaterialType>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <Factory7 />
+                <FactoryBase>
+                  <FactoryInputs>
+                    <Item>
+                      <Product>1010194</Product>
+                      <Amount>1</Amount>
+                      <StorageAmount>4</StorageAmount>
+                    </Item>
+                    <Item>
+                      <Product>1010236</Product>
+                      <Amount>1</Amount>
+                      <StorageAmount>4</StorageAmount>
+                    </Item>
+                  </FactoryInputs>
+                  <FactoryOutputs>
+                    <Item>
+                      <Product>1010214</Product>
+                      <Amount>1</Amount>
+                      <StorageAmount>20</StorageAmount>
+                    </Item>
+                  </FactoryOutputs>
+                  <CycleTime>15</CycleTime>
+                  <IsMainFactory>0</IsMainFactory>
+                </FactoryBase>
+                <LogisticNode />
+                <AmbientMoodProvider>
+                  <Murmur>Factory</Murmur>
+                  <DynamicEnvironmentType>None</DynamicEnvironmentType>
+                </AmbientMoodProvider>
+                <Maintenance>
+                  <Maintenances>
+                    <Item>
+                      <Product>1010017</Product>
+                      <Amount>400</Amount>
+                      <InactiveAmount>200</InactiveAmount>
+                    </Item>
+                    <Item>
+                      <Product>1010115</Product>
+                      <Amount>150</Amount>
+                    </Item>
+                  </Maintenances>
+                </Maintenance>
+                <Attackable>
+                  <MaximumHitPoints>1500</MaximumHitPoints>
+                  <SelfHealPerHealTick>4</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfectable>
+                  <Explosion>
+                    <ExplosionCoreDamage>1000</ExplosionCoreDamage>
+                    <DamageExplosionChance>30</DamageExplosionChance>
+                  </Explosion>
+                  <IncidentInfectionChanceFactors>
+                    <Fire>
+                      <DensityDistance>20</DensityDistance>
+                      <FactoryProductivityFactor>0.1</FactoryProductivityFactor>
+                      <FactoryUndertimeFactor>0.05</FactoryUndertimeFactor>
+                    </Fire>
+                    <Riot>
+                      <FactoryOvertimeFactor>0.4</FactoryOvertimeFactor>
+                      <FactoryUndertimeFactor>0.2</FactoryUndertimeFactor>
+                      <FactoryHappinessFactor>0.2</FactoryHappinessFactor>
+                      <HappinessThreshold>20</HappinessThreshold>
+                    </Riot>
+                    <Explosion>
+                      <BaseChance>4</BaseChance>
+                      <FactoryProductivityFactor>0.1</FactoryProductivityFactor>
+                      <FactoryOvertimeFactor>0.1</FactoryOvertimeFactor>
+                      <FactoryUndertimeFactor>0.05</FactoryUndertimeFactor>
+                    </Explosion>
+                  </IncidentInfectionChanceFactors>
+                </IncidentInfectable>
+                <Industrializable />
+                <Culture>
+                  <CultureType>Culture</CultureType>
+                </Culture>
+                <QuestObject />
+                <Electrifiable />
+              </Values>
+            </Asset>
+          </ModOp>
+        </Group>
+      <!-- Adding to Pools/Buffs/Menus -->
+        <Group>
+          <!-- Beer Brewery -->
+            <ModOp Type="add" Path="//ItemEffectTargetPool/EffectTargetGUIDs[Item/GUID='1010292']">
+              <Item>
+                <GUID>1500301103</GUID>
+              </Item>
+            </ModOp>
+          <!-- WorkforceMenu -->
+            <ModOp GUID="25000087" Type="add" Path= "/Values/WorkforceMenu/BoostableFactories">
+              <Item>
+                <Factory>1500301103</Factory>
+              </Item>
+            </ModOp>
+          <!-- Feedbacks -->
+            <ModOp Type="add" GUID="142311" Path="/Values/FeedbackBuildingGroup/Buildings">
+              <Item>
+                <Building>1500301103</Building>
+              </Item>
+            </ModOp>
+        </Group>
+    </Group>
+</ModOps>

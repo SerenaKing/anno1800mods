@@ -1,0 +1,104 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002372</GUID>
+      <Text>Сборщик глины</Text>
+    </Text>
+    <Text>
+      <GUID>1999002373</GUID>
+      <Text>Рабочая зона для сборщика глины</Text>
+    </Text>
+    <Text>
+      <GUID>1999003217</GUID>
+      <Text>Изобилие рыбы: &lt;i&gt;форель&lt;/i&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1999002379</GUID>
+      <Text>Рабочая зона речного рыболовства</Text>
+    </Text>
+    <Text>
+      <GUID>1999002380</GUID>
+      <Text>Речной рыбный промысел</Text>
+    </Text>
+    <Text>
+      <GUID>1999002381</GUID>
+      <Text>[AssetData(1010200) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003205</GUID>
+      <Text>Рабочая зона речной мукомольной мельницы</Text>
+    </Text>
+    <Text>
+      <GUID>1999003206</GUID>
+      <Text>Речная мукомольная мельница</Text>
+    </Text>
+    <Text>
+      <GUID>1999003209</GUID>
+      <Text>Рабочая зона лесопилки Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003210</GUID>
+      <Text>Речная лесопилка</Text>
+    </Text>
+    <Text>
+      <GUID>1999003211</GUID>
+      <Text>[AssetData(500091) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003218</GUID>
+      <Text>Рабочая зона речной электростанции</Text>
+    </Text>
+    <Text>
+      <GUID>1999003219</GUID>
+      <Text>Речная электростанция</Text>
+    </Text>
+    <Text>
+      <GUID>1999003220</GUID>
+      <Text>Обеспечивает чистое электричество за счет использования энергии бурлящей реки.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003221</GUID>
+      <Text>Все речные электростанции</Text>
+    </Text>
+    <Text>
+      <GUID>1999003226</GUID>
+      <Text>Все речные лесопилки</Text>
+    </Text>
+    <Text>
+      <GUID>1999003232</GUID>
+      <Text>Все здания на реке</Text>
+    </Text>
+    <Text>
+      <GUID>1999003234</GUID>
+      <Text>Содержит все здания, доступные для новых слотов «Реки»</Text>
+    </Text>
+    <Text>
+      <GUID>1999005262</GUID>
+      <Text>Современная насосная станция</Text>
+    </Text>
+    <Text>
+      <GUID>1999005263</GUID>
+      <Text>Современная рабочая зона насосной станции</Text>
+    </Text>
+    <Text>
+      <GUID>1999005596</GUID>
+      <Text>Водоснабжение очищенной воды</Text>
+    </Text>
+    <Text>
+      <GUID>1999010367</GUID>
+      <Text>Шахта по добыче речного песка</Text>
+    </Text>
+    <Text>
+      <GUID>1999010368</GUID>
+      <Text>Шахта по добыче речного песка Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999010371</GUID>
+      <Text>Речная бумажная фабрика</Text>
+    </Text>
+    <Text>
+      <GUID>1999010372</GUID>
+      <Text>Речная бумажная фабрика Workarea</Text>
+    </Text>
+  </ModOp>
+</ModOps>

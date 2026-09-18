@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Przechowuje żywność dla zwierząt i umożliwia produkcję.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302610</GUID>
+      <Text>Karmienie zwierząt</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302611</GUID>
+      <Text>Głodne zwierzęta</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302340</GUID>
+      <Text>Fabryka Sera</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302615</GUID>
+      <Text>Przemysłowa farma mleczna</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302616</GUID>
+      <Text>Advanced Cattle Sty</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302617</GUID>
+      <Text>Silos (żywność dla bydła)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302619</GUID>
+      <Text>Zatrzymaj silos i włącz go ponownie, aby aktywować wzmocnienie podawania.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

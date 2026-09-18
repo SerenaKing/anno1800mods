@@ -1,0 +1,96 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002376</GUID>
+      <Text>Сборщик глины</Text>
+    </Text>
+    <Text>
+      <GUID>1999002375</GUID>
+      <Text>Рабочая зона для сборщика глины</Text>
+    </Text>
+    <Text>
+      <GUID>1999002384</GUID>
+      <Text>Рабочая зона завода по производству речного рыбного масла</Text>
+    </Text>
+    <Text>
+      <GUID>1999002385</GUID>
+      <Text>Завод по производству речного рыбного масла</Text>
+    </Text>
+    <Text>
+      <GUID>1999002386</GUID>
+      <Text>[AssetData(120042) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999002389</GUID>
+      <Text>Изобилие рыбы: &lt;i&gt;Арапайма&lt;/i&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1999002391</GUID>
+      <Text>Пресноводные мидии</Text>
+    </Text>
+    <Text>
+      <GUID>1999002392</GUID>
+      <Text>Рабочая зона фермы River Pearl</Text>
+    </Text>
+    <Text>
+      <GUID>1999002393</GUID>
+      <Text>Река Жемчужная ферма</Text>
+    </Text>
+    <Text>
+      <GUID>1999002394</GUID>
+      <Text>[AssetData(1010256) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003200</GUID>
+      <Text>Рабочая зона River Gold Waser</Text>
+    </Text>
+    <Text>
+      <GUID>1999003201</GUID>
+      <Text>Золотая шайба</Text>
+    </Text>
+    <Text>
+      <GUID>1999003202</GUID>
+      <Text>[AssetData(1010233) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003213</GUID>
+      <Text>Рабочая зона лесопилки River</Text>
+    </Text>
+    <Text>
+      <GUID>1999003214</GUID>
+      <Text>Речная лесопилка</Text>
+    </Text>
+    <Text>
+      <GUID>1999003215</GUID>
+      <Text>[AssetData(500091) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003223</GUID>
+      <Text>Рабочая зона речной электростанции на северо-западе</Text>
+    </Text>
+    <Text>
+      <GUID>1999003224</GUID>
+      <Text>Речная электростанция</Text>
+    </Text>
+    <Text>
+      <GUID>1999003220</GUID>
+      <Text>Обеспечивает чистое электричество за счет использования энергии бурлящей реки.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003221</GUID>
+      <Text>Все речные электростанции</Text>
+    </Text>
+    <Text>
+      <GUID>1999003226</GUID>
+      <Text>Все речные лесопилки</Text>
+    </Text>
+    <Text>
+      <GUID>1999003233</GUID>
+      <Text>Все здания на реке</Text>
+    </Text>
+    <Text>
+      <GUID>1999003235</GUID>
+      <Text>Содержит все здания, доступные для новых слотов «Реки»</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Хранит корм для животных и обеспечивает им производство.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300957</GUID>
+      <Text>Кормление животных</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300958</GUID>
+      <Text>Голодные животные</Text>
+    </Text>
+    <Text>
+      <GUID>1404423061</GUID>
+      <Text>Доильный цех</Text>
+    </Text>
+    <Text>
+      <GUID>1404423067</GUID>
+      <Text>Производит молоко.</Text>
+    </Text>
+    <Text>
+      <GUID>1404423065</GUID>
+      <Text>Промышленная скотоферма</Text>
+    </Text>
+    <Text>
+      <GUID>1404423066</GUID>
+      <Text>Улучшенное пастбище</Text>
+    </Text>
+    <Text>
+      <GUID>1404423064</GUID>
+      <Text>Силос (корм для животных)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300953</GUID>
+      <Text>Остановите бункер и включите его снова, чтобы активировать бафф.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

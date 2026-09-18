@@ -1,0 +1,80 @@
+<ModOps> 
+
+
+  <ModOp Type="add" Path="TextExport/Texts">
+    <Text>
+		<GUID>6799978</GUID>
+		<Text>易损目标 （港炮）</Text>
+	</Text>
+	<Text>
+		<GUID>6800006</GUID>
+		<Text>高级战斗巡洋舰</Text>
+	</Text>
+	<Text>
+		<GUID>6800183</GUID>
+		<Text>高级战斗巡洋舰 '贵气镀金美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800181</GUID>
+		<Text>高级战斗巡洋舰 '秋红美学' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800099</GUID>
+		<Text>高级战斗巡洋舰 '突击队' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800097</GUID>
+		<Text>高级战斗巡洋舰 '2070' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800095</GUID>
+		<Text>高级战斗巡洋舰 '两百万' 外观</Text>
+	</Text>
+	<Text>
+		<GUID>6800000</GUID>
+		<Text>高级战列舰</Text>
+	</Text>
+	<Text>
+		<GUID>6800001</GUID>
+		<Text>比普通的战舰更坚固更强大，但速度稍慢。</Text>
+    </Text>
+    <Text>
+		<GUID>6800100</GUID>
+		<Text>高级造船厂</Text>
+	</Text>
+	<Text>
+		<GUID>6800101</GUID>
+		<Text>先进造船厂，建造能力未知。</Text>
+    </Text>
+	<Text>
+		<GUID>6800050</GUID>
+		<Text>港炮</Text>
+	</Text>
+	<Text>
+		<GUID>6700105</GUID>
+		<Text>港炮</Text>
+	</Text>
+	<Text>
+		<GUID>6700104</GUID>
+		<Text>港炮</Text>
+	</Text>
+	<Text>
+		<GUID>6700103</GUID>
+		<Text>港炮</Text>
+	</Text>
+	<Text>
+		<GUID>6800051</GUID>
+		<Text>一门巨大的大炮，可以更加保护岛屿。</Text>
+    </Text>
+	<Text>
+		<GUID>6700114</GUID>
+		<Text>AI Combat Ship Buff（仅适用于 AI），如果您看到这个东西是错误的，因为玩家永远不应该得到这个！你有一个你做不到的 AI LIGHTHOUSE！不兼容问题（可能是“接管废墟”模组）！阅读 MOD 说明并按照其中解释的分步过程删除另一个 MOD！</Text>
+    </Text>
+	<Text>
+		<GUID>6700115</GUID>
+		<Text>AI Trade Ship Buff（仅适用于 AI），如果您看到这个东西是错误的，因为玩家永远不应该得到这个！你有一个你做不到的 AI LIGHTHOUSE！不兼容问题（可能是“接管废墟”模组）！阅读 MOD 说明并按照其中解释的分步过程删除另一个 MOD！</Text>
+    </Text>
+  </ModOp>
+  
+  
+</ModOps>

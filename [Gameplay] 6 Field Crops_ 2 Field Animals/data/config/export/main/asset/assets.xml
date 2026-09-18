@@ -1,0 +1,302 @@
+<ModOps>
+	<!-- Remove Tractor Buff -->
+	<ModOp Path="/Values/ModuleOwnerUpgrade" GUID="269980" Type="replace">
+		<ModuleOwnerUpgrade>
+			<ModuleLimitPercent>0</ModuleLimitPercent>
+		</ModuleOwnerUpgrade>
+	</ModOp>
+
+	<!-- 6 Field Crops, 2 Field Animals -->
+	
+	<!-- Animal Farms -->
+	
+	<!-- Old World -->
+	<!-- Sheep Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010267" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>2</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+	
+	<!-- Pig Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010269" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>2</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+	
+	<!-- Cattle Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010263" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>2</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+	
+	<!-- New World -->
+	<!-- Alpaca Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="101272" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>2</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>	
+	
+	<!-- Cattle Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="101269" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>2</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+	
+	<!-- Nandu Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="5457" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>2</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>	
+	
+	<!-- Arctic -->
+	<!-- Goose Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="112676" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>2</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Husky Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="112682" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>2</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>	
+	
+	<!-- Enbesa -->
+	<!-- Goat Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="114456" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>2</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Sanga Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="114439" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>2</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>	
+	
+	<!-- Crop Farms -->
+	
+	<!-- Old World -->
+	<!-- Potato Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010265" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Grain Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010262" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Hop Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010264" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Red Pepper Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="100654" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Vineyard -->
+	<ModOp Path="/Values/ModuleOwner" GUID="100655" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- New World -->
+
+	<!-- Orchid Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="5814" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+	
+	<!-- Herb Garden -->
+	<ModOp Path="/Values/ModuleOwner" GUID="5463" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>	
+	
+	<!-- Plantain Plantation -->
+	<ModOp Path="/Values/ModuleOwner" GUID="101263" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Sugar Cane Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010329" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Corn Farm -->
+	<ModOp Path="/Values/ModuleOwner" GUID="101270" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Cotton Plantation -->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010331" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Coffee Plantation -->
+	<ModOp Path="/Values/ModuleOwner" GUID="101251" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Caoutchouc Plantation -->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010333" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Tobacco Plantation -->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010330" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Cocoa Plantation-->
+	<ModOp Path="/Values/ModuleOwner" GUID="1010332" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Enbesa -->
+	<!-- Hibiscus-->
+	<ModOp Path="/Values/ModuleOwner" GUID="114447" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Indigo-->
+	<ModOp Path="/Values/ModuleOwner" GUID="114451" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Linseed-->
+	<ModOp Path="/Values/ModuleOwner" GUID="114448" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Spice-->
+	<ModOp Path="/Values/ModuleOwner" GUID="114452" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Teff-->
+	<ModOp Path="/Values/ModuleOwner" GUID="114450" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+	<!-- Apiary -->
+	<ModOp Path="/Values/ModuleOwner" GUID="114453" Type="merge">
+		<ModuleLimits>
+			<Main>
+				<Limit>6</Limit>
+			</Main>
+		</ModuleLimits>
+	</ModOp>
+
+</ModOps>

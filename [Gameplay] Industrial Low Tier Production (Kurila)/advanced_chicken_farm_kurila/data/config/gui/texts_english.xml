@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500302600</GUID>
+      <Text>Feeding the Animals</Text>
+    </Text>
+    <Text>
+      <GUID>1500302601</GUID>
+      <Text>Hungry Animals</Text>
+    </Text>
+    <Text>
+      <GUID>1500302602</GUID>
+      <Text>Industrial Chicken Farm</Text>
+    </Text>
+    <Text>
+      <GUID>1500302603</GUID>
+      <Text>Advanced Chicken Coop</Text>
+    </Text>
+    <Text>
+      <GUID>1500302604</GUID>
+      <Text>Silo (Chicken Food)</Text>
+    </Text>
+    <Text>
+      <GUID>1500302606</GUID>
+      <Text>Stores food for the animals and enables production.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

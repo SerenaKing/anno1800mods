@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1404423030</GUID>
+      <Text>Veleros avanzados</Text>
+    </Text>
+  </ModOp>
+</ModOps>

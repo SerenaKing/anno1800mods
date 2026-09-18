@@ -1,0 +1,43 @@
+{
+  "Version": "1.0.2",
+  "ModID": "shared-one-step-influence",
+  "Category": {
+    "English": "Shared",
+    "Chinese": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Japanese": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "English": "One Step Influence",
+    "Chinese": "One Step Influence",
+    "French": "One Step Influence",
+    "German": "One Step Influence",
+    "Italian": "One Step Influence",
+    "Japanese": "One Step Influence",
+    "Korean": "One Step Influence",
+    "Polish": "One Step Influence",
+    "Russian": "One Step Influence",
+    "Spanish": "One Step Influence",
+    "Taiwanese": "One Step Influence"
+  },
+  "Description": {
+    "English": "README.md",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

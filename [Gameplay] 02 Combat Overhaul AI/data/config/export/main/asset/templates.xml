@@ -1,0 +1,23 @@
+<ModOps> 
+
+
+  
+  <ModOp Type="add" Template="Profile_2ndParty" Path="/Properties/ConstructionAI/CrafterConfiguration/CrafterConstruction">
+			  <Item>
+                  <CrafterBuilding>6800100</CrafterBuilding> 
+                  <SessionType>MainForRegion</SessionType> 
+              </Item>
+			  <Item>
+                  <CrafterBuilding>6800100</CrafterBuilding> 
+                  <SessionType>Other</SessionType> 
+                  <RequiredUnlock>1010285</RequiredUnlock> 
+              </Item>
+			  <Item>
+                  <CrafterBuilding>1010521</CrafterBuilding> 
+                  <SessionType>Other</SessionType> 
+                  <RequiredUnlock>1010285</RequiredUnlock> 
+              </Item>
+  </ModOp>
+  
+  
+</ModOps>

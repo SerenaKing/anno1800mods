@@ -1,0 +1,12 @@
+{
+  "ModID": "military_attention_disable_vanilla_changes",
+  "Version": "1.0",
+  "ModName": {
+    "English": "Military Attention - No Vanilla Changes"
+  },
+  "Category": {},
+  "LoadAfterIds": [],
+  "ModDependencies": [],
+  "IncompatibleIds": [],
+  "DeprecateIds": []
+}

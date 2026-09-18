@@ -1,0 +1,590 @@
+<ModOps> 
+
+
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+	<Text>
+		<GUID>6799982</GUID>
+		<Text>Bersaglio facile (Torre del cannone)</Text>
+    </Text>
+	<Text>
+		<GUID>6799979</GUID>
+		<Text>Bersaglio facile (Torre lanciafiamme)</Text>
+    </Text>
+	<Text>
+		<GUID>6799977</GUID>
+		<Text>Bersaglio facile (Arma anti-armatura)</Text>
+    </Text>
+	<Text>
+		<GUID>6799976</GUID>
+		<Text>Bersaglio facile (Grande Berta)</Text>
+    </Text>
+	<Text>
+		<GUID>6799989</GUID>
+		<Text>Danno Flak</Text>
+    </Text>
+	<Text>
+		<GUID>6799990</GUID>
+		<Text>Impatto del Siluro</Text>
+    </Text>
+	<Text>
+		<GUID>6799991</GUID>
+		<Text>Il mio impatto</Text>
+    </Text>
+	<Text>
+		<GUID>6799992</GUID>
+		<Text>A Fuoco</Text>
+    </Text>
+	<Text>
+		<GUID>6799993</GUID>
+		<Text>Scafo Forato</Text>
+    </Text>
+	<Text>
+		<GUID>6799994</GUID>
+		<Text>Torrette Compromesse</Text>
+    </Text>
+	<Text>
+        <GUID>6800008</GUID>
+        <Text>Relitto</Text>
+    </Text>
+	<Text>
+		<GUID>6799986</GUID>
+		<Text>Dreadnought</Text>
+	</Text>
+	<Text>
+		<GUID>6799984</GUID>
+		<Text>Dreadnought</Text>
+	</Text>
+	<Text>
+		<GUID>6799983</GUID>
+		<Text>Navi Dreadnought</Text>
+    </Text>
+	<Text>
+		<GUID>6800029</GUID>
+		<Text>Dreadnought sono un nuovo tipo di corazzata con potenza di fuoco massimizzata, anche se a causa delle loro enormi dimensioni sono vulnerabili alle Torre del cannone.</Text>
+    </Text> 
+	<Text>
+		<GUID>6800030</GUID>
+		<Text>Corazzate</Text>
+	</Text>
+	<Text>
+		<GUID>6800031</GUID>
+		<Text>Le corazzate sono l'orgoglio della marina. Sono potenti e carri armati ma costano molta manutenzione e dovrebbero essere accompagnati da navi più piccole.</Text>
+    </Text>
+    <Text>
+		<GUID>6800040</GUID>
+		<Text>Ironclad</Text>
+	</Text>
+	<Text>
+		<GUID>6800041</GUID>
+		<Text>Una nave da guerra molto veloce adatta a raggiungere la maggior parte delle navi. Rallenta la velocità di fuoco del nemico prendendo di mira principalmente le torrette.</Text>
+    </Text>
+	<Text>
+		<GUID>6700110</GUID>
+		<Text>Galeone Reale</Text>
+    </Text>
+	<Text>
+		<GUID>6700111</GUID>
+		<Text>Realizzato per la nostra regina per trasferimenti sicuri all'estero. Nave robusta con buone capacità.</Text>
+    </Text>
+	<Text>
+		<GUID>6700050</GUID>
+		<Text>Nave da guerra reale</Text>
+	</Text>
+	<Text>
+		<GUID>6700051</GUID>
+		<Text>Autorizzato alla guerra marittima dalla stessa regina. Queste navi da guerra sono il top di gamma.</Text>
+    </Text>
+	<Text>
+		<GUID>6700060</GUID>
+		<Text>Nave da carico enorme</Text>
+	</Text>
+	<Text>
+		<GUID>6700061</GUID>
+		<Text>Nave da carico che supporta enormi quantità di merci. Sarà molto più lento se completamente caricato.</Text>
+    </Text>
+	<Text>
+		<GUID>6700065</GUID>
+		<Text>Nave da carico enorme 'legno scuro' skin</Text>
+    </Text>
+	<Text>
+		<GUID>6700067</GUID>
+		<Text>Nave da carico enorme 'Cargo' skin</Text>
+    </Text>
+	<Text>
+		<GUID>6700107</GUID>
+		<Text>Petroliera</Text>
+	</Text>
+	<Text>
+		<GUID>6700108</GUID>
+		<Text>Petroliera privata che può viaggiare liberamente nelle acque internazionali.</Text>
+    </Text>
+	<Text>
+		<GUID>6700069</GUID>
+		<Text>Capitano Francis Drake</Text>
+    </Text>
+	<Text>
+        <GUID>6700071</GUID>
+        <Text>Barca da carico</Text>
+    </Text>
+	<Text>
+		<GUID>6700072</GUID>
+		<Text>Una piccola nave mercantile adatta a rotte commerciali più brevi.</Text>
+    </Text>
+	<Text>
+		<GUID>6700075</GUID>
+		<Text>Barca da carico 'Shane' skin</Text>
+    </Text>
+	<Text>
+		<GUID>6700077</GUID>
+		<Text>Barca da carico 'Cargo' skin</Text>
+    </Text>
+	<Text>
+		<GUID>6700047</GUID>
+		<Text>Nave Frigorifera</Text>
+    </Text>
+	<Text>
+		<GUID>6700049</GUID>
+		<Text>Nave Frigorifera 'Balena bianca' Skin</Text>
+    </Text>
+	<Text>
+		<GUID>6800089</GUID>
+		<Text>Cannoniera migliorata</Text>
+    </Text>
+	<Text>
+		<GUID>6800090</GUID>
+		<Text>Fregata migliorata</Text>
+    </Text>
+	<Text>
+		<GUID>6800091</GUID>
+		<Text>Galeone reale migliorato</Text>
+    </Text>
+	<Text>
+		<GUID>6800092</GUID>
+		<Text>Nave da guerra reale migliorato</Text>
+    </Text>
+	<Text>
+		<GUID>6800093</GUID>
+		<Text>Monitore migliorato</Text>
+    </Text>
+	<Text>
+		<GUID>6700091</GUID>
+		<Text>Veliero</Text>
+    </Text>
+	<Text>
+		<GUID>6799961</GUID>
+		<Text>Nave mercantile</Text>
+    </Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100660']/Text">
+      <Text>Charter Veliero</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1088']/Text"> 
+      <Text>Modello di nave ibrida. Serve come una piccola nave da guerra agile o come una nave mercantile di media difesa. Rallenta la velocità di fuoco del nemico prendendo di mira principalmente le torrette.</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23377']/Text"> 
+      <Text>La nave mercantile più veloce conosciuta dall'uomo con una discreta stiva, che la rende perfetta per l'esplorazione e le spedizioni.</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102420']/Text">
+      <Text>Cannoniera migliorata</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22020']/Text">
+      <Text>Nuove tecniche di intaglio del legno rendono queste navi più veloci e più forti.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102421']/Text">
+      <Text>Fregata migliorata</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22021']/Text">
+      <Text>Un leggero cambiamento nel design ha consentito maggiore armatura e velocità.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102427']/Text">
+      <Text>Galeone reale migliorato</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22027']/Text">
+      <Text>I modelli più recenti sono dotati di armature più forti e sono più agili.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102419']/Text">
+      <Text>Nave da guerra reale migliorato</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22022']/Text">
+      <Text>I nuovi motori rendono questi tipi di navi pesanti molto più veloci.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102422']/Text">
+      <Text>Monitore migliorato</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22023']/Text">
+      <Text>Piccoli cannoni che sostituiscono quelli vecchi, danno al nuovo monitor più potenza di fuoco. Rallenta la velocità di fuoco del nemico prendendo di mira principalmente le torrette.</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '19973']/Text"> 
+      <Text>Grazie alla sua vasta esperienza nel combattimento navale, ha la capacità di inabilitare le navi nemiche.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21402']/Text"> 
+      <Text>Cantiere navale-Maestro della nostra regina. Specializzato in galeoni.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192457']/Text">
+      <Text>Gideon Small, maestro delle cannoniere</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21395']/Text">
+      <Text>Grande invenzione di un piccolo uomo - produzione di massa.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192458']/Text">
+      <Text>Petra Piper, maestro delle fregate</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21396']/Text">
+      <Text>Il suo design elegante consente alle navi di essere più efficaci.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192459']/Text">
+      <Text>Shih Yang, maestro delle navi da guerra</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21397']/Text">
+      <Text>Le sue grandi navi da guerra combinano perfettamente l'energia eolica con la potenza di un motore.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192460']/Text">
+      <Text>Maria Pizarro, Maestra dei Monitori</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21398']/Text">
+      <Text>L'ex pirata ora sta migliorando i monitor, per essere al sicuro dagli attacchi dei pirati.</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124843']/Text">
+      <Text>Permesso di nave colossale</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124320']/Text">
+      <Text>Ottieni i permessi per costruire navi colossali.</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124306']/Text">
+      <Text>Le navi colossali saranno disponibili per la costruzione presso il cantiere navale a vapore.</Text> 
+  </ModOp>
+  
+  
+  
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102423']/Text">
+      <Text>Monitore dei Pirforiani</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100568']/Text">
+      <Text>Incrociatore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100569']/Text">
+      <Text>Monitore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102372']/Text">
+      <Text>Incrociatore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102373']/Text">
+      <Text>Monitore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102380']/Text">
+      <Text>Incrociatore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102381']/Text">
+      <Text>Monitore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102615']/Text">
+      <Text>Incrociatore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102616']/Text">
+      <Text>Monitore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102305']/Text">
+      <Text>Incrociatore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102387']/Text">
+      <Text>Incrociatore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102391']/Text">
+      <Text>Incrociatore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102571']/Text">
+      <Text>Monitore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '111166']/Text">
+      <Text>Monitore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '80024']/Text">
+      <Text>Monitore</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '80025']/Text">
+      <Text>Incrociatore</Text> 
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1054']/Text">
+      <Text>Arpia (armato)</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1056']/Text">
+      <Text>Manticora (armato)</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1654']/Text">
+      <Text>Arpia</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1655']/Text">
+      <Text>Manticora</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1058']/Text">
+      <Text>Ermes</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1059']/Text">
+      <Text>Pegaso</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1060']/Text">
+      <Text>Zefiro</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1755']/Text">
+      <Text>Tramontana</Text> 
+  </ModOp>
+  
+  
+  
+
+  <ModOp Type="add" Path="TextExport/Texts">
+  
+  
+	<Text>
+		<GUID>6800201</GUID>
+		<Text>Nave ammiraglia 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800203</GUID>
+		<Text>Nave ammiraglia 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800205</GUID>
+		<Text>Nave ammiraglia 'Imperial' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800207</GUID>
+		<Text>Nave ammiraglia 'Imperial Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800209</GUID>
+		<Text>Nave ammiraglia 'Imperial Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800211</GUID>
+		<Text>Nave ammiraglia 'North Sea' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800213</GUID>
+		<Text>Nave ammiraglia 'North Sea Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800215</GUID>
+		<Text>Nave ammiraglia 'North Sea Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800217</GUID>
+		<Text>Goletta 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800219</GUID>
+		<Text>Goletta 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800221</GUID>
+		<Text>Cannoniera 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800223</GUID>
+		<Text>Cannoniera 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800187</GUID>
+		<Text>Cannoniera migliorata 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800185</GUID>
+		<Text>Cannoniera migliorata 'Vanilla' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800225</GUID>
+		<Text>Veliero 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800227</GUID>
+		<Text>Veliero 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800229</GUID>
+		<Text>Veliero 'Ocean Blue' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800231</GUID>
+		<Text>Fregata 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800233</GUID>
+		<Text>Fregata 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800191</GUID>
+		<Text>Fregata migliorata 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800189</GUID>
+		<Text>Fregata migliorata 'Vanilla' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800239</GUID>
+		<Text>Vascello di linea '1701' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800243</GUID>
+		<Text>Vascello di linea 'Vasco Bronze' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800245</GUID>
+		<Text>Vascello di linea 'Vasco Silver' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800247</GUID>
+		<Text>Vascello di linea 'Vasco Gold' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800237</GUID>
+		<Text>Nave da guerra reale 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800241</GUID>
+		<Text>Nave da guerra reale 'Two Million' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800199</GUID>
+		<Text>Nave da guerra reale migliorato 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800197</GUID>
+		<Text>Nave da guerra reale migliorato 'Autumnal Red' Skin</Text>
+	</Text>
+  
+  
+	<Text>
+		<GUID>6800249</GUID>
+		<Text>Nave mercantile 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800251</GUID>
+		<Text>Nave mercantile 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800253</GUID>
+		<Text>Nave mercantile 'Freighter' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800255</GUID>
+		<Text>Monitore 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800257</GUID>
+		<Text>Monitore 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800195</GUID>
+		<Text>Monitore migliorato 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800193</GUID>
+		<Text>Monitore migliorato 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800271</GUID>
+		<Text>Monitore contraereo 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800273</GUID>
+		<Text>Monitore contraereo 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800275</GUID>
+		<Text>Monitore lanciafiamme 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800277</GUID>
+		<Text>Monitore lanciafiamme 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800279</GUID>
+		<Text>Monitore lanciafiamme blu 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800281</GUID>
+		<Text>Monitore lanciafiamme blu 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800259</GUID>
+		<Text>Incrociatore 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800261</GUID>
+		<Text>Incrociatore 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800263</GUID>
+		<Text>Incrociatore 'Commando' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800265</GUID>
+		<Text>Incrociatore '2070' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800267</GUID>
+		<Text>Incrociatore 'Two Million' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800269</GUID>
+		<Text>Great Eastern 'Heritage' Skin</Text>
+	</Text>
+	
+  </ModOp>
+  
+  
+</ModOps>

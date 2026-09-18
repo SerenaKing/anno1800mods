@@ -1,0 +1,54 @@
+{
+  "Version": "1.0.0",
+  "ModID": "item_buildings_affect_entire_island_dreadnought1",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Item Buildings Affect Entire Island",
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Town Hall, Trade Union and Harbourmaster's Office affect entire island without overlap issues.",
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "DLCDependencies": [
+    {
+      "DLC": "LandOfLions","SunkenTreasures","Botanica","ThePassage","SeatOfPower","BrightHarvest","LandOfLions","AmusementPark","CityLife","Docklands","Tourism","Highlife","VehicleSkins","PedestrianZone","VibrantCity","SeedsOfChange","EmpireOfTheSkies","NewWorldRising","SeasonalDecorations","IndustryOrnaments","OldTown",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Dreadnut",
+  "CreatorContact": null,
+  "Image" : null
+}

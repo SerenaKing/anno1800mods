@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>為動物儲存食物並促進生產。</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423054</GUID>
+      <Text>餵飼動物</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423060</GUID>
+      <Text>飢餓的動物</Text>
+    </Text>
+    <Text>
+      <GUID>1404423055</GUID>
+      <Text>工業養豬場</Text>
+    </Text>
+     <Text>
+      <GUID>1404423058</GUID>
+      <Text>筒倉 (豬糧)</Text>
+    </Text>
+    <Text>
+      <GUID>1404423056</GUID>
+      <Text>Advanced Pig Sty</Text>
+    </Text>
+  </ModOp>
+</ModOps>

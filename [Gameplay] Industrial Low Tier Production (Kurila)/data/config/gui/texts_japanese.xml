@@ -1,0 +1,84 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423011</GUID>
+      <Text>高度なパン生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423016</GUID>
+      <Text>高度なワーククロス生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423021</GUID>
+      <Text>高度なSchnappsプロダクション</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423026</GUID>
+      <Text>高度な木材生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423028</GUID>
+      <Text>高度な木材生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423031</GUID>
+      <Text>高度な帆の生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500303051</GUID>
+      <Text>高度なロープ生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423036</GUID>
+      <Text>高度なソーセージ生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423041</GUID>
+      <Text>高度な鉄鋼生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423043</GUID>
+      <Text>高度な生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423044</GUID>
+      <Text>高度な生産チェーン</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423052</GUID>
+      <Text>高度な石鹸生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500301107</GUID>
+      <Text>高度なビール生産</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302341</GUID>
+      <Text>高度なチーズ製造</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302751</GUID>
+      <Text>高度なレンガ製造</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500301059</GUID>
+      <Text>鉱工業生産(千島列島)</Text>
+    </Text>
+  </ModOp>
+</ModOps>

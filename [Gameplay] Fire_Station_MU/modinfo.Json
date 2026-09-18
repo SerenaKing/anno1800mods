@@ -1,0 +1,75 @@
+{
+  "Version": "1.4",
+  "ModID": "Fire_Station_MU",
+  "IncompatibleIds": [],
+  "ModDependencies": [
+    "Spice_Harborlife"
+	],
+  "LoadAfterIds": [
+    "new_horizons_buildmenu",
+	"Spice_Harborlife"
+  ],
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+    "ModName": {
+    "Chinese": "Fire_Station_MU",
+    "English": "Fire_Station_MU",
+    "French": "Fire_Station_MU",
+    "German": "Fire_Station_MU",
+    "Italian": "Fire_Station_MU",
+    "Japanese": "Fire_Station_MU",
+    "Korean": "Fire_Station_MU",
+    "Polish": "Fire_Station_MU",
+    "Russian": "Fire_Station_MU",
+    "Spanish": "Fire_Station_MU",
+    "Taiwanese": "Fire_Station_MU"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "This mod adds 2 more fire stations.\nThe buildings were integrated into the original tree menu of the fire station.",
+    "French": "Ce mod ajoute 2 casernes de pompiers supplémentaires.\nLes bâtiments ont été intégrés dans le menu d'arborescence original de la caserne de pompiers.",
+    "German": "Dieser Mod fügt 2 weiter Feuerwachen hinzu.\nDie Gebäude wurden in das Orginalbaumenü von der Feuerwache integriert.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Ten mod dodaje 2 dodatkowe remizy strażackie.\nBudynki zostały wkomponowane w oryginalne drzewiaste menu remizy.",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": null,
+      "Dependant": null
+    }
+  ],
+  "CreatorName": "muggenstuermer",
+  "CreatorContact": "https://mod.io/g/anno-1800/u/muggenstuermer",
+  "Image" : null
+}

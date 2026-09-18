@@ -1,0 +1,3360 @@
+<ModOps>
+  <!-- Marketplace -->
+  <ModOp Type="replace" GUID='1010372' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010372' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Small Warehouse -->
+  <ModOp Type="replace" GUID='1010371' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010371' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Medium Warehouse -->
+  <ModOp Type="replace" GUID='100516' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100516' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Large Warehouse -->
+  <ModOp Type="replace" GUID='100517' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100517' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Grand Warehouse -->
+  <ModOp Type="replace" GUID='269869' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='269869' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Lumberjack's Hut -->
+  <ModOp Type="replace" GUID='1010266' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010266' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010266' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <!-- Sawmill -->
+  <ModOp Type="replace" GUID='100451' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100451' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100451' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Fishery -->
+  <ModOp Type="replace" GUID='1010278' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010278' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010278' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Fishery -->
+  <ModOp Type="replace" GUID='24652' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24652' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24652' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Potato Farm -->
+  <ModOp Type="replace" GUID='1010265' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010265' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010265' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <!-- Schnapps Distillery -->
+  <ModOp Type="replace" GUID='1010294' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010294' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010294' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Sheep Farm -->
+  <ModOp Type="replace" GUID='1010267' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010267' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010267' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Framework Knitters -->
+  <ModOp Type="replace" GUID='1010315' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010315' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010315' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Fire Station -->
+  <ModOp Type="replace" GUID='1010463' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010463' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Pub -->
+  <ModOp Type="replace" GUID='1010358' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010358' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Clay Pit -->
+  <ModOp Type="replace" GUID='100416' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100416' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100416' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Brick Factory -->
+  <ModOp Type="replace" GUID='1010283' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010283' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010283' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Pig Farm -->
+  <ModOp Type="replace" GUID='1010269' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010269' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010269' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Pig Farm -->
+  <ModOp Type="replace" GUID='24658' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24658' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24658' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Slaughterhouse -->
+  <ModOp Type="replace" GUID='1010316' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010316' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010316' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Trade Union -->
+  <ModOp Type="replace" GUID='1010516' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010516' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Grain Farm -->
+  <ModOp Type="replace" GUID='1010262' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010262' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010262' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <!-- Flour Mill -->
+  <ModOp Type="replace" GUID='1010313' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010313' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010313' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Bakery -->
+  <ModOp Type="replace" GUID='1010291' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010291' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010291' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Church -->
+  <ModOp Type="replace" GUID='1010359' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010359' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Sailmakers -->
+  <ModOp Type="replace" GUID='1010288' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010288' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010288' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Sailing Shipyard -->
+  <ModOp Type="replace" GUID='1010520' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010520' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010520' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Depot -->
+  <ModOp Type="replace" GUID='1010519' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010519' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Depot -->
+  <ModOp Type="replace" GUID='601463' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='601463' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Harbourmaster's Office -->
+  <ModOp Type="replace" GUID='100586' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100586' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Exports Office -->
+  <ModOp Type="replace" GUID='601462' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='601462' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Harbourmaster -->
+  <ModOp Type="replace" GUID='601461' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='601461' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Mounted Guns -->
+  <ModOp Type="replace" GUID='1010522' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010522' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Mounted Guns -->
+  <ModOp Type="replace" GUID='80038' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='80038' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Mounted Guns -->
+  <ModOp Type="replace" GUID='102448' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='102448' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Cannon Tower -->
+  <ModOp Type="replace" GUID='1010523' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010523' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Cannon Tower -->
+  <ModOp Type="replace" GUID='80037' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='80037' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Cannon Tower -->
+  <ModOp Type="replace" GUID='80035' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='80035' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Cannon Tower -->
+  <ModOp Type="replace" GUID='102666' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='102666' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Cannon Tower -->
+  <ModOp Type="replace" GUID='102449' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='102449' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Cannon Tower -->
+  <ModOp Type="replace" GUID='120986' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='120986' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Flak Emplacement -->
+  <ModOp Type="replace" GUID='736' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='736' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Iron Mine -->
+  <ModOp Type="replace" GUID='1010305' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010305' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010305' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Charcoal Kiln -->
+  <ModOp Type="replace" GUID='1010298' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010298' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010298' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Furnace -->
+  <ModOp Type="replace" GUID='1010297' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010297' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010297' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Steelworks -->
+  <ModOp Type="replace" GUID='1010296' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010296' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010296' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>150</Amount>
+  </ModOp>
+  <!-- Rendering Works -->
+  <ModOp Type="replace" GUID='1010312' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010312' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010312' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>30</Amount>
+  </ModOp>
+  <!-- Soap Factory -->
+  <ModOp Type="replace" GUID='1010281' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010281' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010281' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Weapon Factory -->
+  <ModOp Type="replace" GUID='1010299' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010299' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010299' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Malthouse -->
+  <ModOp Type="replace" GUID='1010314' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010314' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010314' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Hop Farm -->
+  <ModOp Type="replace" GUID='1010264' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010264' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010264' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <!-- Brewery -->
+  <ModOp Type="replace" GUID='1010292' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010292' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010292' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>56</Amount>
+  </ModOp>
+  <!-- Police Station -->
+  <ModOp Type="replace" GUID='1010462' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010462' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- School -->
+  <ModOp Type="replace" GUID='1010360' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010360' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Sand Mine -->
+  <ModOp Type="replace" GUID='1010560' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010560' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010560' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Glassmakers -->
+  <ModOp Type="replace" GUID='1010319' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010319' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010319' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Window Makers -->
+  <ModOp Type="replace" GUID='1010285' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010285' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010285' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Cattle Farm -->
+  <ModOp Type="replace" GUID='1010263' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010263' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010263' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <!-- Red Pepper Farm -->
+  <ModOp Type="replace" GUID='100654' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100654' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100654' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Artisanal Kitchen -->
+  <ModOp Type="replace" GUID='1010293' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010293' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010293' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>56</Amount>
+  </ModOp>
+  <!-- Cannery -->
+  <ModOp Type="replace" GUID='1010295' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010295' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010295' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>56</Amount>
+  </ModOp>
+  <!-- Town Hall -->
+  <ModOp Type="replace" GUID='100415' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100415' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Flame Tower -->
+  <ModOp Type="replace" GUID='625' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='625' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Coal Mine -->
+  <ModOp Type="replace" GUID='1010304' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010304' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010304' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Sewing Machine Factory -->
+  <ModOp Type="replace" GUID='1010284' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010284' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010284' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Variety Theatre -->
+  <ModOp Type="replace" GUID='1010361' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010361' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Variety Theatre -->
+  <ModOp Type="replace" GUID='112128' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112128' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Public Mooring -->
+  <ModOp Type="replace" GUID='100429' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100429' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Repair Crane -->
+  <ModOp Type="replace" GUID='1010525' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010525' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Repair Crane -->
+  <ModOp Type="replace" GUID='131777' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='131777' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Pier -->
+  <ModOp Type="replace" GUID='100519' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100519' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Pier -->
+  <ModOp Type="replace" GUID='601460' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='601460' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Advanced Pier -->
+  <ModOp Type="replace" GUID='125028' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='125028' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Loading Wharf -->
+  <ModOp Type="replace" GUID='131778' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='131778' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Zoo -->
+  <ModOp Type="replace" GUID='1010470' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010470' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Post Office -->
+  <ModOp Type="replace" GUID='3741' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='3741' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='3741' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Post Box -->
+  <ModOp Type="replace" GUID='538' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='538' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='538' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>11</Amount>
+  </ModOp>
+  <!-- Hunting Cabin -->
+  <ModOp Type="replace" GUID='1010558' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010558' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010558' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Fur Dealer -->
+  <ModOp Type="replace" GUID='1010325' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010325' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010325' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>150</Amount>
+  </ModOp>
+  <!-- Hospital -->
+  <ModOp Type="replace" GUID='1010464' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010464' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- University -->
+  <ModOp Type="replace" GUID='1010362' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010362' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Museum -->
+  <ModOp Type="replace" GUID='1010471' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010471' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Airship Platform -->
+  <ModOp Type="replace" GUID='962' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='962' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Bomb Factory -->
+  <ModOp Type="replace" GUID='924' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='924' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='924' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>412</Amount>
+  </ModOp>
+  <!-- Sea Mine Factory -->
+  <ModOp Type="replace" GUID='934' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='934' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='934' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>412</Amount>
+  </ModOp>
+  <!-- Pamphlet Printer -->
+  <ModOp Type="replace" GUID='935' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='935' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='935' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>412</Amount>
+  </ModOp>
+  <!-- Care Package Factory -->
+  <ModOp Type="replace" GUID='936' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='936' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='936' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>412</Amount>
+  </ModOp>
+  <!-- Water Drop Factory -->
+  <ModOp Type="replace" GUID='937' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='937' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='937' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>412</Amount>
+  </ModOp>
+  <!-- Limestone Quarry -->
+  <ModOp Type="replace" GUID='1010309' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010309' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010309' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Concrete Factory -->
+  <ModOp Type="replace" GUID='1010280' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010280' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010280' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>56</Amount>
+  </ModOp>
+  <!-- Oil Refinery -->
+  <ModOp Type="replace" GUID='101331' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101331' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101331' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Small Oil Harbour -->
+  <ModOp Type="replace" GUID='100783' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100783' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Medium Oil Harbour -->
+  <ModOp Type="replace" GUID='101403' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101403' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <!-- Large Oil Harbour -->
+  <ModOp Type="replace" GUID='101404' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101404' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <!-- Grand Oil Harbour -->
+  <ModOp Type="replace" GUID='119259' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='119259' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <!-- Oil Store -->
+  <ModOp Type="replace" GUID='100784' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100784' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Oil Power Plant -->
+  <ModOp Type="replace" GUID='100780' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100780' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100780' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Zinc Mine -->
+  <ModOp Type="replace" GUID='1010307' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010307' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010307' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Copper Mine -->
+  <ModOp Type="replace" GUID='1010308' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010308' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010308' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Brass Smeltery -->
+  <ModOp Type="replace" GUID='1010282' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010282' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010282' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Spectacle Factory -->
+  <ModOp Type="replace" GUID='101250' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>10</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101250' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101250' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Commuter Pier -->
+  <ModOp Type="replace" GUID='101642' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>10</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101642' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Steam Shipyard -->
+  <ModOp Type="replace" GUID='1010521' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010521' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010521' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>150</Amount>
+  </ModOp>
+  <!-- Anti-Armour Gun -->
+  <ModOp Type="replace" GUID='3700' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='3700' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Big Betty -->
+  <ModOp Type="replace" GUID='1010524' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010524' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Saltpeter Works -->
+  <ModOp Type="replace" GUID='1010310' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010310' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010310' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Dynamite Factory -->
+  <ModOp Type="replace" GUID='1010300' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>10</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010300' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010300' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>188</Amount>
+  </ModOp>
+  <!-- Heavy Weapons Factory -->
+  <ModOp Type="replace" GUID='1010301' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010301' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>11</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010301' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>188</Amount>
+  </ModOp>
+  <!-- Bicycle Factory -->
+  <ModOp Type="replace" GUID='1010323' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>12</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010323' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010323' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Motor Assembly Line -->
+  <ModOp Type="replace" GUID='1010302' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>18</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010302' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>9</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010302' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>188</Amount>
+  </ModOp>
+  <!-- Fuel Station -->
+  <ModOp Type="replace" GUID='118571' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='118571' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='118571' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>56</Amount>
+  </ModOp>
+  <!-- Goldsmiths -->
+  <ModOp Type="replace" GUID='1010327' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010327' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010327' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>94</Amount>
+  </ModOp>
+  <!-- Clockmakers -->
+  <ModOp Type="replace" GUID='1010324' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>14</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010324' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>7</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010324' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Botanical Garden -->
+  <ModOp Type="replace" GUID='110935' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='110935' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Filament Factory -->
+  <ModOp Type="replace" GUID='1010321' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>7</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010321' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010321' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Light Bulb Factory -->
+  <ModOp Type="replace" GUID='1010286' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>10</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010286' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010286' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Bank -->
+  <ModOp Type="replace" GUID='1010365' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>10</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010365' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Bus Stop -->
+  <ModOp Type="replace" GUID='601326' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='601326' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Restaurant -->
+  <ModOp Type="replace" GUID='132780' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132780' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Orchard -->
+  <ModOp Type="replace" GUID='132933' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132933' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132933' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>26</Amount>
+  </ModOp>
+  <!-- Orchard: Jam -->
+  <ModOp Type="replace" GUID='133496' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133496' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133496' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>26</Amount>
+  </ModOp>
+  <!-- Caf? -->
+  <ModOp Type="replace" GUID='132782' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132782' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Orchard: Coconut Oil -->
+  <ModOp Type="replace" GUID='133004' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133004' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133004' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>26</Amount>
+  </ModOp>
+  <!-- Orchard: Cinnamon -->
+  <ModOp Type="replace" GUID='133030' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133030' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133030' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>26</Amount>
+  </ModOp>
+  <!-- Chemical Plant -->
+  <ModOp Type="replace" GUID='132771' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132771' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132771' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Chemical Plant: Shampoo -->
+  <ModOp Type="replace" GUID='132786' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132786' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132786' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Orchard: Citrus -->
+  <ModOp Type="replace" GUID='133031' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133031' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133031' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>26</Amount>
+  </ModOp>
+  <!-- Chemical Plant: Lemonade -->
+  <ModOp Type="replace" GUID='132777' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132777' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132777' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Bar -->
+  <ModOp Type="replace" GUID='132781' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='132781' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Orchard: Camphor Wax -->
+  <ModOp Type="replace" GUID='134614' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='134614' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='134614' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>26</Amount>
+  </ModOp>
+  <!-- Chemical Plant: Souvenirs -->
+  <ModOp Type="replace" GUID='133533' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133533' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133533' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Palace -->
+  <ModOp Type="replace" GUID='249947' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>50</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='249947' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>25</Amount>
+  </ModOp>
+  <!-- Local Department -->
+  <ModOp Type="replace" GUID='269602' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>10</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='269602' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>5</Amount>
+  </ModOp>
+  <!-- Gas-Fired Power Plant -->
+  <ModOp Type="replace" GUID='117547' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>12</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='117547' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='117547' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>188</Amount>
+  </ModOp>
+  <!-- Vineyard -->
+  <ModOp Type="replace" GUID='100655' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100655' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100655' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Champagne Cellar -->
+  <ModOp Type="replace" GUID='100659' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>10</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100659' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='100659' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Marquetry Workshop -->
+  <ModOp Type="replace" GUID='1010320' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010320' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010320' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Members Club -->
+  <ModOp Type="replace" GUID='1010364' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010364' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Jewellers -->
+  <ModOp Type="replace" GUID='1010328' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>25</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010328' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>12</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010328' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Gramophone Factory -->
+  <ModOp Type="replace" GUID='1010326' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>16</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010326' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010326' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Coachmakers -->
+  <ModOp Type="replace" GUID='1010289' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>12</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010289' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010289' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Cab Assembly Line -->
+  <ModOp Type="replace" GUID='1010303' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>30</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010303' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>15</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010303' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>375</Amount>
+  </ModOp>
+  <!-- Assembly Line -->
+  <ModOp Type="replace" GUID='134619' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='134619' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='134619' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>375</Amount>
+  </ModOp>
+  <!-- Assembly Line: Elevators -->
+  <ModOp Type="replace" GUID='134622' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='134622' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='134622' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>375</Amount>
+  </ModOp>
+  <!-- Department Store -->
+  <ModOp Type="replace" GUID='135100' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135100' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135100' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Department Store: Briefcases -->
+  <ModOp Type="replace" GUID='135190' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135190' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135190' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Department Store: Crockery -->
+  <ModOp Type="replace" GUID='135187' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135187' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135187' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Department Store: Refrigerators -->
+  <ModOp Type="replace" GUID='135189' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135189' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135189' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Department Store: Toasters -->
+  <ModOp Type="replace" GUID='135103' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135103' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135103' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Department Store: Vacuum Cleaners -->
+  <ModOp Type="replace" GUID='135188' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135188' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135188' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Chemical Plant: Chewing Gum -->
+  <ModOp Type="replace" GUID='135185' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135185' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135185' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>94</Amount>
+  </ModOp>
+  <!-- Chemical Plant: Ethanol -->
+  <ModOp Type="replace" GUID='135134' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135134' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135134' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>94</Amount>
+  </ModOp>
+  <!-- Chemical Plant: Celluloid -->
+  <ModOp Type="replace" GUID='135224' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135224' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135224' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>94</Amount>
+  </ModOp>
+  <!-- Assembly Line: Biscuits -->
+  <ModOp Type="replace" GUID='135361' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135361' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135361' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>375</Amount>
+  </ModOp>
+  <!-- Orchard: Cherry Wood -->
+  <ModOp Type="replace" GUID='135088' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135088' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135088' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>26</Amount>
+  </ModOp>
+  <!-- Artisan's Workshop: Cognac -->
+  <ModOp Type="replace" GUID='135418' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135418' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135418' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>262</Amount>
+  </ModOp>
+  <!-- Orchard: Resin -->
+  <ModOp Type="replace" GUID='135085' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135085' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135085' Path="/Values/Maintenance/Maintenances/Item[Product='1010052']/Amount">
+    <Amount>26</Amount>
+  </ModOp>
+  <!-- Chemical Plant: Lacquer -->
+  <ModOp Type="replace" GUID='135133' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135133' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135133' Path="/Values/Maintenance/Maintenances/Item[Product='1010117']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Furniture Store -->
+  <ModOp Type="replace" GUID='135099' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135099' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135099' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Furniture Store: Banker's Lamps -->
+  <ModOp Type="replace" GUID='135105' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135105' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135105' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Furniture Store: Four-Poster Beds -->
+  <ModOp Type="replace" GUID='135122' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135122' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135122' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Furniture Store: Lounge Seating -->
+  <ModOp Type="replace" GUID='135132' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135132' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135132' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Furniture Store: Vanity Screens -->
+  <ModOp Type="replace" GUID='135121' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135121' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135121' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Furniture Store: Writing Desks -->
+  <ModOp Type="replace" GUID='135120' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135120' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135120' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Assembly Line: Typewriters -->
+  <ModOp Type="replace" GUID='135148' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135148' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135148' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>375</Amount>
+  </ModOp>
+  <!-- Artisan's Workshop -->
+  <ModOp Type="replace" GUID='135295' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135295' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135295' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>262</Amount>
+  </ModOp>
+  <!-- Artisan's Workshop: Billiard Tables -->
+  <ModOp Type="replace" GUID='135407' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135407' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135407' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>262</Amount>
+  </ModOp>
+  <!-- Artisan's Workshop: Violins -->
+  <ModOp Type="replace" GUID='135397' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135397' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135397' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>262</Amount>
+  </ModOp>
+  <!-- Drug Store -->
+  <ModOp Type="replace" GUID='134629' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='134629' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='134629' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Drug Store: Detergent -->
+  <ModOp Type="replace" GUID='135191' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135191' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135191' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Drug Store: Face Cream -->
+  <ModOp Type="replace" GUID='135193' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135193' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135193' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Drug Store: Lipstick -->
+  <ModOp Type="replace" GUID='135192' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135192' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135192' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Drug Store: Pomade -->
+  <ModOp Type="replace" GUID='135194' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135194' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135194' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Drug Store: Toothpaste -->
+  <ModOp Type="replace" GUID='134631' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='134631' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='134631' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>180</Amount>
+  </ModOp>
+  <!-- Artisan's Workshop: Toys -->
+  <ModOp Type="replace" GUID='135669' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135669' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='135669' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>262</Amount>
+  </ModOp>
+  <!-- Bootmakers -->
+  <ModOp Type="replace" GUID='118733' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='118733' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='118733' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Tailor's Shop -->
+  <ModOp Type="replace" GUID='118734' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='118734' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='118734' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>150</Amount>
+  </ModOp>
+  <!-- Telephone Manufacturer -->
+  <ModOp Type="replace" GUID='118735' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>12</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='118735' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='118735' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Radio Tower -->
+  <ModOp Type="replace" GUID='118736' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='118736' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Advanced Coffee Roaster -->
+  <ModOp Type="replace" GUID='124738' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>35</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='124738' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>18</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='124738' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Advanced Rum Distillery -->
+  <ModOp Type="replace" GUID='124737' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>30</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='124737' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>15</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='124737' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>98</Amount>
+  </ModOp>
+  <!-- Advanced Cotton Mill -->
+  <ModOp Type="replace" GUID='124739' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>33</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='124739' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>16</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='124739' Path="/Values/Maintenance/Maintenances/Item[Product='1010116']/Amount">
+    <Amount>105</Amount>
+  </ModOp>
+  <!-- Marketplace -->
+  <ModOp Type="replace" GUID='101257' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101257' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Small Warehouse -->
+  <ModOp Type="replace" GUID='101323' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101323' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Medium Warehouse -->
+  <ModOp Type="replace" GUID='101324' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101324' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Large Warehouse -->
+  <ModOp Type="replace" GUID='101325' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101325' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Lumberjack's Hut -->
+  <ModOp Type="replace" GUID='101260' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101260' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101260' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Sawmill -->
+  <ModOp Type="replace" GUID='101261' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101261' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101261' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <!-- Fish Oil Factory -->
+  <ModOp Type="replace" GUID='101262' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101262' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101262' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>11</Amount>
+  </ModOp>
+  <!-- Plantain Plantation -->
+  <ModOp Type="replace" GUID='101263' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101263' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101263' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Fried Plantain Kitchen -->
+  <ModOp Type="replace" GUID='101264' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101264' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101264' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Trade Union -->
+  <ModOp Type="replace" GUID='101284' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101284' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Sugar Cane Plantation -->
+  <ModOp Type="replace" GUID='1010329' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010329' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010329' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Rum Distillery -->
+  <ModOp Type="replace" GUID='1010340' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010340' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010340' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Cotton Plantation -->
+  <ModOp Type="replace" GUID='1010331' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010331' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010331' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Cotton Mill -->
+  <ModOp Type="replace" GUID='1010318' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010318' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010318' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Sailmakers -->
+  <ModOp Type="replace" GUID='101265' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101265' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101265' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <!-- Sailing Shipyard -->
+  <ModOp Type="replace" GUID='101277' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101277' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101277' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Depot -->
+  <ModOp Type="replace" GUID='101278' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101278' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Harbourmaster's Office -->
+  <ModOp Type="replace" GUID='101286' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101286' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Repair Crane -->
+  <ModOp Type="replace" GUID='101573' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101573' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Mounted Guns -->
+  <ModOp Type="replace" GUID='101563' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101563' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Flak Emplacement -->
+  <ModOp Type="replace" GUID='742' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='742' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Flak Emplacement -->
+  <ModOp Type="replace" GUID='2968' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='2968' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Alpaca Farm -->
+  <ModOp Type="replace" GUID='101272' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101272' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101272' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Poncho Darner -->
+  <ModOp Type="replace" GUID='101266' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101266' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101266' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Caoutchouc Plantation -->
+  <ModOp Type="replace" GUID='1010333' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010333' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010333' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Fire Station -->
+  <ModOp Type="replace" GUID='101275' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101275' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Pearl Farm -->
+  <ModOp Type="replace" GUID='1010339' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010339' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010339' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Chapel -->
+  <ModOp Type="replace" GUID='101258' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101258' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Police Station -->
+  <ModOp Type="replace" GUID='101274' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101274' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Clay Pit -->
+  <ModOp Type="replace" GUID='101267' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101267' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101267' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Brick Factory -->
+  <ModOp Type="replace" GUID='101268' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101268' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101268' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Hacienda -->
+  <ModOp Type="replace" GUID='24768' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24768' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Cattle Farm -->
+  <ModOp Type="replace" GUID='101269' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101269' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101269' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <!-- Corn Farm -->
+  <ModOp Type="replace" GUID='101270' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101270' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101270' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Tortilla Maker -->
+  <ModOp Type="replace" GUID='101271' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101271' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101271' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Town Hall -->
+  <ModOp Type="replace" GUID='101285' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101285' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Post Office -->
+  <ModOp Type="replace" GUID='3761' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='3761' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='3761' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Post Box -->
+  <ModOp Type="replace" GUID='3661' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='3661' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='3661' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>11</Amount>
+  </ModOp>
+  <!-- Bauxite Mine -->
+  <ModOp Type="replace" GUID='1308' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1308' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1308' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>165</Amount>
+  </ModOp>
+  <!-- Coal Mine -->
+  <ModOp Type="replace" GUID='779' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='779' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='779' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Coal Mine -->
+  <ModOp Type="replace" GUID='2399' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='2399' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='2399' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Charcoal Kiln -->
+  <ModOp Type="replace" GUID='24860' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24860' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24860' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Charcoal Kiln -->
+  <ModOp Type="replace" GUID='772' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='772' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='772' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Charcoal Kiln -->
+  <ModOp Type="replace" GUID='2396' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='2396' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='2396' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Charcoal Kiln -->
+  <ModOp Type="replace" GUID='1345' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1345' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1345' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>11</Amount>
+  </ModOp>
+  <!-- Limestone Quarry -->
+  <ModOp Type="replace" GUID='781' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='781' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='781' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Concrete Factory -->
+  <ModOp Type="replace" GUID='774' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='774' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='774' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>56</Amount>
+  </ModOp>
+  <!-- Copper Mine -->
+  <ModOp Type="replace" GUID='780' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='780' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='780' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Steelworks -->
+  <ModOp Type="replace" GUID='773' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='773' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='773' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Aluminium Smelter -->
+  <ModOp Type="replace" GUID='835' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='835' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='835' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>30</Amount>
+  </ModOp>
+  <!-- Saltpeter Works -->
+  <ModOp Type="replace" GUID='101303' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101303' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101303' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>188</Amount>
+  </ModOp>
+  <!-- Coffee Plantation -->
+  <ModOp Type="replace" GUID='101251' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101251' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101251' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Coffee Roaster -->
+  <ModOp Type="replace" GUID='101252' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101252' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101252' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Boxing Arena -->
+  <ModOp Type="replace" GUID='101259' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101259' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Gold Mine -->
+  <ModOp Type="replace" GUID='101311' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101311' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101311' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Public Mooring -->
+  <ModOp Type="replace" GUID='102284' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='102284' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <!-- Pier -->
+  <ModOp Type="replace" GUID='101344' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101344' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Advanced Pier -->
+  <ModOp Type="replace" GUID='125191' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='125191' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Cannon Tower -->
+  <ModOp Type="replace" GUID='101570' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101570' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Flame Tower -->
+  <ModOp Type="replace" GUID='632' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='632' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Small Oil Harbour -->
+  <ModOp Type="replace" GUID='101329' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101329' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Medium Oil Harbour -->
+  <ModOp Type="replace" GUID='101405' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101405' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <!-- Large Oil Harbour -->
+  <ModOp Type="replace" GUID='101406' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101406' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <!-- Grand Oil Harbour -->
+  <ModOp Type="replace" GUID='119281' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='119281' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <!-- Oil Store -->
+  <ModOp Type="replace" GUID='101330' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101330' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Felt Producer -->
+  <ModOp Type="replace" GUID='101415' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101415' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101415' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Bomb?n Weaver -->
+  <ModOp Type="replace" GUID='101273' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101273' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101273' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <!-- Hospital -->
+  <ModOp Type="replace" GUID='101276' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101276' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Oil Refinery -->
+  <ModOp Type="replace" GUID='1010561' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010561' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010561' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>56</Amount>
+  </ModOp>
+  <!-- Oil Refinery -->
+  <ModOp Type="replace" GUID='859' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='859' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='859' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>139</Amount>
+  </ModOp>
+  <!-- Fuel Station -->
+  <ModOp Type="replace" GUID='269840' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='269840' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='269840' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>56</Amount>
+  </ModOp>
+  <!-- Fuel Station -->
+  <ModOp Type="replace" GUID='24836' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24836' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24836' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>34</Amount>
+  </ModOp>
+  <!-- Industrial Oil Press -->
+  <ModOp Type="replace" GUID='1418' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1418' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1418' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>49</Amount>
+  </ModOp>
+  <!-- Helium Extractor -->
+  <ModOp Type="replace" GUID='1353' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1353' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1353' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>90</Amount>
+  </ModOp>
+  <!-- Bomb Factory -->
+  <ModOp Type="replace" GUID='906' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='906' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='906' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>225</Amount>
+  </ModOp>
+  <!-- Sea Mine Factory -->
+  <ModOp Type="replace" GUID='907' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='907' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='907' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>225</Amount>
+  </ModOp>
+  <!-- Pamphlet Printer -->
+  <ModOp Type="replace" GUID='908' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='908' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='908' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>225</Amount>
+  </ModOp>
+  <!-- Care Package Factory -->
+  <ModOp Type="replace" GUID='916' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='916' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='916' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>225</Amount>
+  </ModOp>
+  <!-- Water Drop Factory -->
+  <ModOp Type="replace" GUID='915' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='915' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='915' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>225</Amount>
+  </ModOp>
+  <!-- Airship Platform -->
+  <ModOp Type="replace" GUID='963' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='963' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Tobacco Plantation -->
+  <ModOp Type="replace" GUID='1010330' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010330' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010330' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Marquetry Workshop -->
+  <ModOp Type="replace" GUID='101296' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101296' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101296' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Cigar Factory -->
+  <ModOp Type="replace" GUID='1010342' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010342' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010342' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>131</Amount>
+  </ModOp>
+  <!-- Zoo -->
+  <ModOp Type="replace" GUID='102282' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='102282' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Anti-Armour Gun -->
+  <ModOp Type="replace" GUID='4797' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='4797' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Big Betty -->
+  <ModOp Type="replace" GUID='101571' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='101571' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Cocoa Plantation -->
+  <ModOp Type="replace" GUID='1010332' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010332' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010332' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Sugar Refinery -->
+  <ModOp Type="replace" GUID='1010317' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010317' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010317' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Chocolate Factory -->
+  <ModOp Type="replace" GUID='1010341' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010341' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1010341' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Museum -->
+  <ModOp Type="replace" GUID='102283' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='102283' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Botanical Garden -->
+  <ModOp Type="replace" GUID='114141' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114141' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Sewing Machine Factory -->
+  <ModOp Type="replace" GUID='6083' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6083' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6083' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Nandu Farm -->
+  <ModOp Type="replace" GUID='5457' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5457' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5457' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Ball Manufactory -->
+  <ModOp Type="replace" GUID='5879' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5879' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5879' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Herb Garden -->
+  <ModOp Type="replace" GUID='5463' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5463' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5463' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Mezcal Bar -->
+  <ModOp Type="replace" GUID='6594' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6594' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6594' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Power Station -->
+  <ModOp Type="replace" GUID='5164' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5164' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5164' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Calamari Fishery -->
+  <ModOp Type="replace" GUID='7919' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='7919' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='7919' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Jalea Kitchen -->
+  <ModOp Type="replace" GUID='5458' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5458' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5458' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Beach -->
+  <ModOp Type="replace" GUID='6264' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>7</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6264' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <!-- Ice Cream Factory -->
+  <ModOp Type="replace" GUID='5459' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5459' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5459' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Iron Mine -->
+  <ModOp Type="replace" GUID='793' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='793' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='793' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Iron Mine -->
+  <ModOp Type="replace" GUID='1388' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1388' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1388' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>135</Amount>
+  </ModOp>
+  <!-- Iron Mine -->
+  <ModOp Type="replace" GUID='2400' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='2400' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='2400' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Furnace -->
+  <ModOp Type="replace" GUID='6080' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6080' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6080' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Furnace -->
+  <ModOp Type="replace" GUID='2397' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='2397' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='2397' Path="/Values/Maintenance/Maintenances/Item[Product='1010115']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Laboratory: Fire Extinguisher -->
+  <ModOp Type="replace" GUID='6629' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6629' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6629' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>225</Amount>
+  </ModOp>
+  <!-- Fire Department -->
+  <ModOp Type="replace" GUID='6259' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6259' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Orchid Farm -->
+  <ModOp Type="replace" GUID='5814' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5814' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5814' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Perfume Mixer -->
+  <ModOp Type="replace" GUID='5657' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5657' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5657' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Mineral Mine -->
+  <ModOp Type="replace" GUID='1390' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1390' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='1390' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>90</Amount>
+  </ModOp>
+  <!-- Laboratory: Pigments -->
+  <ModOp Type="replace" GUID='5462' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5462' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5462' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Costume Shop -->
+  <ModOp Type="replace" GUID='5933' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5933' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5933' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Samba School -->
+  <ModOp Type="replace" GUID='5840' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5840' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5840' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>11</Amount>
+  </ModOp>
+  <!-- Arsenal: Police Equipment -->
+  <ModOp Type="replace" GUID='6630' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6630' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6630' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>225</Amount>
+  </ModOp>
+  <!-- Police Headquarters -->
+  <ModOp Type="replace" GUID='6258' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6258' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Cable Factory -->
+  <ModOp Type="replace" GUID='6279' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>7</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6279' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6279' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Motor Assembly Plant -->
+  <ModOp Type="replace" GUID='5659' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5659' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5659' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Fan Factory -->
+  <ModOp Type="replace" GUID='5862' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5862' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5862' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>112</Amount>
+  </ModOp>
+  <!-- Chemical Plant: Film Reels -->
+  <ModOp Type="replace" GUID='5828' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5828' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5828' Path="/Values/Maintenance/Maintenances/Item[Product='1010367']/Amount">
+    <Amount>94</Amount>
+  </ModOp>
+  <!-- Cinema -->
+  <ModOp Type="replace" GUID='6018' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>10</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6018' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6018' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Laboratory: Medecine -->
+  <ModOp Type="replace" GUID='6631' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6631' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6631' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>225</Amount>
+  </ModOp>
+  <!-- City Hospital -->
+  <ModOp Type="replace" GUID='6260' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='6260' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Scooter Factory -->
+  <ModOp Type="replace" GUID='5658' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>20</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5658' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>10</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='5658' Path="/Values/Maintenance/Maintenances/Item[Product='5406']/Amount">
+    <Amount>150</Amount>
+  </ModOp>
+  <!-- Orchard -->
+  <ModOp Type="replace" GUID='133010' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133010' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='133010' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>26</Amount>
+  </ModOp>
+  <!-- Hacienda Atole Maker -->
+  <ModOp Type="replace" GUID='25126' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25126' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25126' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Hacienda Beer Brewery -->
+  <ModOp Type="replace" GUID='25064' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25064' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25064' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Hacienda Caoutchouc Plantation -->
+  <ModOp Type="replace" GUID='25006' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25006' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25006' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Hacienda Cocoa Farm -->
+  <ModOp Type="replace" GUID='25009' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25009' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25009' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Hacienda Coffee Farm -->
+  <ModOp Type="replace" GUID='25005' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25005' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25005' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Hacienda Corn Farm -->
+  <ModOp Type="replace" GUID='25003' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25003' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25003' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Hacienda Fertiliser Works -->
+  <ModOp Type="replace" GUID='24805' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24805' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24805' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Hacienda Grain Farm -->
+  <ModOp Type="replace" GUID='25128' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25128' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25128' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Hacienda Hot Sauce Factory -->
+  <ModOp Type="replace" GUID='25508' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25508' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25508' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Hacienda Potato Farm -->
+  <ModOp Type="replace" GUID='25019' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25019' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25019' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Hacienda Rum Distillery -->
+  <ModOp Type="replace" GUID='24801' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24801' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24801' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Hacienda Schnapps Distillery -->
+  <ModOp Type="replace" GUID='25350' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25350' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25350' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Hacienda Spice Farm -->
+  <ModOp Type="replace" GUID='25020' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25020' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='25020' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Hacienda Sugar Cane Farm -->
+  <ModOp Type="replace" GUID='24798' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24798' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='24798' Path="/Values/Maintenance/Maintenances/Item[Product='1010366']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Canteen -->
+  <ModOp Type="replace" GUID='114889' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114889' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Small Warehouse -->
+  <ModOp Type="replace" GUID='112656' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112656' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Medium Warehouse -->
+  <ModOp Type="replace" GUID='112657' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112657' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Large Warehouse -->
+  <ModOp Type="replace" GUID='112658' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112658' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Charcoal Kiln -->
+  <ModOp Type="replace" GUID='114705' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114705' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114705' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Heater -->
+  <ModOp Type="replace" GUID='114751' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114751' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Lumberjack's Hut -->
+  <ModOp Type="replace" GUID='114703' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114703' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114703' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Sawmill -->
+  <ModOp Type="replace" GUID='114704' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114704' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114704' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>8</Amount>
+  </ModOp>
+  <!-- Whaling Station -->
+  <ModOp Type="replace" GUID='112666' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112666' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112666' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Caribou Hunting Cabin -->
+  <ModOp Type="replace" GUID='112667' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112667' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112667' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Pemmican Cookhouse -->
+  <ModOp Type="replace" GUID='112668' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112668' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112668' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Ranger Station -->
+  <ModOp Type="replace" GUID='112669' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112669' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Seal Hunting Docks -->
+  <ModOp Type="replace" GUID='112674' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112674' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112674' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>15</Amount>
+  </ModOp>
+  <!-- Goose Farm -->
+  <ModOp Type="replace" GUID='112676' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112676' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112676' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>26</Amount>
+  </ModOp>
+  <!-- Sleeping Bag Factory -->
+  <ModOp Type="replace" GUID='112675' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112675' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112675' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>38</Amount>
+  </ModOp>
+  <!-- Oil Lamp Factory -->
+  <ModOp Type="replace" GUID='112679' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112679' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112679' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>52</Amount>
+  </ModOp>
+  <!-- Depot -->
+  <ModOp Type="replace" GUID='112670' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112670' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Cannon Tower -->
+  <ModOp Type="replace" GUID='112671' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112671' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Flak Emplacement -->
+  <ModOp Type="replace" GUID='822' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='822' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Flame Tower -->
+  <ModOp Type="replace" GUID='824' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='824' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Pier -->
+  <ModOp Type="replace" GUID='116030' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='116030' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Advanced Pier -->
+  <ModOp Type="replace" GUID='125192' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='125192' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Airship Platform -->
+  <ModOp Type="replace" GUID='4258' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='4258' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Post Office -->
+  <ModOp Type="replace" GUID='112684' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112684' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Post Office -->
+  <ModOp Type="replace" GUID='4260' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='4260' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='4260' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>34</Amount>
+  </ModOp>
+  <!-- Artic Lodge -->
+  <ModOp Type="replace" GUID='112678' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112678' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Bear Hunting Cabin -->
+  <ModOp Type="replace" GUID='112673' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112673' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112673' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>30</Amount>
+  </ModOp>
+  <!-- Parka Factory -->
+  <ModOp Type="replace" GUID='112672' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112672' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112672' Path="/Values/Maintenance/Maintenances/Item[Product='112654']/Amount">
+    <Amount>60</Amount>
+  </ModOp>
+  <!-- Prime Hunting Cabin -->
+  <ModOp Type="replace" GUID='116034' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='116034' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='116034' Path="/Values/Maintenance/Maintenances/Item[Product='112653']/Amount">
+    <Amount>30</Amount>
+  </ModOp>
+  <!-- Anti-Armour Gun -->
+  <ModOp Type="replace" GUID='4798' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='4798' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <!-- Husky Farm -->
+  <ModOp Type="replace" GUID='112682' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112682' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112682' Path="/Values/Maintenance/Maintenances/Item[Product='112654']/Amount">
+    <Amount>60</Amount>
+  </ModOp>
+  <!-- Sled Frame Factory -->
+  <ModOp Type="replace" GUID='112681' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112681' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112681' Path="/Values/Maintenance/Maintenances/Item[Product='112654']/Amount">
+    <Amount>60</Amount>
+  </ModOp>
+  <!-- Husky Sled Factory -->
+  <ModOp Type="replace" GUID='112680' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>6</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112680' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>3</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112680' Path="/Values/Maintenance/Maintenances/Item[Product='112654']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Deep Gold Mine -->
+  <ModOp Type="replace" GUID='116029' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='116029' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>2</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='116029' Path="/Values/Maintenance/Maintenances/Item[Product='112654']/Amount">
+    <Amount>75</Amount>
+  </ModOp>
+  <!-- Artic Gas Mine -->
+  <ModOp Type="replace" GUID='112690' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>10</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112690' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>5</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='112690' Path="/Values/Maintenance/Maintenances/Item[Product='112654']/Amount">
+    <Amount>188</Amount>
+  </ModOp>
+  <!-- Marketplace -->
+  <ModOp Type="replace" GUID='114518' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114518' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Small Warehouse -->
+  <ModOp Type="replace" GUID='114509' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114509' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Medium Warehouse -->
+  <ModOp Type="replace" GUID='114537' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114537' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Large Warehouse -->
+  <ModOp Type="replace" GUID='114635' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114635' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Water Pump -->
+  <ModOp Type="replace" GUID='114544' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114544' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Wanza Woodcutter -->
+  <ModOp Type="replace" GUID='122963' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='122963' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='122963' Path="/Values/Maintenance/Maintenances/Item[Product='114340']/Amount">
+    <Amount>11</Amount>
+  </ModOp>
+  <!-- Goat Farm -->
+  <ModOp Type="replace" GUID='114456' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114456' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114456' Path="/Values/Maintenance/Maintenances/Item[Product='114340']/Amount">
+    <Amount>22</Amount>
+  </ModOp>
+  <!-- Depot -->
+  <ModOp Type="replace" GUID='117870' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='117870' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Harbourmaster's Office -->
+  <ModOp Type="replace" GUID='117860' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='117860' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Repair Crane -->
+  <ModOp Type="replace" GUID='117864' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='117864' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Mounted Guns -->
+  <ModOp Type="replace" GUID='117861' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='117861' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Flak Emplacement -->
+  <ModOp Type="replace" GUID='743' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>1</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='743' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Linseed Farm -->
+  <ModOp Type="replace" GUID='114448' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114448' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114448' Path="/Values/Maintenance/Maintenances/Item[Product='114340']/Amount">
+    <Amount>4</Amount>
+  </ModOp>
+  <!-- Linen Mill -->
+  <ModOp Type="replace" GUID='114441' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114441' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114441' Path="/Values/Maintenance/Maintenances/Item[Product='114340']/Amount">
+    <Amount>19</Amount>
+  </ModOp>
+  <!-- Embroiderer -->
+  <ModOp Type="replace" GUID='114466' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114466' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114466' Path="/Values/Maintenance/Maintenances/Item[Product='114340']/Amount">
+    <Amount>30</Amount>
+  </ModOp>
+  <!-- Musician's Court -->
+  <ModOp Type="replace" GUID='114519' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='114519' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Trade Union -->
+  <ModOp Type="replace" GUID='117858' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='117858' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>
+  <!-- Fire Station -->
+  <ModOp Type="replace" GUID='119892' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/Amount">
+    <Amount>0</Amount>
+  </ModOp>
+  <ModOp Type="replace" GUID='119892' Path="/Values/Maintenance/Maintenances/Item[Product='1010017']/InactiveAmount">
+    <Amount>0</Amount>
+  </ModOp>

@@ -1,0 +1,1443 @@
+<ModOps>
+<!-- muggenstuermer GUID-Range  1337500000 - 1337510000  -->
+<!--
+
+1337504405 - Trigger
+
+1337500014 - New Buildmenu for OLD WORLD
+1337500015 - New Buildmenu for NEW WORLD
+1337500020 - New Buildmenu for AFRICA
+
+1337507001 - New Buildmenu for NEW HORIZONS
+
+Hospital / big resolverunit
+1337500016 - Resolver Unit Illness Normal / <Template>ResolverUnitHospitalMU</Template>
+1337500029 - Resolver Unit Illness Normal / <Template>FeedbackUnitClass</Template>
+1337500028 - Resolver Unit Illness Normal / <Template>TrafficFeedbackUnit</Template>
+
+Hospital / small resolverunit
+1337500017 - Resolver Unit Illness Normal / <Template>ResolverUnitHospitalSmallMU</Template>
+
+1337500018 - Hospital / big
+1337504401 - Hospital / big Harbor OW
+1337504402 - Hospital / big Harbor NW
+1337500019 - Hospital / small
+1337504403 - Hospital / small Harbor OW
+1337504404 - Hospital / small Harbor NW
+
+-->
+    <!-- Freischaltung / Trigger -->
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130219']">
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337504405</GUID>
+                    <Name>intermediate moderate 1.2</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000002</Context>
+                                <CounterAmount>900</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1337500018</Asset>
+                                                <!-- Hospital / big -->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337500019</Asset>
+                                                <!-- Hospital / small -->
+                                            </Item>
+											<Item>
+                                                <Asset>1337504401</Asset>
+                                                <!-- Hospital / big Harbor OW-->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337504403</Asset>
+                                                <!-- Hospital / small Harbor OW-->
+                                            </Item>
+											<Item>
+                                                <Asset>1337504402</Asset>
+                                                <!-- Hospital / big Harbor NW-->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337504404</Asset>
+                                                <!-- Hospital / small Harbor NW-->
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets>
+                                            <Item>
+                                                <Asset>1337500018</Asset>
+                                                <!-- Hospital / big -->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337500019</Asset>
+                                                <!-- Hospital / small -->
+                                            </Item>
+											<Item>
+                                                <Asset>1337504401</Asset>
+                                                <!-- Hospital / big Harbor OW-->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337504403</Asset>
+                                                <!-- Hospital / small Harbor OW-->
+                                            </Item>
+											<Item>
+                                                <Asset>1337504402</Asset>
+                                                <!-- Hospital / big Harbor NW-->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337504404</Asset>
+                                                <!-- Hospital / small Harbor NW-->
+                                            </Item>
+                                        </UnhideAssets>
+                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+				<TriggerSetup>
+					<UsedBySecondParties>0</UsedBySecondParties>
+				</TriggerSetup>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- New Buildmenu for OLD WORLD-->
+    <ModOp Type="addNextSibling" GUID="500019">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500014</GUID>
+                    <Name>Buildmenu Hospital OW</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_hospital.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>1010464</Building>
+                            <!-- Hospital Original OW-->
+                        </Item>
+                        <Item>
+                            <Building>1337500018</Building>
+                            <!-- Hospital / big -->
+                        </Item>
+                        <Item>
+                            <Building>1337500019</Building>
+                            <!-- Hospital / small -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>3789</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Buildmenu Hospital OW</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- New Buildmenu for NEW WORLD-->
+    <ModOp Type="addNextSibling" GUID="501429">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500015</GUID>
+                    <Name>Buildmenu Hospital NW</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_hospital.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>101276</Building>
+                            <!-- Hospital Original NW-->
+                        </Item>
+                        <Item>
+                            <Building>1337500018</Building>
+                            <!-- Hospital / big -->
+                        </Item>
+                        <Item>
+                            <Building>1337500019</Building>
+                            <!-- Hospital / small -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>3789</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Buildmenu Hospital NW</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- New Buildmenu for Africa-->
+    <ModOp Type="addNextSibling" GUID="117859">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500020</GUID>
+                    <Name>Buildmenu Hospital Enbesa</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_hospital.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>117668</Building>
+                            <!-- Hospital Original Africa-->
+                        </Item>
+                        <Item>
+                            <Building>1337500018</Building>
+                            <!-- Hospital / big -->
+                        </Item>
+                        <Item>
+                            <Building>1337500019</Building>
+                            <!-- Hospital / small -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>3789</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Buildmenu Hospital Enbesa</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- New Buildmenu for NEW HORIZONS-->
+    <ModOp Type="addNextSibling" GUID="501429">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337507001</GUID>
+                    <Name>Buildmenu Hospital NEW HORIZONS</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_hospital.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>1442523</Building>
+                            <!-- Hospital Original NEW HORIZONS-->
+                        </Item>
+                        <Item>
+                            <Building>1337500018</Building>
+                            <!-- Hospital / big -->
+                        </Item>
+                        <Item>
+                            <Building>1337500019</Building>
+                            <!-- Hospital / small -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>3789</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Buildmenu Hospital NEW HORIZONS</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Replace Original Hospital from Constructionmenu OLD WORLD with new menu-->
+    <ModOp Type="replace" GUID="25000191,500092" Path="/Values/ConstructionCategory/BuildingList/Item[Building='1010464']">
+        <Item>
+            <Building>1337500014</Building>
+        </Item>
+    </ModOp>
+    <!-- Replace Original Hospital from Constructionmenu NEW WORLD with new menu-->
+    <ModOp Type="replace" GUID="25000194,500137" Path="/Values/ConstructionCategory/BuildingList/Item[Building='101276']">
+        <Item>
+            <Building>1337500015</Building>
+        </Item>
+    </ModOp>
+    <!-- Replace Original Hospital from Constructionmenu Afrika with new menu-->
+    <ModOp Type="replace" GUID="114554,119012" Path="/Values/ConstructionCategory/BuildingList/Item[Building='117668']">
+        <Item>
+            <Building>1337500020</Building>
+        </Item>
+    </ModOp>
+	
+	<!-- Replace Original Hospital from Constructionmenu NEW HORIZONS with new menu-->
+	<ModOp Type="replace"
+		GUID="1445603,1445608"
+		Condition="~/Values/ConstructionCategory/BuildingList/Item[Building='1442523']"
+		Path="/Values/ConstructionCategory/BuildingList/Item[Building='1442523']">
+        <Item>
+            <Building>1337507001</Building>
+        </Item>
+    </ModOp>
+	
+	<!-- Add OW Hospitals to Buildmenu OW-Institutions from Fire_Station_MU -->
+    <ModOp Type="addNextSibling" GUID="1337504396" Path="/Values/ConstructionCategory/BuildingList/Item[last()]">
+        <Item>
+            <Building>8855054</Building>
+			<!-- Hospital SPIU Harborlife OW-->
+        </Item>
+		<Item>
+            <Building>1337504401</Building>
+			<!-- Hospital / big Harbor OW-->
+        </Item>
+		<Item>
+            <Building>1337504403</Building>
+			<!-- Hospital / small Harbor OW -->
+        </Item>
+    </ModOp>
+	
+	<!-- Add NW Hospitals to Buildmenu NW-Institutions from Fire_Station_MU -->
+    <ModOp Type="addNextSibling" GUID="1337504397" Path="/Values/ConstructionCategory/BuildingList/Item[last()]">
+        <Item>
+            <Building>8855055</Building>
+			<!-- Hospital SPIU Harborlife NW-->
+        </Item>
+		<Item>
+            <Building>1337504402</Building>
+			<!-- Hospital / big Harbor NW-->
+        </Item>
+		<Item>
+            <Building>1337504404</Building>
+			<!-- Hospital / small Harbor NW -->
+        </Item>
+    </ModOp>
+	
+    <!-- Hospital / big  resolverunit -->
+    <ModOp Type="addNextSibling" GUID="1010464">
+        <Asset>
+            <Template>ResolverUnitHospitalMU</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500016</GUID>
+                    <Name>Resolver Unit Illness Normal</Name>
+                    <IconFilename>data/ui/2kimages/main/icons/icon_hospital_2d.png</IconFilename>
+                    <InfoDescription>12012</InfoDescription>
+                </Standard>
+                <IncidentResolverUnit>
+                    <FeedbackUnitClass>1337500029</FeedbackUnitClass>
+                </IncidentResolverUnit>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Doctors</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>25834</LineID>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID="1010464">
+        <Asset>
+            <Template>FeedbackUnitClass</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500029</GUID>
+                    <Name>Resolver Unit Illness Normal</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_hospital.png</IconFilename>
+                </Standard>
+                <TrafficFeedbackClass>
+                    <UnitAssets>
+                        <Item>
+                            <UnitAsset>1337500028</UnitAsset>
+                        </Item>
+                    </UnitAssets>
+                    <AllowedReactions />
+                </TrafficFeedbackClass>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID="1010464">
+        <Asset>
+            <Template>TrafficFeedbackUnit</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500028</GUID>
+                    <Name>Resolver Unit Illness Normal</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_hospital.png</IconFilename>
+                </Standard>
+                <TrafficFeedbackUnit>
+                    <UnitType>Vehicle</UnitType>
+                    <CfgPath>data\muggenstuermer\vehicle\motorized_hospital\motorized_hospital_vehicle.cfg</CfgPath>
+                    <SpeedSource>Managed</SpeedSource>
+                    <OverwriteSpeed>0.4</OverwriteSpeed>
+                    <ResidentCamInteraction>MountAsCoach</ResidentCamInteraction>
+                </TrafficFeedbackUnit>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Hospital / small resolverunit -->
+    <ModOp Type="addNextSibling" GUID="1010464">
+        <Asset>
+            <Template>ResolverUnitHospitalSmallMU</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500017</GUID>
+                    <Name>Resolver Unit Illness Normal</Name>
+                    <IconFilename>data/ui/2kimages/main/icons/icon_hospital_2d.png</IconFilename>
+                    <InfoDescription>12012</InfoDescription>
+                </Standard>
+                <IncidentResolverUnit>
+                    <FeedbackUnitClass>140719</FeedbackUnitClass>
+                </IncidentResolverUnit>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Doctors</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>25834</LineID>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Hospital / big  -->
+    <ModOp Type="addNextSibling" GUID="1010464">
+        <Asset>
+           <!--<Template>InstitutionBuildingHospitalMU</Template> obsolete - no more existant -->
+			 <BaseAssetGUID>1010464</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337500018</GUID>
+                    <Name>institution_03 (Hospital)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/hospital_big.png</IconFilename>
+                    <InfoDescription>3789</InfoDescription>
+                </Standard>
+                <Building>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                </Building>
+                <Blocking />
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>22</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>38</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>18</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                            <Amount>18</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital\hospital.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Hospital</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3737</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239532</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500016</ResolverUnit>
+                    <ResolverUnitCount>4</ResolverUnitCount>
+                    <SpecialUnit>100584</SpecialUnit>
+                    <ResolvableIncidents>Illness</ResolvableIncidents>
+                    <DuringConstructionText>15224</DuringConstructionText>
+                    <DuringIncidentHeadline>3781</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>501922</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>255</Amount>
+                            <InactiveAmount>175</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>8500</MaximumHitPoints>
+                    <SelfHealPerHealTick>8</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Illness>
+                            <Influence>-10.18</Influence>
+                            <Distance>24</Distance>
+                        </Illness>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- Hospital / big  Harbor OW-->
+    <ModOp Type="addNextSibling" GUID="1010464">
+        <Asset>
+            <!--<Template>InstitutionBuildingHospitalMU</Template>-->
+			 <BaseAssetGUID>1010464</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337504401</GUID>
+                    <Name>institution_03 (Hospital)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/hospital_big.png</IconFilename>
+                    <InfoDescription>3789</InfoDescription>
+                </Standard>
+                <Building>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+					<TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+					<GroundDecalAsset>601492</GroundDecalAsset>
+					<GroundDecalInvisible>601493</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>22</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>38</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>18</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                            <Amount>18</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital_harbor\hospital.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+				<TextOverride>1337500018</TextOverride>
+                    <LocaText>
+                        <English>
+                            <Text>Hospital</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3737</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239532</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500016</ResolverUnit>
+                    <ResolverUnitCount>4</ResolverUnitCount>
+                    <SpecialUnit>100584</SpecialUnit>
+                    <ResolvableIncidents>Illness</ResolvableIncidents>
+                    <DuringConstructionText>15224</DuringConstructionText>
+                    <DuringIncidentHeadline>3781</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>501922</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>255</Amount>
+                            <InactiveAmount>175</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>8500</MaximumHitPoints>
+                    <SelfHealPerHealTick>8</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Illness>
+                            <Influence>-10.18</Influence>
+                            <Distance>24</Distance>
+                        </Illness>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- Hospital / big  Harbor NW-->
+    <ModOp Type="addNextSibling" GUID="1010464">
+        <Asset>
+            <!--<Template>InstitutionBuildingHospitalMU</Template>-->
+			 <BaseAssetGUID>1010464</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337504402</GUID>
+                    <Name>institution_03 (Hospital)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/hospital_big.png</IconFilename>
+                    <InfoDescription>3789</InfoDescription>
+                </Standard>
+                <Building>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+					<TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+					<GroundDecalAsset>132528</GroundDecalAsset>
+					<GroundDecalInvisible>132529</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>22</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>38</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>18</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                            <Amount>18</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital_harbor\hospital_nw.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+					<TextOverride>1337500018</TextOverride>
+                    <LocaText>
+                        <English>
+                            <Text>Hospital</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3737</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239532</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500016</ResolverUnit>
+                    <ResolverUnitCount>4</ResolverUnitCount>
+                    <SpecialUnit>100584</SpecialUnit>
+                    <ResolvableIncidents>Illness</ResolvableIncidents>
+                    <DuringConstructionText>15224</DuringConstructionText>
+                    <DuringIncidentHeadline>3781</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>501922</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>255</Amount>
+                            <InactiveAmount>175</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>8500</MaximumHitPoints>
+                    <SelfHealPerHealTick>8</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Illness>
+                            <Influence>-10.18</Influence>
+                            <Distance>24</Distance>
+                        </Illness>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- AI-blocking building -> Hospital / big + small 
+    <ModOp Type="add" GUID="220" Path="/Values/ConstructionAI/BuildingReplacements">
+        <Item>
+            <Building>1337500018</Building>
+            <Replacement>1010464</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500019</Building>
+            <Replacement>1010464</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500018</Building>
+            <Replacement>101276</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500019</Building>
+            <Replacement>101276</Replacement>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="167" Path="/Values/ConstructionAI">
+        <BuildingReplacements />
+    </ModOp>
+    <ModOp Type="add" GUID="167" Path="/Values/ConstructionAI/BuildingReplacements">
+        <Item>
+            <Building>1337500018</Building>
+            <Replacement>1010464</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500019</Building>
+            <Replacement>1010464</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500018</Building>
+            <Replacement>101276</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500019</Building>
+            <Replacement>101276</Replacement>
+        </Item>
+    </ModOp>-->
+    <!-- add big + small to the buff and logistic pool -->
+    <ModOp Type="add" GUID="141703" Path="/Values/CharacterInteractionConfig/BuildBuildingWhitelist">
+        <Item>
+            <Building>1337500018</Building>
+        </Item>
+        <Item>
+            <Building>1337500019</Building>
+        </Item>
+		<Item>
+            <Building>1337504401</Building>
+        </Item>
+        <Item>
+            <Building>1337504403</Building>
+        </Item>
+		<Item>
+            <Building>1337504402</Building>
+        </Item>
+        <Item>
+            <Building>1337504404</Building>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="190611,368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1337500018</GUID>
+        </Item>
+        <Item>
+            <GUID>1337500019</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504401</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504403</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504402</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504404</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="193879" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1337500018</GUID>
+        </Item>
+        <Item>
+            <GUID>1337500019</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504401</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504403</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504402</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504404</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="190777" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1337500018</GUID>
+        </Item>
+        <Item>
+            <GUID>1337500019</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504401</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504403</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504402</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504404</GUID>
+        </Item>
+    </ModOp>
+    <!-- Hospital big + small Feedbackunits-->
+    <ModOp Type="add" GUID="142785" Path="/Values/FeedbackBuildingGroup/Buildings">
+        <Item>
+            <Building>1337500019</Building>
+        </Item>
+        <Item>
+            <Building>1337500018</Building>
+        </Item>
+		<Item>
+            <Building>1337504401</Building>
+        </Item>
+        <Item>
+            <Building>1337504403</Building>
+        </Item>
+		<Item>
+            <Building>1337504402</Building>
+        </Item>
+        <Item>
+            <Building>1337504404</Building>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="142747" Path="/Values/FeedbackBuildingGroup/Buildings">
+        <Item>
+            <Building>1337500019</Building>
+        </Item>
+        <Item>
+            <Building>1337500018</Building>
+        </Item>
+		<Item>
+            <Building>1337504401</Building>
+        </Item>
+        <Item>
+            <Building>1337504403</Building>
+        </Item>
+		<Item>
+            <Building>1337504402</Building>
+        </Item>
+        <Item>
+            <Building>1337504404</Building>
+        </Item>
+    </ModOp>
+    <!-- Hospital / small -->
+    <ModOp Type="addNextSibling" GUID="1010464">
+        <Asset>
+            <!--<Template>InstitutionBuildingHospitalMU</Template>-->
+			 <BaseAssetGUID>1010464</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337500019</GUID>
+                    <Name>institution_03 (Hospital)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/hospital_small.png</IconFilename>
+                    <InfoDescription>3789</InfoDescription>
+                </Standard>
+                <Building>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                </Building>
+                <Blocking />
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>2500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010253</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital\small_hospital.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital\small_hospital_01_a.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital\small_hospital_01_b.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital\small_hospital_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Hospital</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3737</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239532</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500017</ResolverUnit>
+                    <ResolverUnitCount>3</ResolverUnitCount>
+                    <SpecialUnit>100584</SpecialUnit>
+                    <ResolvableIncidents>Illness</ResolvableIncidents>
+                    <DuringConstructionText>15224</DuringConstructionText>
+                    <DuringIncidentHeadline>3781</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>501922</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>55</Amount>
+                            <InactiveAmount>35</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>2500</MaximumHitPoints>
+                    <SelfHealPerHealTick>2</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Illness>
+                            <Influence>-6.79</Influence>
+                            <Distance>12</Distance>
+                        </Illness>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- Hospital / small Harbor OW-->
+    <ModOp Type="addNextSibling" GUID="1010464">
+        <Asset>
+            <!--<Template>InstitutionBuildingHospitalMU</Template>-->
+			 <BaseAssetGUID>1010464</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337504403</GUID>
+                    <Name>institution_03 (Hospital)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/hospital_small.png</IconFilename>
+                    <InfoDescription>3789</InfoDescription>
+                </Standard>
+                <Building>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+					<TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+					<GroundDecalAsset>601492</GroundDecalAsset>
+					<GroundDecalInvisible>601493</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>2500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010253</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital_harbor\small_hospital.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital_harbor\small_hospital_01_a.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital_harbor\small_hospital_01_b.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital_harbor\small_hospital_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+					<TextOverride>1337500019</TextOverride>
+                    <LocaText>
+                        <English>
+                            <Text>Hospital</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3737</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239532</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500017</ResolverUnit>
+                    <ResolverUnitCount>3</ResolverUnitCount>
+                    <SpecialUnit>100584</SpecialUnit>
+                    <ResolvableIncidents>Illness</ResolvableIncidents>
+                    <DuringConstructionText>15224</DuringConstructionText>
+                    <DuringIncidentHeadline>3781</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>501922</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>55</Amount>
+                            <InactiveAmount>35</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>2500</MaximumHitPoints>
+                    <SelfHealPerHealTick>2</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Illness>
+                            <Influence>-6.79</Influence>
+                            <Distance>12</Distance>
+                        </Illness>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- Hospital / small Harbor NW-->
+    <ModOp Type="addNextSibling" GUID="1010464">
+        <Asset>
+            <!--<Template>InstitutionBuildingHospitalMU</Template>-->
+			 <BaseAssetGUID>1010464</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337504404</GUID>
+                    <Name>institution_03 (Hospital)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/hospital_small.png</IconFilename>
+                    <InfoDescription>3789</InfoDescription>
+                </Standard>
+                <Building>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+					<TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+					<GroundDecalAsset>132528</GroundDecalAsset>
+					<GroundDecalInvisible>132529</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>2500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010253</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital_harbor\small_hospital.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital_harbor\small_hospital_01_a.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital_harbor\small_hospital_01_b.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\hospital\buildings\public\hospital_harbor\small_hospital_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+					<TextOverride>1337500019</TextOverride>
+                    <LocaText>
+                        <English>
+                            <Text>Hospital</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3737</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239532</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500017</ResolverUnit>
+                    <ResolverUnitCount>3</ResolverUnitCount>
+                    <SpecialUnit>100584</SpecialUnit>
+                    <ResolvableIncidents>Illness</ResolvableIncidents>
+                    <DuringConstructionText>15224</DuringConstructionText>
+                    <DuringIncidentHeadline>3781</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>501922</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>55</Amount>
+                            <InactiveAmount>35</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>2500</MaximumHitPoints>
+                    <SelfHealPerHealTick>2</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Illness>
+                            <Influence>-6.79</Influence>
+                            <Distance>12</Distance>
+                        </Illness>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+    <Include File="./hospital_big_tweaks.imya.include.xml" />
+    <Include File="./hospital_small_tweaks.imya.include.xml" />
+</ModOps>

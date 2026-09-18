@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Przechowuje żywność dla zwierząt i umożliwia produkcję.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423054</GUID>
+      <Text>Karmienie zwierząt</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423060</GUID>
+      <Text>Głodne zwierzęta</Text>
+    </Text>
+    <Text>
+      <GUID>1404423055</GUID>
+      <Text>Ferma trzody chlewnej</Text>
+    </Text>
+     <Text>
+      <GUID>1404423058</GUID>
+      <Text>Silos (Pasza świń)</Text>
+    </Text>
+    <Text>
+      <GUID>1404423056</GUID>
+      <Text>Chlew </Text>
+    </Text>
+  </ModOp>
+</ModOps>

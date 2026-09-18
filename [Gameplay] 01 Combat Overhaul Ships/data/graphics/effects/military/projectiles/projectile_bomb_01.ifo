@@ -1,0 +1,64 @@
+<Info>
+
+  <BoundingBox>
+    <Name>BoundingBox</Name>
+    <Position>
+      <xf>-0.01907969</xf>
+      <yf>0.2622023</yf>
+      <zf>0.1873589</zf>
+    </Position>
+    <Rotation>
+      <xf>0</xf>
+      <yf>0</yf>
+      <zf>0</zf>
+      <wf>1</wf>
+    </Rotation>
+    <Extents>
+      <xf>9.364794</xf>
+      <yf>9.322032</yf>
+      <zf>9.520668</zf>
+    </Extents>
+  </BoundingBox>
+  
+  <MeshBoundingBox>
+    <Name>MeshBoundingBox</Name>
+    <Position>
+      <xf>-0.01781705</xf>
+      <yf>0.06733245</yf>
+      <zf>0.0005778372</zf>
+    </Position>
+    <Rotation>
+      <xf>0</xf>
+      <yf>0</yf>
+      <zf>0</zf>
+      <wf>1</wf>
+    </Rotation>
+    <Extents>
+      <xf>0.1453145</xf>
+      <yf>0.3010058</yf>
+      <zf>0.06691352</zf>
+    </Extents>
+  </MeshBoundingBox>
+  
+  <DisableFeedbackArea>0</DisableFeedbackArea>
+  
+  <Sequence>
+    <Id>0</Id>
+    <Duration>7317</Duration>
+    <Looped>1</Looped>
+    <Speed>1</Speed>
+  </Sequence>
+  <Sequence>
+    <Id>2410</Id>
+    <Duration>2862</Duration>
+    <Looped>0</Looped>
+    <Speed>1</Speed>
+  </Sequence>
+  <Sequence>
+    <Id>2411</Id>
+    <Duration>3366</Duration>
+    <Looped>0</Looped>
+    <Speed>1</Speed>
+  </Sequence>
+  
+</Info>

@@ -1,0 +1,104 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002372</GUID>
+      <Text>粘土收集器</Text>
+    </Text>
+    <Text>
+      <GUID>1999002373</GUID>
+      <Text>粘土收集器 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003217</GUID>
+      <Text>鱼类丰度：&lt;i&gt;鳟鱼&lt;/i&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1999002379</GUID>
+      <Text>河道渔业工 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999002380</GUID>
+      <Text>河流渔业</Text>
+    </Text>
+    <Text>
+      <GUID>1999002381</GUID>
+      <Text>[AssetData(1010200) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003205</GUID>
+      <Text>河面粉厂 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003206</GUID>
+      <Text>河面粉厂</Text>
+    </Text>
+    <Text>
+      <GUID>1999003209</GUID>
+      <Text>河锯木厂 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003210</GUID>
+      <Text>河锯木厂</Text>
+    </Text>
+    <Text>
+      <GUID>1999003211</GUID>
+      <Text>[AssetData(500091) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003218</GUID>
+      <Text>水电站 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003219</GUID>
+      <Text>水电站</Text>
+    </Text>
+    <Text>
+      <GUID>1999003220</GUID>
+      <Text>利用湍急的河流的力量提供清洁的电力。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003221</GUID>
+      <Text>所有水电站</Text>
+    </Text>
+    <Text>
+      <GUID>1999003226</GUID>
+      <Text>全河锯木厂</Text>
+    </Text>
+    <Text>
+      <GUID>1999003232</GUID>
+      <Text>所有河流建筑</Text>
+    </Text>
+    <Text>
+      <GUID>1999003234</GUID>
+      <Text>包含新河牌槽位中所有可用的建筑</Text>
+    </Text>
+    <Text>
+      <GUID>1999005262</GUID>
+      <Text>现代泵房</Text>
+    </Text>
+    <Text>
+      <GUID>1999005263</GUID>
+      <Text>现代泵房 workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999005596</GUID>
+      <Text>处理水供应</Text>
+    </Text>
+    <Text>
+      <GUID>1999010367</GUID>
+      <Text>河砂矿</Text>
+    </Text>
+    <Text>
+      <GUID>1999010368</GUID>
+      <Text>河砂矿 Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999010371</GUID>
+      <Text>大河造纸厂</Text>
+    </Text>
+    <Text>
+      <GUID>1999010372</GUID>
+      <Text>大河造纸厂 Workarea</Text>
+    </Text>
+  </ModOp>
+</ModOps>

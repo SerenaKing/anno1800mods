@@ -1,0 +1,53 @@
+{
+  "Version": "1.0.1",
+  "ModID": "Spice_CommuterUnlockWorker",
+  "IncompatibleIds": [
+    "Spice_CommuterUnlockArtisan"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": "工人解锁通勤码头",
+    "English": "Commuter pier unlocked with Workers",
+    "French": null,
+    "German": "Pendler-Anlegestelle mit Arbeitern freischalten",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": "通勤码头与工人一起解锁，并移到工人施工菜单中。",
+    "English": "Commuter pier is unlocked with workers and is moved to the worker construction menu.",
+    "French": null,
+    "German": "Die Pendler-Anlegestelle wird mit Arbeitern freigeschaltet und ist in deren Hafen-Baumenü zu finden.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null,
+  "ModioResourceId": 3210581
+}

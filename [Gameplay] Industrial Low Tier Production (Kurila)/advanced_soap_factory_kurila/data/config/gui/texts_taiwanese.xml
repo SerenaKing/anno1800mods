@@ -1,0 +1,9 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423050</GUID>
+      <Text>Large Soap Factory</Text>
+    </Text>
+  </ModOp>
+</ModOps>

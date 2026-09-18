@@ -1,0 +1,9 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302220</GUID>
+      <Text>Lumberjack's Camp</Text>
+    </Text>
+  </ModOp>
+</ModOps>

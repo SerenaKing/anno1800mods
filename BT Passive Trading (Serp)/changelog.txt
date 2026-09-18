@@ -1,0 +1,31 @@
+1.01 
+- forked from More Passive Trade Budget to include TradeFleet reduction and 40t capacity for merchant ships to compensate for higher budget.
+1.02:
+- Using save GUID range. This also means a one time savegame compatibilty break! Don't update if you already used this mod in your savegame!
+1.03:
+- Ai Merchants will change ships depending on game progress, since I found a way to remove the old ships (so they will no longer sum up to too many ships, so we can use more different ships, although they only differ in speed)
+1.04:
+- Update game version 16.1 and finally the TradeBudget will increase over time from 5k to 100k.
+1.05:
+- Increased Trade Budget even more, 100k in the latest Lategame is not enough.
+1.06:
+- Code improvements and also Budget increase for Old Nate (missed him in updte 1.05).
+1.07:
+- renaming of modname and folder (ModID stays the same)
+- making the mod also work fine when loaded into existing savegame (removing the vanilla tradeships of merchants)
+- gave some ships of traders a bit different speed, so they hopefully do not arrive all the same time at the same island.
+1.08:
+- the mod will now shortly replace the merchant ship with one with higher stacklimit while the merchant ship is close to a humans kontor. This way the merchants will trade more with humans than with AI, which makes sure the AI will have offers left for humans to trade.
+- trading amounts with humans will be 105t, while with AI it will be 25t.
+-  this feature is done by changing the ship shortly with another one when the merchant ship is near a human harbor (radius 115), the change looks a bit strange for half a second.
+- Eli will use a ship one level below the others and kahina gets a minor speed buff, to make sure they dont arrive same island the same time too often.
+- also Ketema and Sarmento use 2 different ship levels now, to make sure they dont arrive same time same island.
+- after updating the mod some merchant ships might be missing, but will shortly after spawn again.
+- compatible to my mod Attainments by Honor, which lets you increase the amounts from 25t to 50/105/200t by spending honor.
+- compatible to my Nates in Old World mod
+1.09:
+- increased trading amount for humans to roughly 200t (and with honor to 100/200/300) and also adjusted them a bit to progresslevel, but not much.
+- removed not needed WhichPlayer-Condition shared mod
+- removed translation files, not needed anymore because we use TextOverride instead
+1.091:
+- LoadAfter New Horizions mod for compatibility (NH changes tradefleet, but worse than this mod)

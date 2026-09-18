@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1404423025</GUID>
+      <Text>Advanced Sawmill</Text>
+    </Text>
+  </ModOp>
+</ModOps>

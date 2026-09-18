@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Przechowuje żywność dla zwierząt i umożliwia produkcję.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300957</GUID>
+      <Text>Karmienie zwierząt</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300958</GUID>
+      <Text>Głodne zwierzęta</Text>
+    </Text>
+    <Text>
+      <GUID>1404423061</GUID>
+      <Text>Dojarnia</Text>
+    </Text>
+    <Text>
+      <GUID>1404423067</GUID>
+      <Text>Pozyskuje mleko.</Text>
+    </Text>
+    <Text>
+      <GUID>1404423065</GUID>
+      <Text>Ferma bydła</Text>
+    </Text>
+    <Text>
+      <GUID>1404423066</GUID>
+      <Text>Obora</Text>
+    </Text>
+    <Text>
+      <GUID>1404423064</GUID>
+      <Text>Silos (Pasza bydła)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300953</GUID>
+      <Text>Zatrzymaj silos i włącz go ponownie, aby aktywować wzmocnienie podawania.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

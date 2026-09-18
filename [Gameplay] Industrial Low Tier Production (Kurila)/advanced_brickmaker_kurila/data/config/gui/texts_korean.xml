@@ -1,0 +1,9 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302750</GUID>
+      <Text>브릭 작품</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>동물의 먹이를 저장하고 생산을 가능하게 합니다.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423054</GUID>
+      <Text>동물에게 먹이 주기</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423060</GUID>
+      <Text>배고픈 동물</Text>
+    </Text>
+    <Text>
+      <GUID>1404423055</GUID>
+      <Text>산업 양돈 농장</Text>
+    </Text>
+     <Text>
+      <GUID>1404423058</GUID>
+      <Text>사일로(돼지 사료)</Text>
+    </Text>
+    <Text>
+      <GUID>1404423056</GUID>
+      <Text>Advanced Pig Sty</Text>
+    </Text>
+  </ModOp>
+</ModOps>

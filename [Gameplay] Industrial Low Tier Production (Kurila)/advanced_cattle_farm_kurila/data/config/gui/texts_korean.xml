@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>동물의 먹이를 저장하고 생산을 가능하게 합니다.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300957</GUID>
+      <Text>동물에게 먹이 주기</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300958</GUID>
+      <Text>배고픈 동물</Text>
+    </Text>
+    <Text>
+      <GUID>1404423061</GUID>
+      <Text>Milking Parlour</Text>
+    </Text>
+    <Text>
+      <GUID>1404423067</GUID>
+      <Text>Produces Milk.</Text>
+    </Text>
+    <Text>
+      <GUID>1404423065</GUID>
+      <Text>Industrial Cattle Farm</Text>
+    </Text>
+    <Text>
+      <GUID>1404423066</GUID>
+      <Text>고급 가축 스타일</Text>
+    </Text>
+    <Text>
+      <GUID>1404423064</GUID>
+      <Text>사일로(가축 사료)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300953</GUID>
+      <Text>사일로를 일시 중지했다가 다시 켜면 피드 버프가 활성화됩니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

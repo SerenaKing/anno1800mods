@@ -1,0 +1,84 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423011</GUID>
+      <Text>Produzione avanzata di pane</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423016</GUID>
+      <Text>Produzione avanzata di tessuti da lavoro</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423021</GUID>
+      <Text>Produzione avanzata di grappa</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423026</GUID>
+      <Text>Produzione avanzata di legname</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423028</GUID>
+      <Text>Produzione avanzata di legname</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423031</GUID>
+      <Text>Produzione avanzata di vele</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500303051</GUID>
+      <Text>Produzione avanzata di corde</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423036</GUID>
+      <Text>Produzione avanzata di salsicce</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423041</GUID>
+      <Text>Produzione avanzata di acciaio</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423043</GUID>
+      <Text>Produzione avanzata</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423044</GUID>
+      <Text>Filiere di produzione avanzate</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423052</GUID>
+      <Text>Produzione avanzata di sapone</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500301107</GUID>
+      <Text>Produzione avanzata di birra</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302341</GUID>
+      <Text>Produzione avanzata di formaggio</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500302751</GUID>
+      <Text>Produzione avanzata di mattoni</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500301059</GUID>
+      <Text>Produzione industriale (Kurila)</Text>
+    </Text>
+  </ModOp>
+</ModOps>

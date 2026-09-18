@@ -1,0 +1,590 @@
+<ModOps> 
+
+
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+	<Text>
+		<GUID>6799982</GUID>
+		<Text>Einfaches Ziel (Kanonenturm)</Text>
+    </Text>
+	<Text>
+		<GUID>6799979</GUID>
+		<Text>Einfaches Ziel (Flammenwerfer)</Text>
+    </Text>
+	<Text>
+		<GUID>6799977</GUID>
+		<Text>Einfaches Ziel (Panzerbrechendes Geschütz)</Text>
+    </Text>
+	<Text>
+		<GUID>6799976</GUID>
+		<Text>Einfaches Ziel (Dicke Berta)</Text>
+    </Text>
+	<Text>
+		<GUID>6799989</GUID>
+		<Text>Flakschaden</Text>
+    </Text>
+	<Text>
+		<GUID>6799990</GUID>
+		<Text>Torpedo-Einschlag</Text>
+    </Text>
+	<Text>
+		<GUID>6799991</GUID>
+		<Text>Mineneinschlag</Text>
+    </Text>
+	<Text>
+		<GUID>6799992</GUID>
+		<Text>In Brand</Text>
+    </Text>
+	<Text>
+		<GUID>6799993</GUID>
+		<Text>Rumpf Durchbohrt</Text>
+    </Text>
+	<Text>
+		<GUID>6799994</GUID>
+		<Text>Geschütztürme Kompromittiert</Text>
+    </Text>
+	<Text>
+        <GUID>6800008</GUID>
+        <Text>Treibgut</Text>
+    </Text>
+	<Text>
+		<GUID>6799986</GUID>
+		<Text>Dreadnought</Text>
+	</Text>
+	<Text>
+		<GUID>6799984</GUID>
+		<Text>Dreadnought</Text>
+	</Text>
+	<Text>
+		<GUID>6799983</GUID>
+		<Text>Dreadnought-Schiffe</Text>
+    </Text>
+	<Text>
+		<GUID>6800029</GUID>
+		<Text>Dreadnoughts sind eine neue Art von Schlachtschiffen mit maximierter Feuerkraft, obwohl sie aufgrund ihrer enormen Größe anfällig für Kanonentürme sind.</Text>
+    </Text> 
+	<Text>
+		<GUID>6800030</GUID>
+		<Text>Schlachtschiff</Text>
+	</Text>
+	<Text>
+		<GUID>6800031</GUID>
+		<Text>Schlachtschiffe sind der Stolz der Marine. Sie sind mächtig und stark gepanzert, aber kosten viel Unterhalt und sollten von kleineren Schiffen begleitet werden.</Text>
+    </Text>
+    <Text>
+		<GUID>6800040</GUID>
+		<Text>Ironclad</Text>
+	</Text>
+	<Text>
+		<GUID>6800041</GUID>
+		<Text>Ein sehr schnelles Kriegsschiff, das geeignet ist, die meisten Schiffe einzuholen. Verlangsamt die feindliche Feuerrate, indem es hauptsächlich auf Geschütztürme zielt.</Text>
+    </Text>
+	<Text>
+		<GUID>6700110</GUID>
+		<Text>Königliche Galleone</Text>
+    </Text>
+	<Text>
+		<GUID>6700111</GUID>
+		<Text>Für sichere Überfahrten der Königin gebaut. Starkes Schiff mit großem Laderaum.</Text>
+    </Text>
+	<Text>
+		<GUID>6700050</GUID>
+		<Text>Königliche Kriegsschiff</Text>
+	</Text>
+	<Text>
+		<GUID>6700051</GUID>
+		<Text>Von der Königin höchstpersönlich für den Seekrieg lizenziert. Ein Kriegsschiff der Spitzenklasse.</Text>
+    </Text>
+	<Text>
+		<GUID>6700060</GUID>
+		<Text>Gigantischer Collier</Text>
+	</Text>
+	<Text>
+		<GUID>6700061</GUID>
+		<Text>Frachtschiff, das enorme Mengen an Güter transportieren kann. Bei voller Beladung büßt es mit starker Verlangsamung.</Text>
+    </Text>
+	<Text>
+		<GUID>6700065</GUID>
+		<Text>Gigantischer Collier 'Dunkles Holz' Skin</Text>
+    </Text>
+	<Text>
+		<GUID>6700067</GUID>
+		<Text>Gigantischer Collier 'Frachter' Skin</Text>
+    </Text>
+	<Text>
+		<GUID>6700107</GUID>
+		<Text>Petrolier</Text>
+	</Text>
+	<Text>
+		<GUID>6700108</GUID>
+		<Text>Privater Öltanker, der internationale Gewässer frei befahren kann.</Text>
+    </Text>
+	<Text>
+		<GUID>6700069</GUID>
+		<Text>Kapitän Francis Drake</Text>
+    </Text>
+	<Text>
+        <GUID>6700071</GUID>
+        <Text>Kleines Frachtboot</Text>
+    </Text>
+	<Text>
+		<GUID>6700072</GUID>
+		<Text>Ein kleines Frachtboot, das für kürzere Handelsrouten geeignet ist.</Text>
+    </Text>
+	<Text>
+		<GUID>6700075</GUID>
+		<Text>Kleines Frachtboot 'Shane' Skin</Text>
+    </Text>
+	<Text>
+		<GUID>6700077</GUID>
+		<Text>Kleines Frachtboot 'Frachter' Skin</Text>
+    </Text>
+	<Text>
+		<GUID>6700047</GUID>
+		<Text>Kühlschiff</Text>
+    </Text>
+	<Text>
+		<GUID>6700049</GUID>
+		<Text>Kühlschiff 'Weisser Wal' Skin</Text>
+    </Text>
+	<Text>
+		<GUID>6800089</GUID>
+		<Text>Verbessertes Kanonenboot</Text>
+    </Text>
+	<Text>
+		<GUID>6800090</GUID>
+		<Text>Verbesserte Fregatte</Text>
+    </Text>
+	<Text>
+		<GUID>6800091</GUID>
+		<Text>Verbesserte königliche Galleone</Text>
+    </Text>
+	<Text>
+		<GUID>6800092</GUID>
+		<Text>Verbessertes Königliche Kriegsschiff</Text>
+    </Text>
+	<Text>
+		<GUID>6800093</GUID>
+		<Text>Verbesserter Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6700091</GUID>
+		<Text>Klipper</Text>
+    </Text>
+	<Text>
+		<GUID>6799961</GUID>
+		<Text>Frachtschiff</Text>
+    </Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100660']/Text">
+      <Text>Charter Klipper</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1088']/Text"> 
+      <Text>Hybrides Schiffmodell. Dient sowohl als kleines agiles Kriegsschiff, aber auch als geschütztes Handelsschiff. Verlangsamt die feindliche Feuerrate, indem es hauptsächlich auf Geschütztürme zielt.</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23377']/Text"> 
+      <Text>Schnellstes bekanntes Handelsschiff mit anständigem Laderaum, was es perfekt für Erkundungen und Expeditionen macht.</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102420']/Text">
+      <Text>Verbessertes Kanonenboot</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22020']/Text">
+      <Text>Die neuen Schnitzmethoden machen diese Schiffe noch schneller und stärker.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102421']/Text">
+      <Text>Verbesserte Fregatte</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22021']/Text">
+      <Text>Eine leichte Designänderung ermöglichte mehr Panzerung und Geschwindigkeit.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102427']/Text">
+      <Text>Verbesserte königliche Galleone</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22027']/Text">
+      <Text>Die neusten Modelle sind noch stärker gepanzert und agiler.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102419']/Text">
+      <Text>Verbessertes Königliche Kriegsschiff</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22022']/Text">
+      <Text>Die neuen Motoren machen dieses schwere Schiff deutlich schneller.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102422']/Text">
+      <Text>Verbesserter Monitor</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22023']/Text">
+      <Text>Die neuen kleinen Kanonen geben diesen neuen Monitoren mehr Feuerkraft. Verlangsamt die feindliche Feuerrate, indem es hauptsächlich auf Geschütztürme zielt.</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '19973']/Text"> 
+      <Text>Aufgrund seiner umfassenden Erfahrung im Seekampf ist er in der Lage, feindliche Schiffe außer Gefecht zu setzen.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21402']/Text"> 
+      <Text>Schiffbau-Meister unserer Königin. Auf Galleonen spezialisiert.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192457']/Text">
+      <Text>Gideon Small, Meister der Kanonenboote</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21395']/Text">
+      <Text>Die große Erfindung eines Zwerges - Massenproduktion.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192458']/Text">
+      <Text>Petra Piper, Meister der Fregatten</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21396']/Text">
+      <Text>Ihr schlankes Design ermöglicht es Schiffen, effektiver zu sein.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192459']/Text">
+      <Text>Shih Yang, Meister der Kriegsschiffe</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21397']/Text">
+      <Text>Seine großen Kriegsschiffe vereinen Wind- und Motorenkraft perfekt.</Text>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192460']/Text">
+      <Text>Maria Pizarro, Meister der Monitore</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21398']/Text">
+      <Text>Diese ehemalige Piratin verbessert jetzt Monitore, um vor Piratenangriffen geschützt zu sein.</Text>
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124843']/Text">
+      <Text>Kolossale Schiffsgenehmigung</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124320']/Text">
+      <Text>Erwerben Sie die Genehmigungen zum Bau kolossaler Schiffe.</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '124306']/Text">
+      <Text>Kolossale Schiffe werden in der Dampfwerft zum Bau zur Verfügung stehen.</Text> 
+  </ModOp>
+  
+  
+  
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102423']/Text">
+      <Text>Pyrphorischer Monitor</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100568']/Text">
+      <Text>Schlachtkreuzer</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100569']/Text">
+      <Text>Monitor</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102372']/Text">
+      <Text>Schlachtkreuzer</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102373']/Text">
+      <Text>Monitor</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102380']/Text">
+      <Text>Schlachtkreuzer</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102381']/Text">
+      <Text>Monitor</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102615']/Text">
+      <Text>Schlachtkreuzer</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102616']/Text">
+      <Text>Monitor</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102305']/Text">
+      <Text>Schlachtkreuzer</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102387']/Text">
+      <Text>Schlachtkreuzer</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102391']/Text">
+      <Text>Schlachtkreuzer</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '102571']/Text">
+      <Text>Monitor</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '111166']/Text">
+      <Text>Monitor</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '80024']/Text">
+      <Text>Monitor</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '80025']/Text">
+      <Text>Schlachtkreuzer</Text> 
+  </ModOp>
+  
+  
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1054']/Text">
+      <Text>Harpyie (bewaffnet)</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1056']/Text">
+      <Text>Mantikor (bewaffnet)</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1654']/Text">
+      <Text>Harpyie</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1655']/Text">
+      <Text>Mantikor</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1058']/Text">
+      <Text>Hermes</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1059']/Text">
+      <Text>Pegasus</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1060']/Text">
+      <Text>Zephyr</Text> 
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '1755']/Text">
+      <Text>Boreas</Text> 
+  </ModOp>
+  
+  
+  
+
+  <ModOp Type="add" Path="TextExport/Texts">
+  
+  
+	<Text>
+		<GUID>6800201</GUID>
+		<Text>Flaggschiff 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800203</GUID>
+		<Text>Flaggschiff 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800205</GUID>
+		<Text>Flaggschiff 'Imperial' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800207</GUID>
+		<Text>Flaggschiff 'Imperial Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800209</GUID>
+		<Text>Flaggschiff 'Imperial Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800211</GUID>
+		<Text>Flaggschiff 'North Sea' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800213</GUID>
+		<Text>Flaggschiff 'North Sea Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800215</GUID>
+		<Text>Flaggschiff 'North Sea Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800217</GUID>
+		<Text>Schoner 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800219</GUID>
+		<Text>Schoner 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800221</GUID>
+		<Text>Kanonenboot 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800223</GUID>
+		<Text>Kanonenboot 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800187</GUID>
+		<Text>Verbessertes Kanonenboot 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800185</GUID>
+		<Text>Verbessertes Kanonenboot 'Vanilla' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800225</GUID>
+		<Text>Klipper 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800227</GUID>
+		<Text>Klipper 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800229</GUID>
+		<Text>Klipper 'Ocean Blue' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800231</GUID>
+		<Text>Fregatte 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800233</GUID>
+		<Text>Fregatte 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800191</GUID>
+		<Text>Verbesserte Fregatte 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800189</GUID>
+		<Text>Verbesserte Fregatte 'Vanilla' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800239</GUID>
+		<Text>Linienschiff '1701' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800243</GUID>
+		<Text>Linienschiff 'Vasco Bronze' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800245</GUID>
+		<Text>Linienschiff 'Vasco Silver' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800247</GUID>
+		<Text>Linienschiff 'Vasco Gold' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800237</GUID>
+		<Text>Königliche Kriegsschiff 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800241</GUID>
+		<Text>Königliche Kriegsschiff 'Two Million' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800199</GUID>
+		<Text>Verbessertes Königliche Kriegsschiff 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800197</GUID>
+		<Text>Verbessertes Königliche Kriegsschiff 'Autumnal Red' Skin</Text>
+	</Text>
+  
+  
+	<Text>
+		<GUID>6800249</GUID>
+		<Text>Frachtschiff 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800251</GUID>
+		<Text>Frachtschiff 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800253</GUID>
+		<Text>Frachtschiff 'Freighter' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800255</GUID>
+		<Text>Monitor 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800257</GUID>
+		<Text>Monitor 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800195</GUID>
+		<Text>Verbesserter Monitor 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800193</GUID>
+		<Text>Verbesserter Monitor 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800271</GUID>
+		<Text>Flak-Monitor 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800273</GUID>
+		<Text>Flak-Monitor 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800275</GUID>
+		<Text>Monitor mit Flammenwerfer 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800277</GUID>
+		<Text>Monitor mit Flammenwerfer 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800279</GUID>
+		<Text>Monitor mit blauem Flammenwerfer 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800281</GUID>
+		<Text>Monitor mit blauem Flammenwerfer 'Autumnal Red' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800259</GUID>
+		<Text>Schlachtkreuzer 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800261</GUID>
+		<Text>Schlachtkreuzer 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800263</GUID>
+		<Text>Schlachtkreuzer 'Commando' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800265</GUID>
+		<Text>Schlachtkreuzer '2070' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800267</GUID>
+		<Text>Schlachtkreuzer 'Two Million' Skin</Text>
+	</Text>
+	
+  
+	<Text>
+		<GUID>6800269</GUID>
+		<Text>Great Eastern 'Heritage' Skin</Text>
+	</Text>
+	
+  </ModOp>
+  
+  
+</ModOps>

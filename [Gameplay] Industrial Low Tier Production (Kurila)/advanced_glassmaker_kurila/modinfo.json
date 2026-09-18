@@ -1,0 +1,55 @@
+{
+  "Version": "1.2.1",
+  "ModID": "advanced_glassmaker_kurila",
+  "DeprecateIds": [],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+  ],
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Sub-Mod",
+    "Chinese": "Sub-Mod",
+    "French": "Sub-Mod",
+    "German": "Sub-Mod",
+    "Italian": "Sub-Mod",
+    "Japanese": "Sub-Mod",
+    "Korean": "Sub-Mod",
+    "Polish": "Sub-Mod",
+    "Russian": "Sub-Mod",
+    "Spanish": "Sub-Mod",
+    "Taiwanese": "Sub-Mod"
+  },
+  "ModName": {
+    "Chinese": "Advanced Glassmakers (Kurila)",
+    "English": "Advanced Glassmakers (Kurila)",
+    "French": "Advanced Glassmakers (Kurila)",
+    "German": "Advanced Glassmakers (Kurila)",
+    "Italian": "Advanced Glassmakers (Kurila)",
+    "Japanese": "Advanced Glassmakers (Kurila)",
+    "Korean": "Advanced Glassmakers (Kurila)",
+    "Polish": "Advanced Glassmakers (Kurila)",
+    "Russian": "Advanced Glassmakers (Kurila)",
+    "Spanish": "Advanced Glassmakers (Kurila)",
+    "Taiwanese": "Advanced Glassmakers (Kurila)"
+  },
+  "Description": {
+    "English": "file::README.md",
+    "German": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

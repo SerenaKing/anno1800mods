@@ -1,0 +1,55 @@
+{
+  "Version": "1.2",
+  "ModID": "advanced_malthouse_kurila",
+  "DeprecateIds": [],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+  ],
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Sub-Mod",
+    "Chinese": "Sub-Mod",
+    "French": "Sub-Mod",
+    "German": "Sub-Mod",
+    "Italian": "Sub-Mod",
+    "Japanese": "Sub-Mod",
+    "Korean": "Sub-Mod",
+    "Polish": "Sub-Mod",
+    "Russian": "Sub-Mod",
+    "Spanish": "Sub-Mod",
+    "Taiwanese": "Sub-Mod"
+  },
+  "ModName": {
+    "Chinese": "Advanced Malthouse (Kurila)",
+    "English": "Advanced Malthouse (Kurila)",
+    "French": "Advanced Malthouse (Kurila)",
+    "German": "Advanced Malthouse (Kurila)",
+    "Italian": "Advanced Malthouse (Kurila)",
+    "Japanese": "Advanced Malthouse (Kurila)",
+    "Korean": "Advanced Malthouse (Kurila)",
+    "Polish": "Advanced Malthouse (Kurila)",
+    "Russian": "Advanced Malthouse (Kurila)",
+    "Spanish": "Advanced Malthouse (Kurila)",
+    "Taiwanese": "Advanced Malthouse (Kurila)"
+  },
+  "Description": {
+    "English": "file::README.md",
+    "German": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

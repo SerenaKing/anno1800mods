@@ -1,0 +1,17 @@
+<ModOps>
+  <Group Condition="#shared-milk-from-cattle-farm-lion053">
+    <ModOp Type="addNextSibling" Path="//InfoTipData[Guid='25000020']//VisibilityElement[ExpectedValueInt='1010263']">
+        <VisibilityElement>
+          <ElementType>
+            <ElementType>1</ElementType>
+          </ElementType>
+          <CompareOperator />
+          <ResultType>
+            <ResultType>1</ResultType>
+          </ResultType>
+          <ExpectedValueInt>1500302615</ExpectedValueInt> <!-- Advanced Dairy Farm -->
+          <Condition>[RefGuid]</Condition>
+        </VisibilityElement>
+    </ModOp>
+  </Group>
+</ModOps>

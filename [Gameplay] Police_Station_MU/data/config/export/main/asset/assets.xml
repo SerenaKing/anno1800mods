@@ -1,0 +1,1432 @@
+<ModOps>
+<!-- muggenstuermer GUID-Range  1337500000 - 1337510000  -->
+<!--
+
+1337504410 - Freischaltung / Trigger
+
+1337500000 - New Buildmenu for OLD WORLD
+1337500003 - New Buildmenu for NEW WORLD
+1337500006 - New Buildmenu for Afrika
+
+1337507002 - New Buildmenu for NEW HORIZONS
+
+1337500004 - Polizeistation / big  resolverunit
+1337500024 - Polizeistation / big Resolver_Unit_Riot_Special
+1337500025 - Polizeistation / big Resolver_Unit_Riot_Special-TrafficFeedbackUnit
+
+1337500005 - Polizeistation / small resolverunit
+
+1337500001 - Polizeistation / big
+1337504406 - Polizeistation / big Harbor OW
+1337504407 - Polizeistation / big Harbor NW
+
+1337500002 - Polizeistation / small
+1337504408 - Polizeistation / small Harbor OW
+1337504409 - Polizeistation / small Harbor NW
+
+-->
+    <!-- Freischaltung / Trigger -->
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130248']">
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337504410</GUID>
+                    <Name>intermediate moderate 2.2</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/portrait_icons_0014_resident_tier02.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000001</Context>
+                                <CounterAmount>300</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1337500001</Asset>
+                                                <!-- Polizeistation / big -->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337500002</Asset>
+                                                <!-- Polizeistation / small -->
+                                            </Item>
+											<Item>
+                                                <Asset>1337504406</Asset>
+                                                <!-- Polizeistation / big Harbor OW -->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337504408</Asset>
+                                                <!-- Polizeistation / small Harbor OW -->
+                                            </Item>
+											<Item>
+                                                <Asset>1337504407</Asset>
+                                                <!-- Polizeistation / big Harbor NW -->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337504409</Asset>
+                                                <!-- Polizeistation / small Harbor NW -->
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets>
+                                            <Item>
+                                                <Asset>1337500001</Asset>
+                                                <!-- Polizeistation / big -->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337500002</Asset>
+                                                <!-- Polizeistation / small -->
+                                            </Item>
+											<Item>
+                                                <Asset>1337504406</Asset>
+                                                <!-- Polizeistation / big Harbor OW -->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337504408</Asset>
+                                                <!-- Polizeistation / small Harbor OW -->
+                                            </Item>
+											<Item>
+                                                <Asset>1337504407</Asset>
+                                                <!-- Polizeistation / big Harbor NW -->
+                                            </Item>
+                                            <Item>
+                                                <Asset>1337504409</Asset>
+                                                <!-- Polizeistation / small Harbor NW -->
+                                            </Item>
+                                        </UnhideAssets>
+                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+				<TriggerSetup>
+					<UsedBySecondParties>0</UsedBySecondParties>
+				</TriggerSetup>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- New Buildmenu for OLD WORLD-->
+    <ModOp Type="addNextSibling" GUID="500006">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500000</GUID>
+                    <Name>Buildmenu Police Station OW</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_police.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>1010462</Building>
+                            <!-- Police Original OW-->
+                        </Item>
+                        <Item>
+                            <Building>1337500001</Building>
+                            <!-- Polizeistation / big -->
+                        </Item>
+                        <Item>
+                            <Building>1337500002</Building>
+                            <!-- Polizeistation / small -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>3788</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Buildmenu Police Station OW</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- New Buildmenu for NEW WORLD-->
+    <ModOp Type="addNextSibling" GUID="101258">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500003</GUID>
+                    <Name>Buildmenu Police Station NW</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_police.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>101274</Building>
+                            <!-- Police Original NW-->
+                        </Item>
+                        <Item>
+                            <Building>1337500001</Building>
+                            <!-- Polizeistation / big -->
+                        </Item>
+                        <Item>
+                            <Building>1337500002</Building>
+                            <!-- Polizeistation / small -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>3788</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Buildmenu Police Station NW</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- New Buildmenu for Afrika -->
+    <ModOp Type="addNextSibling" GUID="114568">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500006</GUID>
+                    <Name>Buildmenu Police Station Enbesa</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_police.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>114508</Building>
+                            <!-- Police Original Afrika -->
+                        </Item>
+                        <Item>
+                            <Building>1337500001</Building>
+                            <!-- Polizeistation / big -->
+                        </Item>
+                        <Item>
+                            <Building>1337500002</Building>
+                            <!-- Polizeistation / small -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>3788</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Buildmenu Police Station Enbesa</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- New Buildmenu for NEW HORIZONS-->
+    <ModOp Type="addNextSibling" GUID="101258">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337507002</GUID>
+                    <Name>Buildmenu Police Station NEW HORIZONS</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_police.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>1442522</Building>
+                            <!-- Police Original NEW HORIZONS-->
+                        </Item>
+                        <Item>
+                            <Building>1337500001</Building>
+                            <!-- Polizeistation / big -->
+                        </Item>
+                        <Item>
+                            <Building>1337500002</Building>
+                            <!-- Polizeistation / small -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>3788</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Buildmenu Police Station NEW HORIZONS</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+	
+    <!-- Replace Original Policestation from Constructionmenu OLD WORLD with new menu-->
+    <ModOp Type="replace" GUID="25000190,500092" Path="/Values/ConstructionCategory/BuildingList/Item[Building='1010462']">
+        <Item>
+            <Building>1337500000</Building>
+        </Item>
+    </ModOp>
+    <!-- Replace Original Policestation from Constructionmenu NEW WORLD with new menu-->
+    <ModOp Type="replace" GUID="25000193,500137" Path="/Values/ConstructionCategory/BuildingList/Item[Building='101274']">
+        <Item>
+            <Building>1337500003</Building>
+        </Item>
+    </ModOp>
+    <!-- Replace Original Policestation from Constructionmenu Afrika with new menu-->
+    <ModOp Type="replace" GUID="114554,119012" Path="/Values/ConstructionCategory/BuildingList/Item[Building='114508']">
+        <Item>
+            <Building>1337500006</Building>
+        </Item>
+    </ModOp>
+	
+	<!-- Replace Original Policestation from Constructionmenu NEW HORIZONS with new menu-->
+	<ModOp Type="replace"
+		GUID="1445602,1445608"
+		Condition="~/Values/ConstructionCategory/BuildingList/Item[Building='1442522']"
+		Path="/Values/ConstructionCategory/BuildingList/Item[Building='1442522']">
+        <Item>
+            <Building>1337507002</Building>
+        </Item>
+    </ModOp>
+	
+	<!-- Add OW Policestations to Buildmenu OW-Institutions from Fire_Station_MU -->
+    <ModOp Type="addNextSibling" GUID="1337504396" Path="/Values/ConstructionCategory/BuildingList/Item[Building='1337504395']">
+        <Item>
+            <Building>8855052</Building>
+			<!-- Policestation SPIU Harborlife OW-->
+        </Item>
+		<Item>
+            <Building>1337504406</Building>
+			<!-- Policestation / big Harbor OW-->
+        </Item>
+		<Item>
+            <Building>1337504408</Building>
+			<!-- Policestation / small Harbor OW -->
+        </Item>
+    </ModOp>
+	
+	<!-- Add NW Policestations to Buildmenu NW-Institutions from Fire_Station_MU -->
+    <ModOp Type="addNextSibling" GUID="1337504397" Path="/Values/ConstructionCategory/BuildingList/Item[Building='1337504400']">
+        <Item>
+            <Building>8855053</Building>
+			<!-- Policestation SPIU Harborlife NW-->
+        </Item>
+		<Item>
+            <Building>1337504407</Building>
+			<!-- Policestation / big Harbor NW-->
+        </Item>
+		<Item>
+            <Building>1337504409</Building>
+			<!-- Policestation / small Harbor NW -->
+        </Item>
+    </ModOp>
+	
+    <!-- Polizeistation / big  resolverunit -->
+    <ModOp Type="addNextSibling" GUID="1010462">
+        <Asset>
+            <Template>PoliceStationResolver01MU</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500004</GUID>
+                    <Name>Resolver Unit Riot Normal</Name>
+                    <IconFilename>data/ui/2kimages/main/icons/icon_police_2d.png</IconFilename>
+                    <InfoDescription>21509</InfoDescription>
+                </Standard>
+                <IncidentResolverUnit>
+                    <FeedbackUnitClass>1337500024</FeedbackUnitClass>
+                </IncidentResolverUnit>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Police Officers</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>25832</LineID>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID="1010462">
+        <Asset>
+            <Template>FeedbackUnitClass</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500024</GUID>
+                    <Name>Resolver_Unit_Riot_Special</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_mounted_police.png</IconFilename>
+                </Standard>
+                <TrafficFeedbackClass>
+                    <UnitAssets>
+                        <Item>
+                            <UnitAsset>1337500025</UnitAsset>
+                        </Item>
+                    </UnitAssets>
+                    <AllowedReactions />
+                    <ClassFlags>FightsRiot</ClassFlags>
+                </TrafficFeedbackClass>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID="2001079">
+        <Asset>
+            <Template>TrafficFeedbackUnit</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500025</GUID>
+                    <Name>Resolver_Unit_Riot_Special</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_mounted_police.png</IconFilename>
+                </Standard>
+                <TrafficFeedbackUnit>
+                    <UnitType>Vehicle</UnitType>
+                    <CfgPath>data\muggenstuermer\vehicle\motorized_police\motorized_police_vehicle.cfg</CfgPath>
+                    <SpeedSource>Managed</SpeedSource>
+                    <OverwriteSpeed>0.2</OverwriteSpeed>
+                    <ResidentCamInteraction>MountAsCoach</ResidentCamInteraction>
+                </TrafficFeedbackUnit>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Polizeistation / small resolverunit -->
+    <ModOp Type="addNextSibling" GUID="1010462">
+        <Asset>
+            <Template>PoliceStationResolver02MU</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337500005</GUID>
+                    <Name>Resolver Unit Riot Normal</Name>
+                    <IconFilename>data/ui/2kimages/main/icons/icon_police_2d.png</IconFilename>
+                    <InfoDescription>21509</InfoDescription>
+                </Standard>
+                <IncidentResolverUnit>
+                    <FeedbackUnitClass>2001006</FeedbackUnitClass>
+                </IncidentResolverUnit>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Police Officers</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>25832</LineID>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Polizeistation / big  -->
+    <ModOp Type="addNextSibling" GUID="1010462">
+        <Asset>
+            <!--<Template>PoliceStationBuildingMU</Template> obsolete - no more existant -->
+			<BaseAssetGUID>1010462</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337500001</GUID>
+                    <Name>institution_01 (Police)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/police_big.png</IconFilename>
+                    <InfoDescription>3788</InfoDescription>
+                </Standard>
+                <Building>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+                </Building>
+                <Blocking />
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>18</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>43</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>28</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\police_station\buildings\public\police_station\police_station_big.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Police Station</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3735</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239530</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController>
+                    <NightBehavior>HideNone</NightBehavior>
+                </FeedbackController>
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500004</ResolverUnit>
+                    <ResolverUnitCount>4</ResolverUnitCount>
+                    <SpecialUnit>100582</SpecialUnit>
+                    <ResolvableIncidents>Riot</ResolvableIncidents>
+                    <DuringConstructionText>17464</DuringConstructionText>
+                    <DuringIncidentHeadline>3780</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>500322</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>85</Amount>
+                            <InactiveAmount>50</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>6500</MaximumHitPoints>
+                    <SelfHealPerHealTick>7</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Riot>
+                            <Influence>-10.18</Influence>
+                            <Distance>24</Distance>
+                        </Riot>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- Polizeistation / big Harbor OW -->
+    <ModOp Type="addNextSibling" GUID="1010462">
+        <Asset>
+            <!--<Template>PoliceStationBuildingMU</Template>-->
+			<BaseAssetGUID>1010462</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337504406</GUID>
+                    <Name>institution_01 (Police)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/police_big.png</IconFilename>
+                    <InfoDescription>3788</InfoDescription>
+                </Standard>
+                <Building>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+					<TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+					<GroundDecalAsset>601492</GroundDecalAsset>
+					<GroundDecalInvisible>601493</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>18</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>43</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>28</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\police_station\buildings\public\police_station_harbor\police_station_big.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+					<TextOverride>1337500001</TextOverride>
+                    <LocaText>
+                        <English>
+                            <Text>Police Station</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3735</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239530</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController>
+                    <NightBehavior>HideNone</NightBehavior>
+                </FeedbackController>
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500004</ResolverUnit>
+                    <ResolverUnitCount>4</ResolverUnitCount>
+                    <SpecialUnit>100582</SpecialUnit>
+                    <ResolvableIncidents>Riot</ResolvableIncidents>
+                    <DuringConstructionText>17464</DuringConstructionText>
+                    <DuringIncidentHeadline>3780</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>500322</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>85</Amount>
+                            <InactiveAmount>50</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>6500</MaximumHitPoints>
+                    <SelfHealPerHealTick>7</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Riot>
+                            <Influence>-10.18</Influence>
+                            <Distance>24</Distance>
+                        </Riot>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- Polizeistation / big Harbor NW -->
+    <ModOp Type="addNextSibling" GUID="1010462">
+        <Asset>
+            <!--<Template>PoliceStationBuildingMU</Template>-->
+			<BaseAssetGUID>1010462</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337504407</GUID>
+                    <Name>institution_01 (Police)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/police_big.png</IconFilename>
+                    <InfoDescription>3788</InfoDescription>
+                </Standard>
+                <Building>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+					<TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+					<GroundDecalAsset>132528</GroundDecalAsset>
+					<GroundDecalInvisible>132529</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>18</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>43</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>28</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\police_station\buildings\public\police_station_harbor\police_station_big.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+					<TextOverride>1337500001</TextOverride>
+                    <LocaText>
+                        <English>
+                            <Text>Police Station</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3735</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239530</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController>
+                    <NightBehavior>HideNone</NightBehavior>
+                </FeedbackController>
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500004</ResolverUnit>
+                    <ResolverUnitCount>4</ResolverUnitCount>
+                    <SpecialUnit>100582</SpecialUnit>
+                    <ResolvableIncidents>Riot</ResolvableIncidents>
+                    <DuringConstructionText>17464</DuringConstructionText>
+                    <DuringIncidentHeadline>3780</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>500322</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>85</Amount>
+                            <InactiveAmount>50</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>6500</MaximumHitPoints>
+                    <SelfHealPerHealTick>7</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Riot>
+                            <Influence>-10.18</Influence>
+                            <Distance>24</Distance>
+                        </Riot>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- AI-blocking building -> Poizeistation / big + small
+    <ModOp Type="add" GUID="220" Path="/Values/ConstructionAI/BuildingReplacements">
+        <Item>
+            <Building>1337500001</Building>
+            <Replacement>1010462</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500002</Building>
+            <Replacement>1010462</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500001</Building>
+            <Replacement>101274</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500002</Building>
+            <Replacement>101274</Replacement>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="167" Path="/Values/ConstructionAI">
+        <BuildingReplacements />
+    </ModOp>
+    <ModOp Type="add" GUID="167" Path="/Values/ConstructionAI/BuildingReplacements">
+        <Item>
+            <Building>1337500001</Building>
+            <Replacement>1010462</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500002</Building>
+            <Replacement>1010462</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500001</Building>
+            <Replacement>101274</Replacement>
+        </Item>
+        <Item>
+            <Building>1337500002</Building>
+            <Replacement>101274</Replacement>
+        </Item>
+    </ModOp> -->
+    <!-- add bug + small to the buff and logistic pool -->
+    <ModOp Type="add" GUID="141703" Path="/Values/CharacterInteractionConfig/BuildBuildingWhitelist">
+        <Item>
+            <Building>1337500001</Building>
+        </Item>
+        <Item>
+            <Building>1337500002</Building>
+        </Item>
+		<Item>
+            <Building>1337504406</Building>
+        </Item>
+        <Item>
+            <Building>1337504408</Building>
+        </Item>
+		<Item>
+            <Building>1337504407</Building>
+        </Item>
+        <Item>
+            <Building>1337504409</Building>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="190611,368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1337500001</GUID>
+        </Item>
+        <Item>
+            <GUID>1337500002</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504406</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504408</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504407</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504409</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="193879" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1337500001</GUID>
+        </Item>
+        <Item>
+            <GUID>1337500002</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504406</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504408</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504407</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504409</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="190776" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1337500001</GUID>
+        </Item>
+        <Item>
+            <GUID>1337500002</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504406</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504408</GUID>
+        </Item>
+		<Item>
+            <GUID>1337504407</GUID>
+        </Item>
+        <Item>
+            <GUID>1337504409</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="111261" Path="/Values/PlayerCounterContextPool/Contexts">
+        <Item>
+            <Asset>1337500001</Asset>
+        </Item>
+        <Item>
+            <Asset>1337500002</Asset>
+        </Item>
+		<Item>
+            <Asset>1337504406</Asset>
+        </Item>
+        <Item>
+            <Asset>1337504408</Asset>
+        </Item>
+		<Item>
+            <Asset>1337504407</Asset>
+        </Item>
+        <Item>
+            <Asset>1337504409</Asset>
+        </Item>
+    </ModOp>
+    <!-- Polizeistation / Knast  big + small Feedbackunits-->
+    <ModOp Type="add" GUID="142785" Path="/Values/FeedbackBuildingGroup/Buildings">
+        <Item>
+            <Building>1337500002</Building>
+        </Item>
+        <Item>
+            <Building>1337500001</Building>
+        </Item>
+    </ModOp>
+    <!-- Polizeistation / small -->
+    <ModOp Type="addNextSibling" GUID="1010462">
+        <Asset>
+            <!--<Template>PoliceStationBuildingMU</Template>-->
+			<BaseAssetGUID>1010462</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337500002</GUID>
+                    <Name>institution_01 (Police)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/police_small.png</IconFilename>
+                    <InfoDescription>3788</InfoDescription>
+                </Standard>
+                <Building>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                </Building>
+                <Blocking />
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>1500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\police_station\buildings\public\police_station\police_station_small_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\police_station\buildings\public\police_station\police_station_small_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Police Station</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3735</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239530</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController>
+                    <NightBehavior>HideNone</NightBehavior>
+                </FeedbackController>
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500005</ResolverUnit>
+                    <ResolverUnitCount>2</ResolverUnitCount>
+                    <SpecialUnit>100582</SpecialUnit>
+                    <ResolvableIncidents>Riot</ResolvableIncidents>
+                    <DuringConstructionText>17464</DuringConstructionText>
+                    <DuringIncidentHeadline>3780</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>500322</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>30</Amount>
+                            <InactiveAmount>30</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>2500</MaximumHitPoints>
+                    <SelfHealPerHealTick>2</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Riot>
+                            <Influence>-6.79</Influence>
+                            <Distance>12</Distance>
+                        </Riot>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- Polizeistation / small Harbor OW -->
+    <ModOp Type="addNextSibling" GUID="1010462">
+        <Asset>
+            <!--<Template>PoliceStationBuildingMU</Template>-->
+			<BaseAssetGUID>1010462</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337504408</GUID>
+                    <Name>institution_01 (Police)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/police_small.png</IconFilename>
+                    <InfoDescription>3788</InfoDescription>
+                </Standard>
+                <Building>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+					<TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+					<GroundDecalAsset>601492</GroundDecalAsset>
+					<GroundDecalInvisible>601493</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>1500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\police_station\buildings\public\police_station_harbor\police_station_small_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\police_station\buildings\public\police_station_harbor\police_station_small_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+					<TextOverride>1337500002</TextOverride>
+                    <LocaText>
+                        <English>
+                            <Text>Police Station</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3735</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239530</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController>
+                    <NightBehavior>HideNone</NightBehavior>
+                </FeedbackController>
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500005</ResolverUnit>
+                    <ResolverUnitCount>2</ResolverUnitCount>
+                    <SpecialUnit>100582</SpecialUnit>
+                    <ResolvableIncidents>Riot</ResolvableIncidents>
+                    <DuringConstructionText>17464</DuringConstructionText>
+                    <DuringIncidentHeadline>3780</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>500322</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>30</Amount>
+                            <InactiveAmount>30</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>2500</MaximumHitPoints>
+                    <SelfHealPerHealTick>2</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Riot>
+                            <Influence>-6.79</Influence>
+                            <Distance>12</Distance>
+                        </Riot>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+	<!-- Polizeistation / small Harbor NW -->
+    <ModOp Type="addNextSibling" GUID="1010462">
+        <Asset>
+            <!--<Template>PoliceStationBuildingMU</Template>-->
+			<BaseAssetGUID>1010462</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1337504409</GUID>
+                    <Name>institution_01 (Police)</Name>
+                    <IconFilename>data/muggenstuermer/ui/2kimages/main/3dicons/police_small.png</IconFilename>
+                    <InfoDescription>3788</InfoDescription>
+                </Standard>
+                <Building>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+					<DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+                    <AssociatedRegions>Moderate;Mod2;Africa;Arctic;Colony01</AssociatedRegions>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+					<TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+					<GroundDecalAsset>132528</GroundDecalAsset>
+					<GroundDecalInvisible>132529</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>1500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data\muggenstuermer\police_station\buildings\public\police_station_harbor\police_station_small_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data\muggenstuermer\police_station\buildings\public\police_station_harbor\police_station_small_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+					<Skins>
+						<DefaultSkinName />
+						<SkinList />
+					</Skins>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>CityInstitution</GUIType>
+                </Selection>
+                <Text>
+					<TextOverride>1337500002</TextOverride>
+                    <LocaText>
+                        <English>
+                            <Text>Police Station</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>3735</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>239530</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                    </IncidentSounds>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <FeedbackController>
+                    <NightBehavior>HideNone</NightBehavior>
+                </FeedbackController>
+                <Infolayer />
+                <UpgradeList />
+                <IncidentResolver>
+                    <ResolverUnit>1337500005</ResolverUnit>
+                    <ResolverUnitCount>2</ResolverUnitCount>
+                    <SpecialUnit>100582</SpecialUnit>
+                    <ResolvableIncidents>Riot</ResolvableIncidents>
+                    <DuringConstructionText>17464</DuringConstructionText>
+                    <DuringIncidentHeadline>3780</DuringIncidentHeadline>
+                    <ActionButtonText>3690</ActionButtonText>
+                    <DuringIncidentHeadlineIcon>500322</DuringIncidentHeadlineIcon>
+                </IncidentResolver>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>30</Amount>
+                            <InactiveAmount>30</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <AttackableType>HarbourBuilding</AttackableType>
+                    <MaximumHitPoints>2500</MaximumHitPoints>
+                    <SelfHealPerHealTick>2</SelfHealPerHealTick>
+                </Attackable>
+                <Pausable />
+                <IncidentInfluencer>
+                    <Influence>
+                        <Riot>
+                            <Influence>-6.79</Influence>
+                            <Distance>12</Distance>
+                        </Riot>
+                    </Influence>
+                </IncidentInfluencer>
+                <DelayedConstruction />
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                </AmbientMoodProvider>
+                <Culture />
+                <Upgradable />
+            </Values>
+        </Asset>
+    </ModOp>
+    <Include File="./police_station_big_tweaks.imya.include.xml" />
+    <Include File="./police_station_small_tweaks.imya.include.xml" />
+</ModOps>

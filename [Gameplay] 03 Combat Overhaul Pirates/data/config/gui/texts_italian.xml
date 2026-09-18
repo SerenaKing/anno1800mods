@@ -1,0 +1,89 @@
+<ModOps> 
+
+
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+	<Text>
+		<GUID>6800010</GUID>
+		<Text>Corazzata "La Perla Rossa"</Text>
+	</Text>
+	<Text>
+		<GUID>6800011</GUID>
+		<Text>Un'enorme corazzata pirata, ispirata alla "Perla Rossa", la leggendaria nave pirata.</Text>
+    </Text>
+    <Text>
+		<GUID>6800020</GUID>
+		<Text>nave da carico rinforzata</Text>
+	</Text>
+	<Text>
+		<GUID>6800021</GUID>
+		<Text>Una versione più forte della nave da carico. Resiste almeno il doppio del tempo quando è sotto tiro.</Text>
+    </Text>
+	<Text>
+		<GUID>6799999</GUID>
+		<Text>Monitore dei Pirforiani</Text>
+    </Text>
+	<Text>
+		<GUID>6799998</GUID>
+		<Text>Monitore migliorato</Text>
+    </Text>
+	<Text>
+		<GUID>6799997</GUID>
+		<Text>Nave da guerra dei Pirforiani</Text>
+    </Text>
+	<Text>
+		<GUID>6799962</GUID>
+		<Text>Incrociatore dei Pirforiani</Text>
+    </Text>
+	<Text>
+		<GUID>6799969</GUID>
+		<Text>Incrociatore dei Pirforiani</Text>
+    </Text>
+	<Text>
+		<GUID>6799996</GUID>
+		<Text>Incrociatore dei Pirforiani</Text>
+    </Text>
+	<Text>
+		<GUID>6799987</GUID>
+		<Text>Monitore dei Pirforiani Blu</Text>
+    </Text>
+	<Text>
+		<GUID>6799973</GUID>
+		<Text>Monitore contraereo</Text>
+    </Text>
+	<Text>
+		<GUID>6799967</GUID>
+		<Text>Monitore contraereo</Text>
+    </Text>
+	<Text>
+		<GUID>6799966</GUID>
+		<Text>Monitore contraereo</Text>
+    </Text>
+	<Text>
+		<GUID>6799965</GUID>
+		<Text>Monitore contraereo</Text>
+    </Text>
+  </ModOp>
+  
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+    <Text>
+		<GUID>6799964</GUID>
+		<Text>Susan McLean, ingegnere della nave da carico rinforzata</Text>
+	</Text>
+	<Text>
+		<GUID>6799963</GUID>
+		<Text>Un tempo pirata, ora mette a frutto la sua precedente esperienza rafforzando le navi mercantili per sostenere più danni.</Text>
+	</Text>
+	<Text>
+		<GUID>6799975</GUID>
+		<Text>Capitano Jack Arrow, famigerato pirata</Text>
+	</Text>
+	<Text>
+		<GUID>6799974</GUID>
+		<Text>Temuto da molti, venerato da altri. Grazie al suo straordinario talento e abilità tattica divenne un famigerato capitano pirata.</Text>
+	</Text>
+  </ModOp>
+  
+  
+</ModOps>

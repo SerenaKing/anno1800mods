@@ -1,0 +1,89 @@
+<ModOps> 
+
+
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+	<Text>
+		<GUID>6800010</GUID>
+		<Text>Schlachtschiff "Die rote Perle"</Text>
+	</Text>
+	<Text>
+		<GUID>6800011</GUID>
+		<Text>Ein riesiges Piratenschlachtschiff, durch die "Rote Perle", dem legendären Piratenschiff, inspiriert.</Text>
+    </Text>
+    <Text>
+		<GUID>6800020</GUID>
+		<Text>Gepanzertes Frachtschiff</Text>
+	</Text>
+	<Text>
+		<GUID>6800021</GUID>
+		<Text>Eine stärkeres Frachtschiff. Hält mindestens doppelt so lange durch, wenn es unter Beschuss ist.</Text>
+    </Text>
+	<Text>
+		<GUID>6799999</GUID>
+		<Text>Pyrphorischer Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799998</GUID>
+		<Text>Verbesserter Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799997</GUID>
+		<Text>Pyrphorisches Kriegsschiff</Text>
+    </Text>
+	<Text>
+		<GUID>6799962</GUID>
+		<Text>Pyrphorischer Kreuzer</Text>
+    </Text>
+	<Text>
+		<GUID>6799969</GUID>
+		<Text>Pyrphorischer Kreuzer</Text>
+    </Text>
+	<Text>
+		<GUID>6799996</GUID>
+		<Text>Pyrphorischer Schlachtkreuzer</Text>
+    </Text>
+	<Text>
+		<GUID>6799987</GUID>
+		<Text>Blauer Pyrphorischer Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799973</GUID>
+		<Text>Flak-Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799967</GUID>
+		<Text>Flak-Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799966</GUID>
+		<Text>Flak-Monitor</Text>
+    </Text>
+	<Text>
+		<GUID>6799965</GUID>
+		<Text>Flak-Monitor</Text>
+    </Text>
+  </ModOp>
+  
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+    <Text>
+		<GUID>6799964</GUID>
+		<Text>Susan McLean, Ingenieurin gepanzerte Frachtschiffe</Text>
+	</Text>
+	<Text>
+		<GUID>6799963</GUID>
+		<Text>Nachdem sie Piratin war, nutzt sie nun ihre Erfahrung, um Frachtschiffe für besseren Schutz stärker zu panzern.</Text>
+	</Text>
+	<Text>
+		<GUID>6799975</GUID>
+		<Text>Capt'n Jack Arrow, Berühmter Pirat</Text>
+	</Text>
+	<Text>
+		<GUID>6799974</GUID>
+		<Text>Von vielen gefürchtet, von Anderen verehrt. Durch sein unglaubliches Talent und seiner taktischen Fähigkeiten wurde er ein berühmter Piratenkapitän.</Text>
+	</Text>
+  </ModOp>
+  
+  
+</ModOps>

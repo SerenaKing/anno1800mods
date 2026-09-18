@@ -1,0 +1,9 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423035</GUID>
+      <Text>Sausage Factory</Text>
+    </Text>
+  </ModOp>
+</ModOps>

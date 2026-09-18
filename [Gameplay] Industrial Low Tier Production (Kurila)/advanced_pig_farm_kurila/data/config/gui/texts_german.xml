@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Lagert das Tierfutter. Ohne Futter wird nichts produziert.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423054</GUID>
+      <Text>Gefütterte Tiere</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423060</GUID>
+      <Text>Hungrige Tiere</Text>
+    </Text>
+    <Text>
+      <GUID>1404423055</GUID>
+      <Text>Schweinemaststall</Text>
+    </Text>
+     <Text>
+      <GUID>1404423058</GUID>
+      <Text>Silo (Schweinefutter)</Text>
+    </Text>
+    <Text>
+      <GUID>1404423056</GUID>
+      <Text>Großer Schweinestall</Text>
+    </Text>
+  </ModOp>
+</ModOps>

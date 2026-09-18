@@ -1,0 +1,80 @@
+<ModOps> 
+
+
+  <ModOp Type="add" Path="TextExport/Texts">
+    <Text>
+		<GUID>6799978</GUID>
+		<Text>Cible Facile (Artillerie Portuaire)</Text>
+	</Text>
+	<Text>
+		<GUID>6800006</GUID>
+		<Text>Croiseur de Combat Avancé</Text>
+	</Text>
+	<Text>
+		<GUID>6800183</GUID>
+		<Text>Croiseur de Combat Avancé 'Regal Plating' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800181</GUID>
+		<Text>Croiseur de Combat Avancé 'Autumnal Red' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800099</GUID>
+		<Text>Croiseur de Combat Avancé 'Commando' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800097</GUID>
+		<Text>Croiseur de Combat Avancé '2070' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800095</GUID>
+		<Text>Croiseur de Combat Avancé 'Two Million' Skin</Text>
+	</Text>
+	<Text>
+		<GUID>6800000</GUID>
+		<Text>Cuirassé Avancé</Text>
+	</Text>
+	<Text>
+		<GUID>6800001</GUID>
+		<Text>Plus fort et plus puissant que le cuirassé ordinaire, mais un peu plus lent en vitesse.</Text>
+	</Text>
+    <Text>
+		<GUID>6800100</GUID>
+		<Text>Chantier Naval Avancé</Text>
+	</Text>
+	<Text>
+		<GUID>6800101</GUID>
+		<Text>Chantier Naval Avancé, capacités de construction inconnues.</Text>
+    </Text>
+	<Text>
+		<GUID>6800050</GUID>
+		<Text>Artillerie Portuaire</Text>
+	</Text>
+	<Text>
+		<GUID>6700105</GUID>
+		<Text>Artillerie Portuaire</Text>
+	</Text>
+	<Text>
+		<GUID>6700104</GUID>
+		<Text>Artillerie Portuaire</Text>
+	</Text>
+	<Text>
+		<GUID>6700103</GUID>
+		<Text>Artillerie Portuaire</Text>
+	</Text>
+	<Text>
+		<GUID>6800051</GUID>
+		<Text>Un énorme canon pour protéger encore plus les îles.</Text>
+    </Text>
+	<Text>
+		<GUID>6700114</GUID>
+		<Text>AI Combat Ship Buff (for AI only), IF YOU SEE THIS SOMETHING IS WRONG as player should never get this! You got an AI LIGHTHOUSE which you CANNOT DO! INCOMPATIBILITY ISSUE (likely "Ruins on Takeover" mod)! Read the MOD DESCRIPTION and follow the step-by-step process explained there to remove the other mod!</Text>
+    </Text>
+	<Text>
+		<GUID>6700115</GUID>
+		<Text>AI Trade Ship Buff (for AI only), IF YOU SEE THIS SOMETHING IS WRONG as player should never get this! You got an AI LIGHTHOUSE which you CANNOT DO! INCOMPATIBILITY ISSUE (likely "Ruins on Takeover" mod)! Read the MOD DESCRIPTION and follow the step-by-step process explained there to remove the other mod!</Text>
+    </Text>
+  </ModOp>
+  
+  
+</ModOps>

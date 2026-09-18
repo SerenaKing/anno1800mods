@@ -1,0 +1,89 @@
+<ModOps> 
+
+
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+	<Text>
+		<GUID>6800010</GUID>
+		<Text>“红珍珠”号战列舰</Text>
+	</Text>
+	<Text>
+		<GUID>6800011</GUID>
+		<Text>一艘巨大的海盗战舰，灵感来自传说中的海盗船“红珍珠”。</Text>
+    </Text>
+    <Text>
+		<GUID>6800020</GUID>
+		<Text>装甲货船</Text>
+	</Text>
+	<Text>
+		<GUID>6800021</GUID>
+		<Text>货船的更强版本。在火力下至少保持两倍的时间。</Text>
+    </Text>
+	<Text>
+		<GUID>6799999</GUID>
+		<Text>派若弗利安浅水重炮舰</Text>
+    </Text>
+	<Text>
+		<GUID>6799998</GUID>
+		<Text>改进的浅水重炮舰</Text>
+    </Text>
+	<Text>
+		<GUID>6799997</GUID>
+		<Text>派若弗利安军舰</Text>
+    </Text>
+	<Text>
+		<GUID>6799962</GUID>
+		<Text>派若弗利安战列巡洋舰</Text>
+    </Text>
+	<Text>
+		<GUID>6799969</GUID>
+		<Text>派若弗利安战列巡洋舰</Text>
+    </Text>
+	<Text>
+		<GUID>6799996</GUID>
+		<Text>派若弗利安战列巡洋舰</Text>
+    </Text>
+	<Text>
+		<GUID>6799987</GUID>
+		<Text>蓝色派若弗利安浅水重炮舰</Text>
+    </Text>
+	<Text>
+		<GUID>6799973</GUID>
+		<Text>防空浅水重炮舰</Text>
+    </Text>
+	<Text>
+		<GUID>6799967</GUID>
+		<Text>防空浅水重炮舰</Text>
+    </Text>
+	<Text>
+		<GUID>6799966</GUID>
+		<Text>防空浅水重炮舰</Text>
+    </Text>
+	<Text>
+		<GUID>6799965</GUID>
+		<Text>防空浅水重炮舰</Text>
+    </Text>
+  </ModOp>
+  
+  
+  <ModOp Type="add" Path="TextExport/Texts">
+    <Text>
+		<GUID>6799964</GUID>
+		<Text>苏珊·麦克莱恩, 装甲货船工程师</Text>
+	</Text>
+	<Text>
+		<GUID>6799963</GUID>
+		<Text>她曾经是一名海盗，现在通过加固货船以承受更大的破坏，充分利用她以前的经验。</Text>
+	</Text>
+	<Text>
+		<GUID>6799975</GUID>
+		<Text>船长杰克阿罗, 臭名昭著的海盗</Text>
+	</Text>
+	<Text>
+		<GUID>6799974</GUID>
+		<Text>被许多人畏惧，被其他人尊敬。由于他非凡的天赋和战术实力，他成为了臭名昭著的海盗船长。</Text>
+	</Text>
+  </ModOp>
+  
+  
+</ModOps>

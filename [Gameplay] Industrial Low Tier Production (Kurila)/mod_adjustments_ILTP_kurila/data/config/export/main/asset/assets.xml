@@ -1,0 +1,32 @@
+<ModOps>
+  <!-- Remove Advanced Dairy Farm if no one consume Milk -->
+    <Group Condition="!//PopulationInputs/Item[Product='5385']">
+      <Group Condition="!//Values[Building/AssociatedRegions='Moderate']//FactoryInputs/Item[Product='5385']">
+        <ModOp Type="remove" Path="//ConstructionCategory/BuildingList/Item[Building='1500302615']"
+          Condition="//ConstructionCategory/BuildingList/Item[Building='1500302615']"></ModOp>
+      </Group>
+    </Group>
+  <!-- Remove Advanced Cheese Dairy if no one consume Cheese -->
+    <Group Condition="!//PopulationInputs/Item[Product='1500010102']">
+      <Group Condition="!//FactoryInputs/Item[Product='1500010102']">
+        <ModOp Type="remove" Path="//ConstructionCategory/BuildingList/Item[Building='1500302340']"
+          Condition="//ConstructionCategory/BuildingList/Item[Building='1500302340']"></ModOp>
+      </Group>
+    </Group>
+  <!-- Remove Advanced Chicken Farm if no one consume Eggs -->
+    <Group Condition="!//PopulationInputs/Item[Product='1555000100']">
+      <Group Condition="!//FactoryInputs/Item[Product='1555000100']">
+        <ModOp Type="remove" Path="//ConstructionCategory/BuildingList/Item[Building='1500302602']"
+          Condition="//ConstructionCategory/BuildingList/Item[Building='1500302602']"></ModOp>
+      </Group>
+    </Group>
+  <!-- Adjust Buff-Range of Farms for Milk Pastures -->
+    <Group Condition="#shared-milk-from-cattle-farm-lion053">
+      <ModOp Type="merge" GUID="1500302613" Path="/Values/EffectForward/ForwardEffectRange/text()"
+        Content="@1500302615/ModuleOwner/ModuleBuildRadius/text()">
+      </ModOp>
+      <ModOp Type="merge" GUID="1500300954" Path="/Values/EffectForward/ForwardEffectRange/text()"
+        Content="@1404423065/ModuleOwner/ModuleBuildRadius/text()">
+      </ModOp>
+    </Group>
+</ModOps>

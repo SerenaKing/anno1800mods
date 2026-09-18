@@ -1,0 +1,15 @@
+<ModOps>
+	<!-- OLD WORLD -->
+	<!-- TOWN HALL -->
+	<ModOp Type="add" GUID="100415" Path="/Values/ItemContainer">
+		<SocketScope>Area</SocketScope>
+	</ModOp>
+	<!-- TRADE UNION -->
+	<ModOp Type="add" GUID="1010516" Path="/Values/ItemContainer">
+		<SocketScope>Area</SocketScope>
+	</ModOp>
+	<!-- HARBOURMASTER'S OFFICE -->
+	<ModOp Type="add" GUID="100586" Path="/Values/ItemContainer">
+		<SocketScope>Area</SocketScope>
+	</ModOp>
+</ModOps>

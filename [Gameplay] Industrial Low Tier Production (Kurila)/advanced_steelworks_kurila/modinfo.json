@@ -1,0 +1,55 @@
+{
+  "Version": "1.2",
+  "ModID": "advanced_steelworks_kurila",
+  "DeprecateIds": [],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+  ],
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Sub-Mod",
+    "Chinese": "Sub-Mod",
+    "French": "Sub-Mod",
+    "German": "Sub-Mod",
+    "Italian": "Sub-Mod",
+    "Japanese": "Sub-Mod",
+    "Korean": "Sub-Mod",
+    "Polish": "Sub-Mod",
+    "Russian": "Sub-Mod",
+    "Spanish": "Sub-Mod",
+    "Taiwanese": "Sub-Mod"
+  },
+  "ModName": {
+    "Chinese": "Advanced Steelworks (Kurila)",
+    "English": "Advanced Steelworks (Kurila)",
+    "French": "Advanced Steelworks (Kurila)",
+    "German": "Advanced Steelworks (Kurila)",
+    "Italian": "Advanced Steelworks (Kurila)",
+    "Japanese": "Advanced Steelworks (Kurila)",
+    "Korean": "Advanced Steelworks (Kurila)",
+    "Polish": "Advanced Steelworks (Kurila)",
+    "Russian": "Advanced Steelworks (Kurila)",
+    "Spanish": "Advanced Steelworks (Kurila)",
+    "Taiwanese": "Advanced Steelworks (Kurila)"
+  },
+  "Description": {
+    "English": "file::README.md",
+    "German": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

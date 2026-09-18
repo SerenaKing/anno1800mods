@@ -1,0 +1,104 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002372</GUID>
+      <Text>점토 채취장</Text>
+    </Text>
+    <Text>
+      <GUID>1999002373</GUID>
+      <Text>점토 채취장 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999003217</GUID>
+      <Text>풍부한 어족: &lt;i&gt;송어&lt;/i&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1999002379</GUID>
+      <Text>강 양어장 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999002380</GUID>
+      <Text>강 양어장</Text>
+    </Text>
+    <Text>
+      <GUID>1999002381</GUID>
+      <Text>[AssetData(1010200) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003205</GUID>
+      <Text>강 제분소 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999003206</GUID>
+      <Text>강 제분소</Text>
+    </Text>
+    <Text>
+      <GUID>1999003209</GUID>
+      <Text>강 제재소 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999003210</GUID>
+      <Text>강 제재소</Text>
+    </Text>
+    <Text>
+      <GUID>1999003211</GUID>
+      <Text>[AssetData(500091) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003218</GUID>
+      <Text>강 수력 발전소 작업구역</Text>
+    </Text>
+    <Text>
+      <GUID>1999003219</GUID>
+      <Text>강 수력 발전소</Text>
+    </Text>
+    <Text>
+      <GUID>1999003220</GUID>
+      <Text>흐르는 강물의 힘을 이용해 깨끗한 전기를 공급합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003221</GUID>
+      <Text>모든 강 수력 발전소</Text>
+    </Text>
+    <Text>
+      <GUID>1999003226</GUID>
+      <Text>모든 강 제재소</Text>
+    </Text>
+    <Text>
+      <GUID>1999003232</GUID>
+      <Text>모든 강 건물</Text>
+    </Text>
+    <Text>
+      <GUID>1999003234</GUID>
+      <Text>새로운 강 슬롯에 사용할 수 있는 모든 건물을 포함합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005262</GUID>
+      <Text>현대식 펌프 하우스</Text>
+    </Text>
+    <Text>
+      <GUID>1999005263</GUID>
+      <Text>현대식 펌프 하우스 Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999005596</GUID>
+      <Text>처리된 물 공급</Text>
+    </Text>
+    <Text>
+      <GUID>1999010367</GUID>
+      <Text>강 모래 광산</Text>
+    </Text>
+    <Text>
+      <GUID>1999010368</GUID>
+      <Text>강 모래 광산 Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999010371</GUID>
+      <Text>리버 제지 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1999010372</GUID>
+      <Text>리버 제지 공장 Workarea</Text>
+    </Text>
+  </ModOp>
+</ModOps>

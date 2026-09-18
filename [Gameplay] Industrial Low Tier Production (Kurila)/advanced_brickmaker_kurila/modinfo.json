@@ -1,0 +1,55 @@
+{
+  "Version": "1.0",
+  "ModID": "advanced_brickmaker_kurila",
+  "DeprecateIds": [],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+  ],
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Sub-Mod",
+    "Chinese": "Sub-Mod",
+    "French": "Sub-Mod",
+    "German": "Sub-Mod",
+    "Italian": "Sub-Mod",
+    "Japanese": "Sub-Mod",
+    "Korean": "Sub-Mod",
+    "Polish": "Sub-Mod",
+    "Russian": "Sub-Mod",
+    "Spanish": "Sub-Mod",
+    "Taiwanese": "Sub-Mod"
+  },
+  "ModName": {
+    "Chinese": "Advanced Brickmaker (Kurila)",
+    "English": "Advanced Brickmaker (Kurila)",
+    "French": "Advanced Brickmaker (Kurila)",
+    "German": "Advanced Brickmaker (Kurila)",
+    "Italian": "Advanced Brickmaker (Kurila)",
+    "Japanese": "Advanced Brickmaker (Kurila)",
+    "Korean": "Advanced Brickmaker (Kurila)",
+    "Polish": "Advanced Brickmaker (Kurila)",
+    "Russian": "Advanced Brickmaker (Kurila)",
+    "Spanish": "Advanced Brickmaker (Kurila)",
+    "Taiwanese": "Advanced Brickmaker (Kurila)"
+  },
+  "Description": {
+    "English": "file::README.md",
+    "German": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

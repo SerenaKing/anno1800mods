@@ -1,0 +1,55 @@
+{
+  "Version": "1.2",
+  "ModID": "advanced_framework_knitter_kurila",
+  "DeprecateIds": [],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+  ],
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Sub-Mod",
+    "Chinese": "Sub-Mod",
+    "French": "Sub-Mod",
+    "German": "Sub-Mod",
+    "Italian": "Sub-Mod",
+    "Japanese": "Sub-Mod",
+    "Korean": "Sub-Mod",
+    "Polish": "Sub-Mod",
+    "Russian": "Sub-Mod",
+    "Spanish": "Sub-Mod",
+    "Taiwanese": "Sub-Mod"
+  },
+  "ModName": {
+    "Chinese": "Advanced Framework Knitter (Kurila)",
+    "English": "Advanced Framework Knitter (Kurila)",
+    "French": "Advanced Framework Knitter (Kurila)",
+    "German": "Advanced Framework Knitter (Kurila)",
+    "Italian": "Advanced Framework Knitter (Kurila)",
+    "Japanese": "Advanced Framework Knitter (Kurila)",
+    "Korean": "Advanced Framework Knitter (Kurila)",
+    "Polish": "Advanced Framework Knitter (Kurila)",
+    "Russian": "Advanced Framework Knitter (Kurila)",
+    "Spanish": "Advanced Framework Knitter (Kurila)",
+    "Taiwanese": "Advanced Framework Knitter (Kurila)"
+  },
+  "Description": {
+    "English": "file::README.md",
+    "German": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

@@ -1,0 +1,30 @@
+{
+  "ModID": "[Gameplay] 01 Combat Overhaul Ships  ",
+  "Version": "17.2.1.7",
+  "ModName": {
+    "English": "01 Combat Overhaul Ships"
+  },
+  "Category": {
+    "English": "Gameplay"
+  },
+  "LoadAfterIds": [
+    "military_attention",
+    "military_attention_ships",
+    "military_attention_pirates",
+    "military_attention_legendary_ai",
+    "military_attention_arships_attack_everything"
+  ],
+  "ModDependencies": [],
+  "IncompatibleIds": [
+    "Spice_Ruins"
+  ],
+  "DeprecateIds": [
+    "Spice_Ruins"
+  ],
+  "KnownIssues": [
+    {"English": "In order to preserve stability, CO disables one mod due to severe game breaking issues"},
+    {"English": "ModName: Ruins on Takeover [Spice it Up]                        ModID: Spice_Ruins                             mod.io/g/anno-1800/m/ruins-on-takeover-spice-it-up                         reason: Bugs out the AI, AI can not build over or demolish ruins, it stops their building patterns, which stops them from developing. This mod also gives the player the AI Lighthouse which causes the player to receive all the Combat Overhaul AI buildings/ships/buffs, which then bakes itself into the savegame, unable to ever be fixed."}
+    ],
+  "CreatorName": "Ac3s",
+  "CreatorContact": "add Ac3s as friend on Discord"
+}

@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>Almacena alimentos para los animales y permite la producción.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300957</GUID>
+      <Text>Alimentar a los animales</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300958</GUID>
+      <Text>Animales hambrientos</Text>
+    </Text>
+    <Text>
+      <GUID>1404423061</GUID>
+      <Text>sala de ordeño</Text>
+    </Text>
+    <Text>
+      <GUID>1404423067</GUID>
+      <Text>Produce Leche.</Text>
+    </Text>
+    <Text>
+      <GUID>1404423065</GUID>
+      <Text>Granja industrial de ganado</Text>
+    </Text>
+    <Text>
+      <GUID>1404423066</GUID>
+      <Text>Pocilga de ganado avanzada</Text>
+    </Text>
+    <Text>
+      <GUID>1404423064</GUID>
+      <Text>Silo (alimento para ganado)</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300953</GUID>
+      <Text>Ponga en pausa el silo y vuelva a encenderlo para activar el tope de alimentación.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

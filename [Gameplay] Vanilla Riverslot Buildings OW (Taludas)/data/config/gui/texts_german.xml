@@ -1,0 +1,104 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002372</GUID>
+      <Text>Lehmschöpferei</Text>
+    </Text>
+    <Text>
+      <GUID>1999002373</GUID>
+      <Text>Lehmschöpferei Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003217</GUID>
+      <Text>Fischbestände: &lt;i&gt;Forelle&lt;/i&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1999002379</GUID>
+      <Text>Flussfischer Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999002380</GUID>
+      <Text>Flussfischer</Text>
+    </Text>
+    <Text>
+      <GUID>1999002381</GUID>
+      <Text>[AssetData(1010200) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003205</GUID>
+      <Text>Wassermühle Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003206</GUID>
+      <Text>Wassermühle</Text>
+    </Text>
+    <Text>
+      <GUID>1999003209</GUID>
+      <Text>Flusssägemühle Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003210</GUID>
+      <Text>Flusssägemühle</Text>
+    </Text>
+    <Text>
+      <GUID>1999003211</GUID>
+      <Text>[AssetData(500091) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003218</GUID>
+      <Text>Wasserkraftwerk Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999003219</GUID>
+      <Text>Wasserkraftwerk</Text>
+    </Text>
+    <Text>
+      <GUID>1999003220</GUID>
+      <Text>Liefert sauberen Strom durch die Nutzung der schieren Kraft des rauschenden Flusses.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003221</GUID>
+      <Text>Alle Wasserkraftwerke</Text>
+    </Text>
+    <Text>
+      <GUID>1999003226</GUID>
+      <Text>Alle Flusssägemühlen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003232</GUID>
+      <Text>Alle Flussgebäude</Text>
+    </Text>
+    <Text>
+      <GUID>1999003234</GUID>
+      <Text>Beinhaltet alle Gebäude, die auf den neuen Flussbauplätzen errichtet werden können</Text>
+    </Text>
+    <Text>
+      <GUID>1999005262</GUID>
+      <Text>Wasserwerk</Text>
+    </Text>
+    <Text>
+      <GUID>1999005263</GUID>
+      <Text>Wasserwerk Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999005596</GUID>
+      <Text>Aufbereitete Trinkwasserversorgung</Text>
+    </Text>
+    <Text>
+      <GUID>1999010367</GUID>
+      <Text>Flussquarzgrube</Text>
+    </Text>
+    <Text>
+      <GUID>1999010368</GUID>
+      <Text>Flussquarzgrube Workarea</Text>
+    </Text>
+    <Text>
+      <GUID>1999010371</GUID>
+      <Text>Flusspapiermühle</Text>
+    </Text>
+    <Text>
+      <GUID>1999010372</GUID>
+      <Text>Flusspapiermühle Workarea</Text>
+    </Text>
+  </ModOp>
+</ModOps>

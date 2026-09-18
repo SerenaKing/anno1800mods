@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500300936</GUID>
+      <Text>存储饲料，促进生产。</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423054</GUID>
+      <Text>动物饲养</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1404423060</GUID>
+      <Text>饥饿的动物</Text>
+    </Text>
+    <Text>
+      <GUID>1404423055</GUID>
+      <Text>大型养猪厂</Text>
+    </Text>
+     <Text>
+      <GUID>1404423058</GUID>
+      <Text>筒仓 (猪饲料)</Text>
+    </Text>
+    <Text>
+      <GUID>1404423056</GUID>
+      <Text>先进猪圈</Text>
+    </Text>
+  </ModOp>
+</ModOps>
