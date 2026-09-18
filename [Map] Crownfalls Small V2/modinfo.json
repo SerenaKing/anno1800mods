@@ -1,0 +1,50 @@
+{
+  "Version": "1",
+  "ModID": "ame_crownfalls_small_v2_cfd96328",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "Map",
+    "English": "Map",
+    "French": "Map",
+    "German": "Map",
+    "Italian": "Map",
+    "Japanese": "Map",
+    "Korean": "Map",
+    "Polish": "Map",
+    "Russian": "Map",
+    "Spanish": "Map",
+    "Taiwanese": "Map"
+  },
+  "ModName": {
+    "Chinese": "Crownfalls Small V2",
+    "English": "Crownfalls Small V2",
+    "French": "Crownfalls Small V2",
+    "German": "Crownfalls Small V2",
+    "Italian": "Crownfalls Small V2",
+    "Japanese": "Crownfalls Small V2",
+    "Korean": "Crownfalls Small V2",
+    "Polish": "Crownfalls Small V2",
+    "Russian": "Crownfalls Small V2",
+    "Spanish": "Crownfalls Small V2",
+    "Taiwanese": "Crownfalls Small V2"
+  },
+  "Description": {
+    "Chinese": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "English": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "French": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "German": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Italian": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Japanese": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Korean": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Polish": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Russian": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Spanish": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Taiwanese": "Select Map Type 'Crownfalls Small V2' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same session and map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Community Map Editor",
+  "CreatorContact": "https://github.com/anno-mods/AnnoMapEditor",
+  "Image": null
+}

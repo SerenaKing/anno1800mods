@@ -1,0 +1,29 @@
+<ModOps>
+  <ModOp GUID="142011" Type="merge" Path="/Values/MapTemplate">
+    <TemplateFilename>data/ame/maps/pool/moderate_corners_ll_02.a7t</TemplateFilename>
+  </ModOp>
+  <ModOp GUID="142021" Type="merge" Path="/Values/MapTemplate">
+    <TemplateFilename>data/ame/maps/pool/moderate_corners_lm_01.a7t</TemplateFilename>
+  </ModOp>
+  <ModOp GUID="142022" Type="merge" Path="/Values/MapTemplate">
+    <TemplateFilename>data/ame/maps/pool/moderate_corners_ls_01.a7t</TemplateFilename>
+  </ModOp>
+  <ModOp GUID="142140" Type="merge" Path="/Values/MapTemplate">
+    <TemplateFilename>data/ame/maps/pool/moderate_corners_ml_01.a7t</TemplateFilename>
+  </ModOp>
+  <ModOp GUID="142141" Type="merge" Path="/Values/MapTemplate">
+    <TemplateFilename>data/ame/maps/pool/moderate_corners_mm_01.a7t</TemplateFilename>
+  </ModOp>
+  <ModOp GUID="142142" Type="merge" Path="/Values/MapTemplate">
+    <TemplateFilename>data/ame/maps/pool/moderate_corners_ms_01.a7t</TemplateFilename>
+  </ModOp>
+  <ModOp GUID="142143" Type="merge" Path="/Values/MapTemplate">
+    <TemplateFilename>data/ame/maps/pool/moderate_corners_sl_01.a7t</TemplateFilename>
+  </ModOp>
+  <ModOp GUID="142144" Type="merge" Path="/Values/MapTemplate">
+    <TemplateFilename>data/ame/maps/pool/moderate_corners_sm_01.a7t</TemplateFilename>
+  </ModOp>
+  <ModOp GUID="142145" Type="merge" Path="/Values/MapTemplate">
+    <TemplateFilename>data/ame/maps/pool/moderate_corners_ss_01.a7t</TemplateFilename>
+  </ModOp>
+</ModOps>
